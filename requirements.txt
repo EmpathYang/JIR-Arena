@@ -1,0 +1,11 @@
+openai
+azure-ai-inference
+boto3
+pypdf
+pyserini
+matplotlib
+matplotlib-venn
+pandas
+upsetplot
+sentence_transformers
+seaborn
