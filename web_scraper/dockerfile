@@ -1,0 +1,18 @@
+FROM python:3.8-slim-buster
+
+WORKDIR /docker-autolabel
+
+RUN apt-get update
+RUN apt-get install -y ffmpeg
+RUN apt-get install -y --no-install-recommends build-essential
+
+COPY requirements.txt requirements.txt
+RUN pip3 install -r requirements.txt
+RUN pip install pymongo[srv]
+COPY . .
+
+ENV PYTHONUNBUFFERED=1
+
+
+EXPOSE 80
+CMD ["python3", "-u", "server.py"]
