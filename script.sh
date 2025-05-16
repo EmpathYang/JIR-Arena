@@ -12,7 +12,7 @@ NARRATIVE_PATH="formatted/$FOLDER_NAME/formatted_narrative.json"
 TRANSCRIPT_PATH="formatted/$FOLDER_NAME/formatted_transcript.json"
 mkdir -p "$PROJECT_FOLDER"
 
-# # # Step 1: Parallelized per model and replication for video_agent.py and info_need_agent.py
+# # # Step 1: Parallelized per model and replication for user_information_need_simulation.video_agent and user_information_need_simulation.info_need_agent
 pids=()
 need_index=1
 for model_id in "${NEED_MODEL_IDS[@]}"; do
@@ -22,16 +22,16 @@ for model_id in "${NEED_MODEL_IDS[@]}"; do
             mkdir -p "$NEED_FOLDER"
             echo "$model_id" > "$NEED_FOLDER/model.txt"
 
-            # Parallelize video_agent.py and info_need_agent.py for the same need_x
-            echo "[need_$need_index | model: $model_id] Running video_agent.py"
-            python3 video_agent.py \
+            # Parallelize user_information_need_simulation.video_agent and user_information_need_simulation.info_need_agent for the same need_x
+            echo "[need_$need_index | model: $model_id] Running user_information_need_simulation.video_agent"
+            python3 -m user_information_need_simulation.video_agent \
                 --output_path "$NEED_FOLDER/video_need.json" \
                 --video_narrative "$NARRATIVE_PATH" \
                 --chunk_size $NEED_CHUNK_SIZE \
                 --model_id "$model_id" &  # Run in the background
 
-            echo "[need_$need_index | model: $model_id] Running info_need_agent.py"
-            python3 info_need_agent.py \
+            echo "[need_$need_index | model: $model_id] Running user_information_need_simulation.info_need_agent"
+            python3 -m user_information_need_simulation.info_need_agent \
                 --output_path "$NEED_FOLDER/info_need.json" \
                 --transcript_path "$TRANSCRIPT_PATH" \
                 --chunk_size $NEED_CHUNK_SIZE \
@@ -58,8 +58,8 @@ for need_folder in "$PROJECT_FOLDER"/need_*; do
         # for model_id in "${JUDGE_END_TIME_MODEL_IDS[@]}"; do
         JUDGE_FOLDER="$need_folder/judge_time_$judge_index"
         mkdir -p "$JUDGE_FOLDER"
-        echo "[$need_folder| model: $model_id] Running llm_judge.py on info_need"
-        python3 llm_judge.py \
+        echo "[$need_folder| model: $model_id] Running user_information_need_simulation.llm_judge on info_need"
+        python3 -m user_information_need_simulation.llm_judge \
             --transcript_file "$TRANSCRIPT_PATH" \
             --narrative_file "$NARRATIVE_PATH" \
             --needs_file "$need_folder/info_need.json" \
@@ -70,8 +70,8 @@ for need_folder in "$PROJECT_FOLDER"/need_*; do
             --n_next 5 \
             --mode end_time &
 
-        echo "[$need_folder| model: $model_id] Running llm_judge.py on video_need"
-        python3 llm_judge.py \
+        echo "[$need_folder| model: $model_id] Running user_information_need_simulation.llm_judge on video_need"
+        python3 -m user_information_need_simulation.llm_judge \
             --transcript_file "$NARRATIVE_PATH" \
             --narrative_file "$NARRATIVE_PATH" \
             --needs_file "$need_folder/video_need.json" \
@@ -105,9 +105,9 @@ for need_folder in "$PROJECT_FOLDER"/need_*; do
                 else
                     SENTENCES="$NARRATIVE_PATH"
                 fi
-                echo "[$judge_folder] Running end_time_finder.py on [$base_file]"
+                echo "[$judge_folder] Running user_information_need_simulation.end_time_finder on [$base_file]"
                 output_file="${judge_file%_output.json}_updated_output.json"
-                python3 end_time_finder.py \
+                python3 -m user_information_need_simulation.end_time_finder \
                     --judge_output "$judge_file" \
                     --sentences "$SENTENCES" \
                     --output "$output_file"
@@ -116,7 +116,7 @@ for need_folder in "$PROJECT_FOLDER"/need_*; do
         pids+=($!)
     done
 done
-wait  # Wait for all end_time_finder jobs
+wait  # Wait for all user_information_need_simulation.end_time_finder jobs
 
 # # # # Wait for all backgrounded subshells to complete
 for pid in "${pids[@]}"; do
@@ -124,25 +124,25 @@ for pid in "${pids[@]}"; do
 done
 
 # # # Step 4: Aggregator step — single job
-echo "[FINAL] Running aggregator.py"
+echo "[FINAL] Running aggregator"
 for need_folder in "$PROJECT_FOLDER"/need_*; do
-    python3 aggregator.py \
+    python3 -m user_information_need_simulation.aggregator \
         --output "$need_folder/"aggregated.json \
         --input_folder "$need_folder/" 
 done
 wait
 
 # # # # # Step 4: Deduplication step — single job
-echo "[FINAL] Running deduplicator.py"
-python3 deduplicator.py \
+echo "[FINAL] Running deduplicator"
+python3 -m user_information_need_simulation.deduplicator \
     --output "$PROJECT_FOLDER/"deduplicated.json \
     --input_folder "$PROJECT_FOLDER/" \
     --threshold 0.75
 wait
 
 # # # # Step 5: Judging end_time for missing ones
-echo "Running llm_judge_time.py to find missing end times"
-python3 llm_judge_time.py \
+echo "Running user_information_need_simulation.llm_judge_time to find missing end times"
+python3 -m user_information_need_simulation.llm_judge_time \
     --transcript_file "$TRANSCRIPT_PATH" \
     --narrative_file "$NARRATIVE_PATH" \
     --needs_file "$PROJECT_FOLDER/deduplicated.json" \
@@ -159,9 +159,9 @@ judge_index=1
 for model_id in "${JUDGE_SCORE_MODEL_IDS[@]}"; do
     JUDGE_FOLDER="$PROJECT_FOLDER/judge_score_$judge_index"
     mkdir -p "$JUDGE_FOLDER"
-    echo "[$JUDGE_FOLDER | model: $model_id] Running llm_judge.py"
+    echo "[$JUDGE_FOLDER | model: $model_id] Running user_information_need_simulation.llm_judge"
 
-    python3 llm_judge.py \
+    python3 -m user_information_need_simulation.llm_judge \
         --transcript_file "$TRANSCRIPT_PATH" \
         --narrative_file "$NARRATIVE_PATH" \
         --needs_file "$PROJECT_FOLDER/deduplicated_updated.json" \
@@ -181,15 +181,15 @@ for pid in "${pids[@]}"; do
 done
 
 # # # Step 6: Voting Aggregator
-echo "[$PROJECT_FOLDER] Running voting_aggregator.py"
-python3 voting_aggregator.py \
+echo "[$PROJECT_FOLDER] Running voting_aggregator"
+python3 -m user_information_need_simulation.voting_aggregator \
     --folder_path "$PROJECT_FOLDER/" \
     --score_threshold 6 \
     --voting_threshold 2
 
 # # # Step 7: Aggregate Human Annotations
-# echo "[$PROJECT_FOLDER] Running human_aggregator.py"
-# python3 human_aggregator.py \
+# echo "[$PROJECT_FOLDER] Running human_aggregator"
+# python3 -m user_information_need_simulation.human_aggregator \
 #     --output_file "$PROJECT_FOLDER/"final_aggr_output.json \
 #     --input_file "$PROJECT_FOLDER/final_output.json" \
 #     --input_human_file "$PROJECT_FOLDER/final_output.json" \
