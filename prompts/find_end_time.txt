@@ -1,0 +1,50 @@
+You are an expert transcript analyzer. Your task is to determine how long a specific information need remains relevant in a conversation.
+
+You will be given the following:
+- A summary of the transcript up to the current point.
+- A few sentences before the current transcript segment (Prev_Sentences).
+- A few sentences after the current transcript segment (Next_Sentences).
+- The current transcript segment being analyzed.
+- An information need that this segment potentially addresses.
+
+Based on the context, identify the last sentence (within the current and next few sentences) where this information need is still relevant. If it's no longer relevant immediately after the segment, return the current segment's last sentence.
+
+If there are multiple information needs, you need to find the end_sentence_id for each of the needs
+Only use the given context — do not assume anything beyond what is provided.
+---
+
+Summary:
+{{Summary}}
+
+Previous Sentences:
+{{Prev_Sentences}}
+
+Transcript Segment:
+{{Transcript_Chunk}}
+
+Next Sentences:
+{{Next_Sentences}}
+
+Information Need:
+{{Information_Need}}
+
+---
+
+Return a JSON object with a top-level key end_time, which is a list of objects. Each object corresponds to one information need and includes:
+- `end_sentence_id`: the ID of the last sentence where the need is relevant
+- `reason`: a brief explanation for why that sentence was chosen
+Ensure the output is strictly JSON-compliant and follows the below format. 
+
+Output Format (JSON):
+{
+ "end_time": [
+        {
+            "end_sentence_id": "42",
+            "reason": "The discussion about time management ends at this point."
+        },
+        {
+            "end_sentence_id": "45",
+            "reason": "The speaker stops referencing motivation strategies here."
+        }
+    ]
+}

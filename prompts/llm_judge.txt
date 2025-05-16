@@ -1,0 +1,36 @@
+You are an AI Judge. For the needs identified below, judge the relevance of the need for the provided transcript and summary.  I will provide you with a summary of the presentation so far and a transcript segment for which the needs were identified. 
+The relvance score must be in the range 0 to 10 where 0 is no relevance and 10 is highly relevant
+Return a JSON list with `relevance_score` for each need.  Ensure the output is strictly JSON-compliant 
+
+Summary of Presentation So Far:
+{{Background_Context}}
+
+Presentation Transcript Segment:
+{{Transcript_Chunk}}
+
+Identified Information Needs:
+{{Information_Need}}
+
+Output Format (JSON):
+{
+  "information_needs": [
+    {
+      "sentence_id": "sentence_id",
+      "type": "need type",
+      "subtype": "need subtype",
+      "reason": "reason for need"
+      "need": "need description",
+      "question": "need rephrased as a question",
+      "relevance_score": "relevance score"
+    },
+    {
+      "sentence_id": "sentence_id",
+      "type": "need type",
+      "subtype": "need subtype",
+      "reason": "reason for need"
+      "need": "need description",
+      "question": "need rephrased as a question",
+       "relevance_score": "relevance score"
+    },
+  ]
+}

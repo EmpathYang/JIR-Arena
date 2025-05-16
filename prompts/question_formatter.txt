@@ -1,0 +1,10 @@
+Convert the following sentence into a question. Questions need to be Wh- questions
+
+Input:
+
+Sentence:
+{{text}}
+
+Output Format (JSON):
+{"question" : "Generated Question"}
+

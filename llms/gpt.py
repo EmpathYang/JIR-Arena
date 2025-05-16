@@ -10,6 +10,9 @@ import os
 
 from llms.utils import DEFAULT_SYSTEM_PROMPT
 
+from dotenv import load_dotenv
+load_dotenv()
+
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", None)
 AZURE_ENDPOINT = os.environ.get("AZURE_ENDPOINT", None)
 headers = {
@@ -36,14 +39,8 @@ def call_gpt(prompt, model_id="gpt-4o", system_prompt=DEFAULT_SYSTEM_PROMPT):
                 presence_penalty=0,
                 stop=None
             )
-            if response.choices[0].message.content:
-                return response.choices[0].message.content.strip()  
-            else: 
-                print(f"No response from:\n{prompt}")
-                if input("Enter e to exit, or otherwise will return empty string: ").strip().lower() in ["e", "exit"]:
-                    exit()
-                else:
-                    return ""
+            
+            return response.choices[0].message.content.strip()
         except openai.AuthenticationError as e:
             print(e)
             return None
@@ -156,4 +153,4 @@ def call_gpt_with_messages(messages, model_id="gpt-4o", system_prompt=DEFAULT_SY
             num_attempts += 1
 
 if __name__ == "__main__":
-    print(call_gpt("Hi"))    
+    print(call_gpt("hello",model_id="gpt-4o"))    

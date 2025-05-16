@@ -1,0 +1,48 @@
+Analyze this transcript segment for information needs. I will provide you with a summary of the presentation so far and a transcript segment from the presentation. 
+
+Categorize each information need into one of the following categories:
+
+1. Visual References (graphs, images, diagrams, etc.)  
+2. Technical Terms (jargon, acronyms, formulas, definitions)  
+3. Data & Sources (uncited stats, vague claims like "studies show...")  
+4. Processes/Methods (unexplained workflows/algorithms)  
+5. External Content (papers, tools, historical references without context)  
+6. Ambiguous Language (vague terms like "many" or "significant")  
+7. Missing Context (assumed prior knowledge, undefined goals)  
+8. Instructions/Actions (unclear steps, implied tasks)  
+9. Code/Formulas (unexplained pseudocode/equations)  
+10. Future Work (vague next steps, unresolved questions)  
+11. Conceptual Understanding (concepts, ideas)
+
+I need an exhaustinve list of information needs. Each sentence can need multiple information needs.
+Return a JSON list with `type`, `subtype`, and `reason` for each need. Ensure the output is strictly JSON-compliant 
+
+Summary of Presentation So Far:
+{{Background_Context}}
+
+Presentation Transcript Segment:
+{{Transcript_Chunk}}
+
+Output Format (JSON):
+{
+  "information_needs": [
+    {
+      "sentence_id": "sentence_id",
+      "type": "need type",
+      "subtype": "need subtype",
+      "reason": "reason for need"
+    },
+    {
+      "sentence_id": "sentence_id",
+      "type": "need type",
+      "subtype": "need subtype",
+      "reason": "reason for need"
+    },
+    {
+      "sentence_id": "sentence_id",
+      "type": "need type",
+      "subtype": "need subtype",
+      "reason": "reason for need"
+    }
+  ]
+}
