@@ -1,0 +1,9336 @@
+{
+	"message": {
+	  "transcript": [
+		{
+		  "chunks": [
+			{
+			  "end": 0.48,
+			  "start": 0,
+			  "text": "Welcome"
+			},
+			{
+			  "end": 0.84,
+			  "start": 0.48,
+			  "text": "back"
+			},
+			{
+			  "end": 1.24,
+			  "start": 0.84,
+			  "text": "from"
+			},
+			{
+			  "end": 1.48,
+			  "start": 1.24,
+			  "text": "the"
+			},
+			{
+			  "end": 1.84,
+			  "start": 1.48,
+			  "text": "coffee"
+			},
+			{
+			  "end": 2.16,
+			  "start": 1.84,
+			  "text": "break."
+			},
+			{
+			  "end": 2.24,
+			  "start": 2.16,
+			  "text": "Sorry"
+			},
+			{
+			  "end": 2.6,
+			  "start": 2.24,
+			  "text": "that"
+			},
+			{
+			  "end": 2.72,
+			  "start": 2.6,
+			  "text": "it"
+			},
+			{
+			  "end": 3,
+			  "start": 2.72,
+			  "text": "was"
+			},
+			{
+			  "end": 3.24,
+			  "start": 3,
+			  "text": "shorter"
+			},
+			{
+			  "end": 3.24,
+			  "start": 3.24,
+			  "text": "than"
+			},
+			{
+			  "end": 3.72,
+			  "start": 3.24,
+			  "text": "half"
+			},
+			{
+			  "end": 3.92,
+			  "start": 3.72,
+			  "text": "an"
+			},
+			{
+			  "end": 4.16,
+			  "start": 3.92,
+			  "text": "hour,"
+			},
+			{
+			  "end": 4.76,
+			  "start": 4.16,
+			  "text": "but"
+			},
+			{
+			  "end": 4.96,
+			  "start": 4.76,
+			  "text": "we"
+			},
+			{
+			  "end": 5.2,
+			  "start": 4.96,
+			  "text": "cannot"
+			},
+			{
+			  "end": 5.4,
+			  "start": 5.2,
+			  "text": "wait"
+			},
+			{
+			  "end": 6.36,
+			  "start": 5.4,
+			  "text": "longer."
+			},
+			{
+			  "end": 6.6,
+			  "start": 6.36,
+			  "text": "My"
+			},
+			{
+			  "end": 6.64,
+			  "start": 6.6,
+			  "text": "name"
+			},
+			{
+			  "end": 6.76,
+			  "start": 6.64,
+			  "text": "is"
+			},
+			{
+			  "end": 7.2,
+			  "start": 6.76,
+			  "text": "Gabriel"
+			},
+			{
+			  "end": 7.8,
+			  "start": 7.2,
+			  "text": "Atissa."
+			},
+			{
+			  "end": 8.28,
+			  "start": 7.8,
+			  "text": "I'm"
+			},
+			{
+			  "end": 8.4,
+			  "start": 8.28,
+			  "text": "doing"
+			},
+			{
+			  "end": 8.6,
+			  "start": 8.4,
+			  "text": "my"
+			},
+			{
+			  "end": 9.12,
+			  "start": 8.6,
+			  "text": "PhD"
+			},
+			{
+			  "end": 9.36,
+			  "start": 9.12,
+			  "text": "at"
+			},
+			{
+			  "end": 9.72,
+			  "start": 9.36,
+			  "text": "the"
+			},
+			{
+			  "end": 10.04,
+			  "start": 9.72,
+			  "text": "Aint"
+			},
+			{
+			  "end": 10.24,
+			  "start": 10.04,
+			  "text": "Ogun"
+			},
+			{
+			  "end": 10.88,
+			  "start": 10.24,
+			  "text": "University"
+			},
+			{
+			  "end": 10.88,
+			  "start": 10.88,
+			  "text": "of"
+			},
+			{
+			  "end": 12.4,
+			  "start": 10.88,
+			  "text": "Technology."
+			},
+			{
+			  "end": 12.52,
+			  "start": 12.4,
+			  "text": "And"
+			},
+			{
+			  "end": 13.12,
+			  "start": 12.52,
+			  "text": "today"
+			},
+			{
+			  "end": 13.48,
+			  "start": 13.12,
+			  "text": "I"
+			},
+			{
+			  "end": 14.08,
+			  "start": 13.48,
+			  "text": "would"
+			},
+			{
+			  "end": 14.24,
+			  "start": 14.08,
+			  "text": "like"
+			},
+			{
+			  "end": 14.36,
+			  "start": 14.24,
+			  "text": "to"
+			},
+			{
+			  "end": 14.68,
+			  "start": 14.36,
+			  "text": "introduce"
+			},
+			{
+			  "end": 14.72,
+			  "start": 14.68,
+			  "text": "you"
+			},
+			{
+			  "end": 14.88,
+			  "start": 14.72,
+			  "text": "to"
+			},
+			{
+			  "end": 15.24,
+			  "start": 14.88,
+			  "text": "some"
+			},
+			{
+			  "end": 15.8,
+			  "start": 15.24,
+			  "text": "of"
+			},
+			{
+			  "end": 16.12,
+			  "start": 15.8,
+			  "text": "our"
+			},
+			{
+			  "end": 16.68,
+			  "start": 16.12,
+			  "text": "collaborative"
+			},
+			{
+			  "end": 17.04,
+			  "start": 16.68,
+			  "text": "study"
+			},
+			{
+			  "end": 17.76,
+			  "start": 17.04,
+			  "text": "findings"
+			},
+			{
+			  "end": 18.08,
+			  "start": 17.76,
+			  "text": "that"
+			},
+			{
+			  "end": 18.08,
+			  "start": 18.08,
+			  "text": "we"
+			},
+			{
+			  "end": 18.16,
+			  "start": 18.08,
+			  "text": "did"
+			},
+			{
+			  "end": 18.72,
+			  "start": 18.16,
+			  "text": "together"
+			},
+			{
+			  "end": 19,
+			  "start": 18.72,
+			  "text": "with"
+			},
+			{
+			  "end": 19.6,
+			  "start": 19,
+			  "text": "Antienu"
+			},
+			{
+			  "end": 20.36,
+			  "start": 19.6,
+			  "text": "and"
+			},
+			{
+			  "end": 20.64,
+			  "start": 20.36,
+			  "text": "Citi"
+			},
+			{
+			  "end": 21.32,
+			  "start": 20.64,
+			  "text": "Sophia"
+			},
+			{
+			  "end": 21.8,
+			  "start": 21.32,
+			  "text": "and"
+			},
+			{
+			  "end": 23.2,
+			  "start": 21.8,
+			  "text": "Michalis."
+			},
+			{
+			  "end": 23.84,
+			  "start": 23.2,
+			  "text": "So,"
+			},
+			{
+			  "end": 24.48,
+			  "start": 23.84,
+			  "text": "yeah,"
+			},
+			{
+			  "end": 24.48,
+			  "start": 24.48,
+			  "text": "just"
+			},
+			{
+			  "end": 25.76,
+			  "start": 24.48,
+			  "text": "a"
+			},
+			{
+			  "end": 25.84,
+			  "start": 25.76,
+			  "text": "little"
+			},
+			{
+			  "end": 26.4,
+			  "start": 25.84,
+			  "text": "bit"
+			},
+			{
+			  "end": 26.8,
+			  "start": 26.4,
+			  "text": "of"
+			},
+			{
+			  "end": 27.24,
+			  "start": 26.8,
+			  "text": "background"
+			},
+			{
+			  "end": 28.48,
+			  "start": 27.24,
+			  "text": "information."
+			},
+			{
+			  "end": 28.92,
+			  "start": 28.48,
+			  "text": "Our"
+			},
+			{
+			  "end": 29.28,
+			  "start": 28.92,
+			  "text": "study"
+			},
+			{
+			  "end": 29.32,
+			  "start": 29.28,
+			  "text": "had"
+			},
+			{
+			  "end": 29.68,
+			  "start": 29.32,
+			  "text": "two"
+			},
+			{
+			  "end": 29.96,
+			  "start": 29.68,
+			  "text": "main"
+			}
+		  ],
+		  "text": " Welcome back from the coffee break. Sorry that it was shorter than half an hour, but we cannot wait longer. My name is Gabriel Atissa. I'm doing my PhD at the Aint Ogun University of Technology. And today I would like to introduce you to some of our collaborative study findings that we did together with Antienu and Citi Sophia and Michalis. So, yeah, just a little bit of background information. Our study had two main"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 30.6,
+			  "start": 30,
+			  "text": "The"
+			},
+			{
+			  "end": 31.2,
+			  "start": 30.6,
+			  "text": "first"
+			},
+			{
+			  "end": 31.76,
+			  "start": 31.2,
+			  "text": "main"
+			},
+			{
+			  "end": 32,
+			  "start": 31.76,
+			  "text": "pillar"
+			},
+			{
+			  "end": 32.68,
+			  "start": 32,
+			  "text": "was"
+			},
+			{
+			  "end": 33.12,
+			  "start": 32.68,
+			  "text": "the"
+			},
+			{
+			  "end": 33.88,
+			  "start": 33.12,
+			  "text": "relationship"
+			},
+			{
+			  "end": 34.4,
+			  "start": 33.88,
+			  "text": "between"
+			},
+			{
+			  "end": 34.56,
+			  "start": 34.4,
+			  "text": "fun"
+			},
+			{
+			  "end": 34.96,
+			  "start": 34.56,
+			  "text": "and"
+			},
+			{
+			  "end": 36,
+			  "start": 34.96,
+			  "text": "learning."
+			},
+			{
+			  "end": 36.24,
+			  "start": 36,
+			  "text": "What"
+			},
+			{
+			  "end": 36.36,
+			  "start": 36.24,
+			  "text": "do"
+			},
+			{
+			  "end": 36.48,
+			  "start": 36.36,
+			  "text": "we"
+			},
+			{
+			  "end": 36.68,
+			  "start": 36.48,
+			  "text": "know"
+			},
+			{
+			  "end": 37.2,
+			  "start": 36.68,
+			  "text": "about"
+			},
+			{
+			  "end": 37.84,
+			  "start": 37.2,
+			  "text": "it?"
+			},
+			{
+			  "end": 38.96,
+			  "start": 37.84,
+			  "text": "Actually,"
+			},
+			{
+			  "end": 39.56,
+			  "start": 38.96,
+			  "text": "earlier"
+			},
+			{
+			  "end": 40.72,
+			  "start": 39.56,
+			  "text": "research"
+			},
+			{
+			  "end": 41.08,
+			  "start": 40.72,
+			  "text": "was"
+			},
+			{
+			  "end": 41.72,
+			  "start": 41.08,
+			  "text": "rather"
+			},
+			{
+			  "end": 42.28,
+			  "start": 41.72,
+			  "text": "inconclusive."
+			},
+			{
+			  "end": 42.6,
+			  "start": 42.28,
+			  "text": "First"
+			},
+			{
+			  "end": 42.64,
+			  "start": 42.6,
+			  "text": "of"
+			},
+			{
+			  "end": 43.36,
+			  "start": 42.64,
+			  "text": "all,"
+			},
+			{
+			  "end": 43.6,
+			  "start": 43.36,
+			  "text": "is"
+			},
+			{
+			  "end": 44.52,
+			  "start": 43.6,
+			  "text": "there"
+			},
+			{
+			  "end": 44.92,
+			  "start": 44.52,
+			  "text": "a"
+			},
+			{
+			  "end": 46.04,
+			  "start": 44.92,
+			  "text": "relationship"
+			},
+			{
+			  "end": 46.32,
+			  "start": 46.04,
+			  "text": "between"
+			},
+			{
+			  "end": 46.48,
+			  "start": 46.32,
+			  "text": "fun"
+			},
+			{
+			  "end": 46.68,
+			  "start": 46.48,
+			  "text": "and"
+			},
+			{
+			  "end": 47.04,
+			  "start": 46.68,
+			  "text": "learning?"
+			},
+			{
+			  "end": 47.08,
+			  "start": 47.04,
+			  "text": "And"
+			},
+			{
+			  "end": 47.64,
+			  "start": 47.08,
+			  "text": "if"
+			},
+			{
+			  "end": 47.88,
+			  "start": 47.64,
+			  "text": "there"
+			},
+			{
+			  "end": 48.28,
+			  "start": 47.88,
+			  "text": "is"
+			},
+			{
+			  "end": 48.68,
+			  "start": 48.28,
+			  "text": "a"
+			},
+			{
+			  "end": 49.24,
+			  "start": 48.68,
+			  "text": "relationship"
+			},
+			{
+			  "end": 49.32,
+			  "start": 49.24,
+			  "text": "between"
+			},
+			{
+			  "end": 49.68,
+			  "start": 49.32,
+			  "text": "fun"
+			},
+			{
+			  "end": 50.64,
+			  "start": 49.68,
+			  "text": "and"
+			},
+			{
+			  "end": 51,
+			  "start": 50.64,
+			  "text": "learning,"
+			},
+			{
+			  "end": 51.16,
+			  "start": 51,
+			  "text": "is"
+			},
+			{
+			  "end": 51.24,
+			  "start": 51.16,
+			  "text": "it"
+			},
+			{
+			  "end": 51.32,
+			  "start": 51.24,
+			  "text": "a"
+			},
+			{
+			  "end": 51.88,
+			  "start": 51.32,
+			  "text": "positive"
+			},
+			{
+			  "end": 52.32,
+			  "start": 51.88,
+			  "text": "or"
+			},
+			{
+			  "end": 53.6,
+			  "start": 52.32,
+			  "text": "a"
+			},
+			{
+			  "end": 54.44,
+			  "start": 53.6,
+			  "text": "negative"
+			},
+			{
+			  "end": 55.56,
+			  "start": 54.44,
+			  "text": "relationship?"
+			},
+			{
+			  "end": 55.72,
+			  "start": 55.56,
+			  "text": "Now,"
+			},
+			{
+			  "end": 55.76,
+			  "start": 55.72,
+			  "text": "more"
+			},
+			{
+			  "end": 56.68,
+			  "start": 55.76,
+			  "text": "recent"
+			},
+			{
+			  "end": 57.56,
+			  "start": 56.68,
+			  "text": "empirical"
+			},
+			{
+			  "end": 57.88,
+			  "start": 57.56,
+			  "text": "research"
+			},
+			{
+			  "end": 58.08,
+			  "start": 57.88,
+			  "text": "is"
+			},
+			{
+			  "end": 58.52,
+			  "start": 58.08,
+			  "text": "pointing"
+			},
+			{
+			  "end": 58.84,
+			  "start": 58.52,
+			  "text": "toward"
+			},
+			{
+			  "end": 59.08,
+			  "start": 58.84,
+			  "text": "one"
+			},
+			{
+			  "end": 59.76,
+			  "start": 59.08,
+			  "text": "direction,"
+			},
+			{
+			  "end": 59.96,
+			  "start": 59.76,
+			  "text": "namely"
+			}
+		  ],
+		  "text": " The first main pillar was the relationship between fun and learning. What do we know about it? Actually, earlier research was rather inconclusive. First of all, is there a relationship between fun and learning? And if there is a relationship between fun and learning, is it a positive or a negative relationship? Now, more recent empirical research is pointing toward one direction, namely"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 60.92,
+			  "start": 60,
+			  "text": "that"
+			},
+			{
+			  "end": 61.44,
+			  "start": 60.92,
+			  "text": "there"
+			},
+			{
+			  "end": 61.68,
+			  "start": 61.44,
+			  "text": "is"
+			},
+			{
+			  "end": 61.76,
+			  "start": 61.68,
+			  "text": "a"
+			},
+			{
+			  "end": 62.2,
+			  "start": 61.76,
+			  "text": "relationship"
+			},
+			{
+			  "end": 62.24,
+			  "start": 62.2,
+			  "text": "between"
+			},
+			{
+			  "end": 62.84,
+			  "start": 62.24,
+			  "text": "fun"
+			},
+			{
+			  "end": 63.32,
+			  "start": 62.84,
+			  "text": "and"
+			},
+			{
+			  "end": 63.96,
+			  "start": 63.32,
+			  "text": "learning"
+			},
+			{
+			  "end": 64.24,
+			  "start": 63.96,
+			  "text": "and"
+			},
+			{
+			  "end": 64.36,
+			  "start": 64.24,
+			  "text": "that"
+			},
+			{
+			  "end": 64.88,
+			  "start": 64.36,
+			  "text": "relationship"
+			},
+			{
+			  "end": 65.04,
+			  "start": 64.88,
+			  "text": "is"
+			},
+			{
+			  "end": 65.6,
+			  "start": 65.04,
+			  "text": "actually"
+			},
+			{
+			  "end": 66.84,
+			  "start": 65.6,
+			  "text": "positive."
+			},
+			{
+			  "end": 67.4,
+			  "start": 66.84,
+			  "text": "However,"
+			},
+			{
+			  "end": 67.72,
+			  "start": 67.4,
+			  "text": "as"
+			},
+			{
+			  "end": 67.92,
+			  "start": 67.72,
+			  "text": "we"
+			},
+			{
+			  "end": 68.32,
+			  "start": 67.92,
+			  "text": "already"
+			},
+			{
+			  "end": 68.8,
+			  "start": 68.32,
+			  "text": "talked"
+			},
+			{
+			  "end": 70.32,
+			  "start": 68.8,
+			  "text": "about"
+			},
+			{
+			  "end": 70.52,
+			  "start": 70.32,
+			  "text": "a"
+			},
+			{
+			  "end": 70.8,
+			  "start": 70.52,
+			  "text": "bit"
+			},
+			{
+			  "end": 71.12,
+			  "start": 70.8,
+			  "text": "about"
+			},
+			{
+			  "end": 72.36,
+			  "start": 71.12,
+			  "text": "evaluating"
+			},
+			{
+			  "end": 74.2,
+			  "start": 72.36,
+			  "text": "evaluation"
+			},
+			{
+			  "end": 74.84,
+			  "start": 74.2,
+			  "text": "yesterday"
+			},
+			{
+			  "end": 75.76,
+			  "start": 74.84,
+			  "text": "as"
+			},
+			{
+			  "end": 76.44,
+			  "start": 75.76,
+			  "text": "well,"
+			},
+			{
+			  "end": 77.2,
+			  "start": 76.44,
+			  "text": "evaluation"
+			},
+			{
+			  "end": 77.2,
+			  "start": 77.2,
+			  "text": "of"
+			},
+			{
+			  "end": 77.44,
+			  "start": 77.2,
+			  "text": "fun"
+			},
+			{
+			  "end": 78.04,
+			  "start": 77.44,
+			  "text": "is"
+			},
+			{
+			  "end": 78.28,
+			  "start": 78.04,
+			  "text": "quite"
+			},
+			{
+			  "end": 79.04,
+			  "start": 78.28,
+			  "text": "difficult"
+			},
+			{
+			  "end": 79.88,
+			  "start": 79.04,
+			  "text": "and"
+			},
+			{
+			  "end": 80.64,
+			  "start": 79.88,
+			  "text": "especially"
+			},
+			{
+			  "end": 80.72,
+			  "start": 80.64,
+			  "text": "in"
+			},
+			{
+			  "end": 80.96,
+			  "start": 80.72,
+			  "text": "this"
+			},
+			{
+			  "end": 81.2,
+			  "start": 80.96,
+			  "text": "community"
+			},
+			{
+			  "end": 81.28,
+			  "start": 81.2,
+			  "text": "in"
+			},
+			{
+			  "end": 81.52,
+			  "start": 81.28,
+			  "text": "the"
+			},
+			{
+			  "end": 82.08,
+			  "start": 81.52,
+			  "text": "field"
+			},
+			{
+			  "end": 82.84,
+			  "start": 82.08,
+			  "text": "of"
+			},
+			{
+			  "end": 83.04,
+			  "start": 82.84,
+			  "text": "child"
+			},
+			{
+			  "end": 83.68,
+			  "start": 83.04,
+			  "text": "computer"
+			},
+			{
+			  "end": 84.68,
+			  "start": 83.68,
+			  "text": "interaction,"
+			},
+			{
+			  "end": 84.88,
+			  "start": 84.68,
+			  "text": "it"
+			},
+			{
+			  "end": 85.16,
+			  "start": 84.88,
+			  "text": "was"
+			},
+			{
+			  "end": 85.68,
+			  "start": 85.16,
+			  "text": "largely"
+			},
+			{
+			  "end": 86.16,
+			  "start": 85.68,
+			  "text": "focused"
+			},
+			{
+			  "end": 86.36,
+			  "start": 86.16,
+			  "text": "on"
+			},
+			{
+			  "end": 87.12,
+			  "start": 86.36,
+			  "text": "self-recourse."
+			},
+			{
+			  "end": 87.28,
+			  "start": 87.12,
+			  "text": "So"
+			},
+			{
+			  "end": 88.2,
+			  "start": 87.28,
+			  "text": "children"
+			},
+			{
+			  "end": 88.68,
+			  "start": 88.2,
+			  "text": "were"
+			},
+			{
+			  "end": 88.96,
+			  "start": 88.68,
+			  "text": "mostly"
+			},
+			{
+			  "end": 89.36,
+			  "start": 88.96,
+			  "text": "asked"
+			},
+			{
+			  "end": 89.72,
+			  "start": 89.36,
+			  "text": "after"
+			},
+			{
+			  "end": 89.96,
+			  "start": 89.72,
+			  "text": "an"
+			}
+		  ],
+		  "text": " that there is a relationship between fun and learning and that relationship is actually positive. However, as we already talked about a bit about evaluating evaluation yesterday as well, evaluation of fun is quite difficult and especially in this community in the field of child computer interaction, it was largely focused on self-recourse. So children were mostly asked after an"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 90.36,
+			  "start": 90,
+			  "text": "activity"
+			},
+			{
+			  "end": 90.84,
+			  "start": 90.36,
+			  "text": "to"
+			},
+			{
+			  "end": 91.4,
+			  "start": 90.84,
+			  "text": "evaluate"
+			},
+			{
+			  "end": 91.72,
+			  "start": 91.4,
+			  "text": "how"
+			},
+			{
+			  "end": 92.12,
+			  "start": 91.72,
+			  "text": "the"
+			},
+			{
+			  "end": 92.6,
+			  "start": 92.12,
+			  "text": "experience"
+			},
+			{
+			  "end": 93.4,
+			  "start": 92.6,
+			  "text": "was."
+			},
+			{
+			  "end": 95.24,
+			  "start": 93.4,
+			  "text": "And"
+			},
+			{
+			  "end": 95.52,
+			  "start": 95.24,
+			  "text": "there"
+			},
+			{
+			  "end": 96.6,
+			  "start": 95.52,
+			  "text": "are"
+			},
+			{
+			  "end": 97.12,
+			  "start": 96.6,
+			  "text": "issues"
+			},
+			{
+			  "end": 97.12,
+			  "start": 97.12,
+			  "text": "with"
+			},
+			{
+			  "end": 97.4,
+			  "start": 97.12,
+			  "text": "this"
+			},
+			{
+			  "end": 98.04,
+			  "start": 97.4,
+			  "text": "approach."
+			},
+			{
+			  "end": 98.04,
+			  "start": 98.04,
+			  "text": "Of"
+			},
+			{
+			  "end": 98.24,
+			  "start": 98.04,
+			  "text": "course"
+			},
+			{
+			  "end": 98.32,
+			  "start": 98.24,
+			  "text": "there"
+			},
+			{
+			  "end": 98.64,
+			  "start": 98.32,
+			  "text": "are"
+			},
+			{
+			  "end": 99.52,
+			  "start": 98.64,
+			  "text": "methodological"
+			},
+			{
+			  "end": 99.88,
+			  "start": 99.52,
+			  "text": "issues"
+			},
+			{
+			  "end": 100.68,
+			  "start": 99.88,
+			  "text": "whether"
+			},
+			{
+			  "end": 100.96,
+			  "start": 100.68,
+			  "text": "the"
+			},
+			{
+			  "end": 101.76,
+			  "start": 100.96,
+			  "text": "self-reports"
+			},
+			{
+			  "end": 102.08,
+			  "start": 101.76,
+			  "text": "are"
+			},
+			{
+			  "end": 102.56,
+			  "start": 102.08,
+			  "text": "reliable"
+			},
+			{
+			  "end": 102.68,
+			  "start": 102.56,
+			  "text": "with"
+			},
+			{
+			  "end": 103.04,
+			  "start": 102.68,
+			  "text": "children."
+			},
+			{
+			  "end": 103.36,
+			  "start": 103.04,
+			  "text": "But"
+			},
+			{
+			  "end": 103.76,
+			  "start": 103.36,
+			  "text": "the"
+			},
+			{
+			  "end": 104.68,
+			  "start": 103.76,
+			  "text": "main"
+			},
+			{
+			  "end": 105.32,
+			  "start": 104.68,
+			  "text": "issue"
+			},
+			{
+			  "end": 105.64,
+			  "start": 105.32,
+			  "text": "is"
+			},
+			{
+			  "end": 106,
+			  "start": 105.64,
+			  "text": "that"
+			},
+			{
+			  "end": 106.16,
+			  "start": 106,
+			  "text": "if"
+			},
+			{
+			  "end": 106.24,
+			  "start": 106.16,
+			  "text": "you"
+			},
+			{
+			  "end": 106.72,
+			  "start": 106.24,
+			  "text": "ask"
+			},
+			{
+			  "end": 107.12,
+			  "start": 106.72,
+			  "text": "children"
+			},
+			{
+			  "end": 107.4,
+			  "start": 107.12,
+			  "text": "after"
+			},
+			{
+			  "end": 107.8,
+			  "start": 107.4,
+			  "text": "they"
+			},
+			{
+			  "end": 108.88,
+			  "start": 107.8,
+			  "text": "participated"
+			},
+			{
+			  "end": 109.36,
+			  "start": 108.88,
+			  "text": "in"
+			},
+			{
+			  "end": 109.76,
+			  "start": 109.36,
+			  "text": "an"
+			},
+			{
+			  "end": 110.36,
+			  "start": 109.76,
+			  "text": "activity"
+			},
+			{
+			  "end": 110.44,
+			  "start": 110.36,
+			  "text": "or"
+			},
+			{
+			  "end": 110.68,
+			  "start": 110.44,
+			  "text": "did"
+			},
+			{
+			  "end": 111.12,
+			  "start": 110.68,
+			  "text": "something"
+			},
+			{
+			  "end": 111.6,
+			  "start": 111.12,
+			  "text": "with"
+			},
+			{
+			  "end": 112.04,
+			  "start": 111.6,
+			  "text": "your"
+			},
+			{
+			  "end": 113.04,
+			  "start": 112.04,
+			  "text": "design"
+			},
+			{
+			  "end": 113.96,
+			  "start": 113.04,
+			  "text": "to"
+			},
+			{
+			  "end": 114.72,
+			  "start": 113.96,
+			  "text": "evaluate"
+			},
+			{
+			  "end": 115.64,
+			  "start": 114.72,
+			  "text": "it,"
+			},
+			{
+			  "end": 116.16,
+			  "start": 115.64,
+			  "text": "then"
+			},
+			{
+			  "end": 116.28,
+			  "start": 116.16,
+			  "text": "it"
+			},
+			{
+			  "end": 116.52,
+			  "start": 116.28,
+			  "text": "is"
+			},
+			{
+			  "end": 116.72,
+			  "start": 116.52,
+			  "text": "a"
+			},
+			{
+			  "end": 116.92,
+			  "start": 116.72,
+			  "text": "single"
+			},
+			{
+			  "end": 117.68,
+			  "start": 116.92,
+			  "text": "retrospective"
+			},
+			{
+			  "end": 118,
+			  "start": 117.68,
+			  "text": "measure"
+			},
+			{
+			  "end": 118.12,
+			  "start": 118,
+			  "text": "for"
+			},
+			{
+			  "end": 118.44,
+			  "start": 118.12,
+			  "text": "the"
+			},
+			{
+			  "end": 119.52,
+			  "start": 118.44,
+			  "text": "whole"
+			},
+			{
+			  "end": 119.96,
+			  "start": 119.52,
+			  "text": "activity."
+			}
+		  ],
+		  "text": " activity to evaluate how the experience was. And there are issues with this approach. Of course there are methodological issues whether the self-reports are reliable with children. But the main issue is that if you ask children after they participated in an activity or did something with your design to evaluate it, then it is a single retrospective measure for the whole activity."
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 120.32,
+			  "start": 120,
+			  "text": "And"
+			},
+			{
+			  "end": 120.32,
+			  "start": 120.32,
+			  "text": "of"
+			},
+			{
+			  "end": 120.6,
+			  "start": 120.32,
+			  "text": "course"
+			},
+			{
+			  "end": 120.72,
+			  "start": 120.6,
+			  "text": "it"
+			},
+			{
+			  "end": 120.92,
+			  "start": 120.72,
+			  "text": "is"
+			},
+			{
+			  "end": 121.56,
+			  "start": 120.92,
+			  "text": "coarse-grained."
+			},
+			{
+			  "end": 121.56,
+			  "start": 121.56,
+			  "text": "You"
+			},
+			{
+			  "end": 121.76,
+			  "start": 121.56,
+			  "text": "can"
+			},
+			{
+			  "end": 122.92,
+			  "start": 121.76,
+			  "text": "decide"
+			},
+			{
+			  "end": 123.6,
+			  "start": 122.92,
+			  "text": "to"
+			},
+			{
+			  "end": 124.04,
+			  "start": 123.6,
+			  "text": "break"
+			},
+			{
+			  "end": 124.36,
+			  "start": 124.04,
+			  "text": "the"
+			},
+			{
+			  "end": 124.96,
+			  "start": 124.36,
+			  "text": "learning"
+			},
+			{
+			  "end": 126.32,
+			  "start": 124.96,
+			  "text": "activity"
+			},
+			{
+			  "end": 126.72,
+			  "start": 126.32,
+			  "text": "or"
+			},
+			{
+			  "end": 126.88,
+			  "start": 126.72,
+			  "text": "the"
+			},
+			{
+			  "end": 127.76,
+			  "start": 126.88,
+			  "text": "activity"
+			},
+			{
+			  "end": 128.68,
+			  "start": 127.76,
+			  "text": "in"
+			},
+			{
+			  "end": 129.12,
+			  "start": 128.68,
+			  "text": "shorter"
+			},
+			{
+			  "end": 129.68,
+			  "start": 129.12,
+			  "text": "periods"
+			},
+			{
+			  "end": 130,
+			  "start": 129.68,
+			  "text": "and"
+			},
+			{
+			  "end": 130.56,
+			  "start": 130,
+			  "text": "intervene"
+			},
+			{
+			  "end": 130.68,
+			  "start": 130.56,
+			  "text": "and"
+			},
+			{
+			  "end": 130.92,
+			  "start": 130.68,
+			  "text": "then"
+			},
+			{
+			  "end": 131.12,
+			  "start": 130.92,
+			  "text": "ask"
+			},
+			{
+			  "end": 131.72,
+			  "start": 131.12,
+			  "text": "children"
+			},
+			{
+			  "end": 131.92,
+			  "start": 131.72,
+			  "text": "in"
+			},
+			{
+			  "end": 132.24,
+			  "start": 131.92,
+			  "text": "between."
+			},
+			{
+			  "end": 132.84,
+			  "start": 132.24,
+			  "text": "But"
+			},
+			{
+			  "end": 133.2,
+			  "start": 132.84,
+			  "text": "first"
+			},
+			{
+			  "end": 133.36,
+			  "start": 133.2,
+			  "text": "of"
+			},
+			{
+			  "end": 133.36,
+			  "start": 133.36,
+			  "text": "all,"
+			},
+			{
+			  "end": 133.64,
+			  "start": 133.36,
+			  "text": "then"
+			},
+			{
+			  "end": 133.8,
+			  "start": 133.64,
+			  "text": "you"
+			},
+			{
+			  "end": 134.16,
+			  "start": 133.8,
+			  "text": "will"
+			},
+			{
+			  "end": 134.76,
+			  "start": 134.16,
+			  "text": "interrupt"
+			},
+			{
+			  "end": 135.08,
+			  "start": 134.76,
+			  "text": "the"
+			},
+			{
+			  "end": 135.52,
+			  "start": 135.08,
+			  "text": "learning"
+			},
+			{
+			  "end": 135.8,
+			  "start": 135.52,
+			  "text": "activity"
+			},
+			{
+			  "end": 135.96,
+			  "start": 135.8,
+			  "text": "and"
+			},
+			{
+			  "end": 136.52,
+			  "start": 135.96,
+			  "text": "second"
+			},
+			{
+			  "end": 136.56,
+			  "start": 136.52,
+			  "text": "of"
+			},
+			{
+			  "end": 136.8,
+			  "start": 136.56,
+			  "text": "all,"
+			},
+			{
+			  "end": 137,
+			  "start": 136.8,
+			  "text": "it"
+			},
+			{
+			  "end": 137.44,
+			  "start": 137,
+			  "text": "will"
+			},
+			{
+			  "end": 137.76,
+			  "start": 137.44,
+			  "text": "still"
+			},
+			{
+			  "end": 138.24,
+			  "start": 137.76,
+			  "text": "remain"
+			},
+			{
+			  "end": 140.24,
+			  "start": 138.24,
+			  "text": "coarse-grained."
+			},
+			{
+			  "end": 141.12,
+			  "start": 140.24,
+			  "text": "So"
+			},
+			{
+			  "end": 141.28,
+			  "start": 141.12,
+			  "text": "the"
+			},
+			{
+			  "end": 141.68,
+			  "start": 141.28,
+			  "text": "other"
+			},
+			{
+			  "end": 142.12,
+			  "start": 141.68,
+			  "text": "part"
+			},
+			{
+			  "end": 142.24,
+			  "start": 142.12,
+			  "text": "of"
+			},
+			{
+			  "end": 142.64,
+			  "start": 142.24,
+			  "text": "our"
+			},
+			{
+			  "end": 143.32,
+			  "start": 142.64,
+			  "text": "research"
+			},
+			{
+			  "end": 143.76,
+			  "start": 143.32,
+			  "text": "or"
+			},
+			{
+			  "end": 144.44,
+			  "start": 143.76,
+			  "text": "other"
+			},
+			{
+			  "end": 145.48,
+			  "start": 144.44,
+			  "text": "pillar"
+			},
+			{
+			  "end": 146.08,
+			  "start": 145.48,
+			  "text": "of"
+			},
+			{
+			  "end": 146.6,
+			  "start": 146.08,
+			  "text": "our"
+			},
+			{
+			  "end": 147.08,
+			  "start": 146.6,
+			  "text": "research"
+			},
+			{
+			  "end": 147.28,
+			  "start": 147.08,
+			  "text": "is"
+			},
+			{
+			  "end": 147.96,
+			  "start": 147.28,
+			  "text": "actually"
+			},
+			{
+			  "end": 148.32,
+			  "start": 147.96,
+			  "text": "the"
+			},
+			{
+			  "end": 149.28,
+			  "start": 148.32,
+			  "text": "relationship"
+			},
+			{
+			  "end": 149.68,
+			  "start": 149.28,
+			  "text": "between"
+			},
+			{
+			  "end": 149.96,
+			  "start": 149.68,
+			  "text": "emotions"
+			}
+		  ],
+		  "text": " And of course it is coarse-grained. You can decide to break the learning activity or the activity in shorter periods and intervene and then ask children in between. But first of all, then you will interrupt the learning activity and second of all, it will still remain coarse-grained. So the other part of our research or other pillar of our research is actually the relationship between emotions"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 150.76,
+			  "start": 150,
+			  "text": "and"
+			},
+			{
+			  "end": 151.6,
+			  "start": 150.76,
+			  "text": "learning,"
+			},
+			{
+			  "end": 152.08,
+			  "start": 151.6,
+			  "text": "and"
+			},
+			{
+			  "end": 152.88,
+			  "start": 152.08,
+			  "text": "specifically"
+			},
+			{
+			  "end": 153.4,
+			  "start": 152.88,
+			  "text": "in"
+			},
+			{
+			  "end": 154,
+			  "start": 153.4,
+			  "text": "reflection"
+			},
+			{
+			  "end": 154.04,
+			  "start": 154,
+			  "text": "of"
+			},
+			{
+			  "end": 154.48,
+			  "start": 154.04,
+			  "text": "physiological"
+			},
+			{
+			  "end": 155.76,
+			  "start": 154.48,
+			  "text": "data."
+			},
+			{
+			  "end": 156.08,
+			  "start": 155.76,
+			  "text": "And"
+			},
+			{
+			  "end": 156.32,
+			  "start": 156.08,
+			  "text": "what"
+			},
+			{
+			  "end": 156.4,
+			  "start": 156.32,
+			  "text": "do"
+			},
+			{
+			  "end": 156.72,
+			  "start": 156.4,
+			  "text": "we"
+			},
+			{
+			  "end": 157.48,
+			  "start": 156.72,
+			  "text": "know"
+			},
+			{
+			  "end": 158.04,
+			  "start": 157.48,
+			  "text": "about"
+			},
+			{
+			  "end": 158.92,
+			  "start": 158.04,
+			  "text": "the"
+			},
+			{
+			  "end": 159.6,
+			  "start": 158.92,
+			  "text": "measurement"
+			},
+			{
+			  "end": 159.6,
+			  "start": 159.6,
+			  "text": "of"
+			},
+			{
+			  "end": 159.64,
+			  "start": 159.6,
+			  "text": "moods"
+			},
+			{
+			  "end": 159.96,
+			  "start": 159.64,
+			  "text": "and"
+			},
+			{
+			  "end": 161.28,
+			  "start": 159.96,
+			  "text": "emotions?"
+			},
+			{
+			  "end": 161.68,
+			  "start": 161.28,
+			  "text": "There"
+			},
+			{
+			  "end": 162.12,
+			  "start": 161.68,
+			  "text": "are"
+			},
+			{
+			  "end": 162.32,
+			  "start": 162.12,
+			  "text": "quite"
+			},
+			{
+			  "end": 162.44,
+			  "start": 162.32,
+			  "text": "a"
+			},
+			{
+			  "end": 162.72,
+			  "start": 162.44,
+			  "text": "few"
+			},
+			{
+			  "end": 163.4,
+			  "start": 162.72,
+			  "text": "methods"
+			},
+			{
+			  "end": 164.16,
+			  "start": 163.4,
+			  "text": "to"
+			},
+			{
+			  "end": 164.88,
+			  "start": 164.16,
+			  "text": "approach"
+			},
+			{
+			  "end": 164.92,
+			  "start": 164.88,
+			  "text": "it,"
+			},
+			{
+			  "end": 164.92,
+			  "start": 164.92,
+			  "text": "and"
+			},
+			{
+			  "end": 164.92,
+			  "start": 164.92,
+			  "text": "we"
+			},
+			{
+			  "end": 165.44,
+			  "start": 164.92,
+			  "text": "can"
+			},
+			{
+			  "end": 166,
+			  "start": 165.44,
+			  "text": "broadly"
+			},
+			{
+			  "end": 166.64,
+			  "start": 166,
+			  "text": "categorize"
+			},
+			{
+			  "end": 167.4,
+			  "start": 166.64,
+			  "text": "them"
+			},
+			{
+			  "end": 167.64,
+			  "start": 167.4,
+			  "text": "into"
+			},
+			{
+			  "end": 167.96,
+			  "start": 167.64,
+			  "text": "three"
+			},
+			{
+			  "end": 167.96,
+			  "start": 167.96,
+			  "text": "broad"
+			},
+			{
+			  "end": 168.48,
+			  "start": 167.96,
+			  "text": "categories,"
+			},
+			{
+			  "end": 168.8,
+			  "start": 168.48,
+			  "text": "which"
+			},
+			{
+			  "end": 169.12,
+			  "start": 168.8,
+			  "text": "are"
+			},
+			{
+			  "end": 170.2,
+			  "start": 169.12,
+			  "text": "automatic"
+			},
+			{
+			  "end": 170.8,
+			  "start": 170.2,
+			  "text": "affective"
+			},
+			{
+			  "end": 171.92,
+			  "start": 170.8,
+			  "text": "recognition,"
+			},
+			{
+			  "end": 172.96,
+			  "start": 171.92,
+			  "text": "self-report,"
+			},
+			{
+			  "end": 173.2,
+			  "start": 172.96,
+			  "text": "and"
+			},
+			{
+			  "end": 173.68,
+			  "start": 173.2,
+			  "text": "text"
+			},
+			{
+			  "end": 173.96,
+			  "start": 173.68,
+			  "text": "or"
+			},
+			{
+			  "end": 174.32,
+			  "start": 173.96,
+			  "text": "discourse"
+			},
+			{
+			  "end": 175.6,
+			  "start": 174.32,
+			  "text": "analysis."
+			},
+			{
+			  "end": 175.72,
+			  "start": 175.6,
+			  "text": "Of"
+			},
+			{
+			  "end": 176.36,
+			  "start": 175.72,
+			  "text": "course,"
+			},
+			{
+			  "end": 176.76,
+			  "start": 176.36,
+			  "text": "all"
+			},
+			{
+			  "end": 176.84,
+			  "start": 176.76,
+			  "text": "of"
+			},
+			{
+			  "end": 177.4,
+			  "start": 176.84,
+			  "text": "these"
+			},
+			{
+			  "end": 178.28,
+			  "start": 177.4,
+			  "text": "methods"
+			},
+			{
+			  "end": 178.56,
+			  "start": 178.28,
+			  "text": "or"
+			},
+			{
+			  "end": 178.88,
+			  "start": 178.56,
+			  "text": "approaches"
+			},
+			{
+			  "end": 179.12,
+			  "start": 178.88,
+			  "text": "have"
+			},
+			{
+			  "end": 179.36,
+			  "start": 179.12,
+			  "text": "their"
+			},
+			{
+			  "end": 179.72,
+			  "start": 179.36,
+			  "text": "pros"
+			},
+			{
+			  "end": 179.88,
+			  "start": 179.72,
+			  "text": "and"
+			},
+			{
+			  "end": 179.96,
+			  "start": 179.88,
+			  "text": "cons."
+			}
+		  ],
+		  "text": " and learning, and specifically in reflection of physiological data. And what do we know about the measurement of moods and emotions? There are quite a few methods to approach it, and we can broadly categorize them into three broad categories, which are automatic affective recognition, self-report, and text or discourse analysis. Of course, all of these methods or approaches have their pros and cons."
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 180.92,
+			  "start": 180,
+			  "text": "But"
+			},
+			{
+			  "end": 181.64,
+			  "start": 180.92,
+			  "text": "the"
+			},
+			{
+			  "end": 182,
+			  "start": 181.64,
+			  "text": "good"
+			},
+			{
+			  "end": 182.56,
+			  "start": 182,
+			  "text": "thing"
+			},
+			{
+			  "end": 182.96,
+			  "start": 182.56,
+			  "text": "is"
+			},
+			{
+			  "end": 183.28,
+			  "start": 182.96,
+			  "text": "that"
+			},
+			{
+			  "end": 183.96,
+			  "start": 183.28,
+			  "text": "they"
+			},
+			{
+			  "end": 184.52,
+			  "start": 183.96,
+			  "text": "can"
+			},
+			{
+			  "end": 185,
+			  "start": 184.52,
+			  "text": "coexist,"
+			},
+			{
+			  "end": 185.76,
+			  "start": 185,
+			  "text": "they"
+			},
+			{
+			  "end": 186.24,
+			  "start": 185.76,
+			  "text": "can"
+			},
+			{
+			  "end": 186.96,
+			  "start": 186.24,
+			  "text": "happen"
+			},
+			{
+			  "end": 188.68,
+			  "start": 186.96,
+			  "text": "parallel"
+			},
+			{
+			  "end": 188.72,
+			  "start": 188.68,
+			  "text": "or"
+			},
+			{
+			  "end": 188.88,
+			  "start": 188.72,
+			  "text": "be"
+			},
+			{
+			  "end": 189.12,
+			  "start": 188.88,
+			  "text": "used"
+			},
+			{
+			  "end": 189.92,
+			  "start": 189.12,
+			  "text": "simultaneously."
+			},
+			{
+			  "end": 190.52,
+			  "start": 189.92,
+			  "text": "And"
+			},
+			{
+			  "end": 190.8,
+			  "start": 190.52,
+			  "text": "an"
+			},
+			{
+			  "end": 191.28,
+			  "start": 190.8,
+			  "text": "upcoming"
+			},
+			{
+			  "end": 191.88,
+			  "start": 191.28,
+			  "text": "field"
+			},
+			{
+			  "end": 192.04,
+			  "start": 191.88,
+			  "text": "of"
+			},
+			{
+			  "end": 192.72,
+			  "start": 192.04,
+			  "text": "multimodal"
+			},
+			{
+			  "end": 193.2,
+			  "start": 192.72,
+			  "text": "learning"
+			},
+			{
+			  "end": 193.76,
+			  "start": 193.2,
+			  "text": "analytics"
+			},
+			{
+			  "end": 194.16,
+			  "start": 193.76,
+			  "text": "is"
+			},
+			{
+			  "end": 194.64,
+			  "start": 194.16,
+			  "text": "actually"
+			},
+			{
+			  "end": 194.96,
+			  "start": 194.64,
+			  "text": "what"
+			},
+			{
+			  "end": 195.96,
+			  "start": 194.96,
+			  "text": "they"
+			},
+			{
+			  "end": 196.36,
+			  "start": 195.96,
+			  "text": "are"
+			},
+			{
+			  "end": 196.88,
+			  "start": 196.36,
+			  "text": "aiming"
+			},
+			{
+			  "end": 196.92,
+			  "start": 196.88,
+			  "text": "to"
+			},
+			{
+			  "end": 197.48,
+			  "start": 196.92,
+			  "text": "do"
+			},
+			{
+			  "end": 197.76,
+			  "start": 197.48,
+			  "text": "to"
+			},
+			{
+			  "end": 198.36,
+			  "start": 197.76,
+			  "text": "combine"
+			},
+			{
+			  "end": 198.8,
+			  "start": 198.36,
+			  "text": "data"
+			},
+			{
+			  "end": 199.88,
+			  "start": 198.8,
+			  "text": "streams,"
+			},
+			{
+			  "end": 200.84,
+			  "start": 199.88,
+			  "text": "data"
+			},
+			{
+			  "end": 201.84,
+			  "start": 200.84,
+			  "text": "sources"
+			},
+			{
+			  "end": 202.32,
+			  "start": 201.84,
+			  "text": "to"
+			},
+			{
+			  "end": 203,
+			  "start": 202.32,
+			  "text": "serve"
+			},
+			{
+			  "end": 203.64,
+			  "start": 203,
+			  "text": "as"
+			},
+			{
+			  "end": 203.96,
+			  "start": 203.64,
+			  "text": "a"
+			},
+			{
+			  "end": 204.56,
+			  "start": 203.96,
+			  "text": "virtual"
+			},
+			{
+			  "end": 205.4,
+			  "start": 204.56,
+			  "text": "observer"
+			},
+			{
+			  "end": 205.88,
+			  "start": 205.4,
+			  "text": "and"
+			},
+			{
+			  "end": 206.64,
+			  "start": 205.88,
+			  "text": "analyst"
+			},
+			{
+			  "end": 206.8,
+			  "start": 206.64,
+			  "text": "for"
+			},
+			{
+			  "end": 206.92,
+			  "start": 206.8,
+			  "text": "learning"
+			},
+			{
+			  "end": 207.84,
+			  "start": 206.92,
+			  "text": "activities."
+			},
+			{
+			  "end": 208.16,
+			  "start": 207.84,
+			  "text": "And"
+			},
+			{
+			  "end": 208.52,
+			  "start": 208.16,
+			  "text": "this"
+			},
+			{
+			  "end": 209,
+			  "start": 208.52,
+			  "text": "way,"
+			},
+			{
+			  "end": 209.36,
+			  "start": 209,
+			  "text": "this"
+			},
+			{
+			  "end": 209.96,
+			  "start": 209.36,
+			  "text": "approach"
+			}
+		  ],
+		  "text": " But the good thing is that they can coexist, they can happen parallel or be used simultaneously. And an upcoming field of multimodal learning analytics is actually what they are aiming to do to combine data streams, data sources to serve as a virtual observer and analyst for learning activities. And this way, this approach"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 210.84,
+			  "start": 210,
+			  "text": "and"
+			},
+			{
+			  "end": 211.36,
+			  "start": 210.84,
+			  "text": "when"
+			},
+			{
+			  "end": 211.96,
+			  "start": 211.36,
+			  "text": "I"
+			},
+			{
+			  "end": 212.96,
+			  "start": 211.96,
+			  "text": "talk"
+			},
+			{
+			  "end": 213.6,
+			  "start": 212.96,
+			  "text": "about"
+			},
+			{
+			  "end": 214.2,
+			  "start": 213.6,
+			  "text": "data"
+			},
+			{
+			  "end": 214.84,
+			  "start": 214.2,
+			  "text": "streams"
+			},
+			{
+			  "end": 215.36,
+			  "start": 214.84,
+			  "text": "you"
+			},
+			{
+			  "end": 215.76,
+			  "start": 215.36,
+			  "text": "can"
+			},
+			{
+			  "end": 216.36,
+			  "start": 215.76,
+			  "text": "think"
+			},
+			{
+			  "end": 216.96,
+			  "start": 216.36,
+			  "text": "about"
+			},
+			{
+			  "end": 217.56,
+			  "start": 216.96,
+			  "text": "for"
+			},
+			{
+			  "end": 221.32,
+			  "start": 217.56,
+			  "text": "example"
+			},
+			{
+			  "end": 222.24,
+			  "start": 221.32,
+			  "text": "video"
+			},
+			{
+			  "end": 223.24,
+			  "start": 222.24,
+			  "text": "data"
+			},
+			{
+			  "end": 223.28,
+			  "start": 223.24,
+			  "text": "or"
+			},
+			{
+			  "end": 224.2,
+			  "start": 223.28,
+			  "text": "video"
+			},
+			{
+			  "end": 225.08,
+			  "start": 224.2,
+			  "text": "data"
+			},
+			{
+			  "end": 226.32,
+			  "start": 225.08,
+			  "text": "or"
+			},
+			{
+			  "end": 227.2,
+			  "start": 226.32,
+			  "text": "physiological"
+			},
+			{
+			  "end": 228.2,
+			  "start": 227.2,
+			  "text": "data"
+			},
+			{
+			  "end": 228.48,
+			  "start": 228.2,
+			  "text": "or"
+			},
+			{
+			  "end": 229.04,
+			  "start": 228.48,
+			  "text": "for"
+			},
+			{
+			  "end": 229.92,
+			  "start": 229.04,
+			  "text": "example"
+			},
+			{
+			  "end": 230.16,
+			  "start": 229.92,
+			  "text": "skin"
+			},
+			{
+			  "end": 231,
+			  "start": 230.16,
+			  "text": "temperature"
+			},
+			{
+			  "end": 231.48,
+			  "start": 231,
+			  "text": "or"
+			},
+			{
+			  "end": 231.8,
+			  "start": 231.48,
+			  "text": "things"
+			},
+			{
+			  "end": 232.04,
+			  "start": 231.8,
+			  "text": "like"
+			},
+			{
+			  "end": 232.76,
+			  "start": 232.04,
+			  "text": "that"
+			},
+			{
+			  "end": 233.36,
+			  "start": 232.76,
+			  "text": "so"
+			},
+			{
+			  "end": 233.6,
+			  "start": 233.36,
+			  "text": "in"
+			},
+			{
+			  "end": 234.04,
+			  "start": 233.6,
+			  "text": "our"
+			},
+			{
+			  "end": 234.2,
+			  "start": 234.04,
+			  "text": "study"
+			},
+			{
+			  "end": 234.48,
+			  "start": 234.2,
+			  "text": "in"
+			},
+			{
+			  "end": 234.88,
+			  "start": 234.48,
+			  "text": "our"
+			},
+			{
+			  "end": 235.48,
+			  "start": 234.88,
+			  "text": "approach"
+			},
+			{
+			  "end": 235.96,
+			  "start": 235.48,
+			  "text": "actually"
+			},
+			{
+			  "end": 236.08,
+			  "start": 235.96,
+			  "text": "we"
+			},
+			{
+			  "end": 236.92,
+			  "start": 236.08,
+			  "text": "combined"
+			},
+			{
+			  "end": 237.44,
+			  "start": 236.92,
+			  "text": "two"
+			},
+			{
+			  "end": 238.24,
+			  "start": 237.44,
+			  "text": "approaches"
+			},
+			{
+			  "end": 238.36,
+			  "start": 238.24,
+			  "text": "one"
+			},
+			{
+			  "end": 238.6,
+			  "start": 238.36,
+			  "text": "was"
+			},
+			{
+			  "end": 238.8,
+			  "start": 238.6,
+			  "text": "the"
+			},
+			{
+			  "end": 239.96,
+			  "start": 238.8,
+			  "text": "automated"
+			}
+		  ],
+		  "text": " and when I talk about data streams you can think about for example video data or video data or physiological data or for example skin temperature or things like that so in our study in our approach actually we combined two approaches one was the automated"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 241,
+			  "start": 240,
+			  "text": "measures,"
+			},
+			{
+			  "end": 241.48,
+			  "start": 241,
+			  "text": "objective"
+			},
+			{
+			  "end": 241.96,
+			  "start": 241.48,
+			  "text": "measures,"
+			},
+			{
+			  "end": 242.28,
+			  "start": 241.96,
+			  "text": "and"
+			},
+			{
+			  "end": 242.52,
+			  "start": 242.28,
+			  "text": "the"
+			},
+			{
+			  "end": 242.72,
+			  "start": 242.52,
+			  "text": "other"
+			},
+			{
+			  "end": 242.92,
+			  "start": 242.72,
+			  "text": "one"
+			},
+			{
+			  "end": 243.2,
+			  "start": 242.92,
+			  "text": "was"
+			},
+			{
+			  "end": 243.56,
+			  "start": 243.2,
+			  "text": "the"
+			},
+			{
+			  "end": 246,
+			  "start": 243.56,
+			  "text": "self-reports."
+			},
+			{
+			  "end": 246.56,
+			  "start": 246,
+			  "text": "So"
+			},
+			{
+			  "end": 250.68,
+			  "start": 246.56,
+			  "text": "we"
+			},
+			{
+			  "end": 251.36,
+			  "start": 250.68,
+			  "text": "came"
+			},
+			{
+			  "end": 251.44,
+			  "start": 251.36,
+			  "text": "up"
+			},
+			{
+			  "end": 251.64,
+			  "start": 251.44,
+			  "text": "with"
+			},
+			{
+			  "end": 253,
+			  "start": 251.64,
+			  "text": "two"
+			},
+			{
+			  "end": 253.64,
+			  "start": 253,
+			  "text": "very"
+			},
+			{
+			  "end": 254,
+			  "start": 253.64,
+			  "text": "fancy"
+			},
+			{
+			  "end": 254.92,
+			  "start": 254,
+			  "text": "research"
+			},
+			{
+			  "end": 255.84,
+			  "start": 254.92,
+			  "text": "questions."
+			},
+			{
+			  "end": 256.04,
+			  "start": 255.84,
+			  "text": "The"
+			},
+			{
+			  "end": 256.2,
+			  "start": 256.04,
+			  "text": "first"
+			},
+			{
+			  "end": 256.92,
+			  "start": 256.2,
+			  "text": "question"
+			},
+			{
+			  "end": 257.28,
+			  "start": 256.92,
+			  "text": "is,"
+			},
+			{
+			  "end": 257.48,
+			  "start": 257.28,
+			  "text": "what"
+			},
+			{
+			  "end": 257.76,
+			  "start": 257.48,
+			  "text": "is"
+			},
+			{
+			  "end": 258.16,
+			  "start": 257.76,
+			  "text": "the"
+			},
+			{
+			  "end": 258.96,
+			  "start": 258.16,
+			  "text": "relationship"
+			},
+			{
+			  "end": 259.28,
+			  "start": 258.96,
+			  "text": "between"
+			},
+			{
+			  "end": 259.84,
+			  "start": 259.28,
+			  "text": "children's"
+			},
+			{
+			  "end": 260.2,
+			  "start": 259.84,
+			  "text": "learning"
+			},
+			{
+			  "end": 260.32,
+			  "start": 260.2,
+			  "text": "and"
+			},
+			{
+			  "end": 260.76,
+			  "start": 260.32,
+			  "text": "their"
+			},
+			{
+			  "end": 261.36,
+			  "start": 260.76,
+			  "text": "effective"
+			},
+			{
+			  "end": 261.76,
+			  "start": 261.36,
+			  "text": "states"
+			},
+			{
+			  "end": 261.76,
+			  "start": 261.76,
+			  "text": "and"
+			},
+			{
+			  "end": 262.48,
+			  "start": 261.76,
+			  "text": "processes"
+			},
+			{
+			  "end": 262.76,
+			  "start": 262.48,
+			  "text": "during"
+			},
+			{
+			  "end": 262.92,
+			  "start": 262.76,
+			  "text": "a"
+			},
+			{
+			  "end": 263.2,
+			  "start": 262.92,
+			  "text": "coding"
+			},
+			{
+			  "end": 264.48,
+			  "start": 263.2,
+			  "text": "activity?"
+			},
+			{
+			  "end": 264.76,
+			  "start": 264.48,
+			  "text": "In"
+			},
+			{
+			  "end": 265,
+			  "start": 264.76,
+			  "text": "other"
+			},
+			{
+			  "end": 265.32,
+			  "start": 265,
+			  "text": "words,"
+			},
+			{
+			  "end": 265.52,
+			  "start": 265.32,
+			  "text": "simply,"
+			},
+			{
+			  "end": 265.52,
+			  "start": 265.52,
+			  "text": "we"
+			},
+			{
+			  "end": 265.52,
+			  "start": 265.52,
+			  "text": "were"
+			},
+			{
+			  "end": 266.28,
+			  "start": 265.52,
+			  "text": "interested"
+			},
+			{
+			  "end": 266.64,
+			  "start": 266.28,
+			  "text": "in"
+			},
+			{
+			  "end": 267.2,
+			  "start": 266.64,
+			  "text": "the"
+			},
+			{
+			  "end": 268,
+			  "start": 267.2,
+			  "text": "relationship"
+			},
+			{
+			  "end": 268.56,
+			  "start": 268,
+			  "text": "between"
+			},
+			{
+			  "end": 269.2,
+			  "start": 268.56,
+			  "text": "learning"
+			},
+			{
+			  "end": 269.36,
+			  "start": 269.2,
+			  "text": "and"
+			},
+			{
+			  "end": 269.96,
+			  "start": 269.36,
+			  "text": "physiological"
+			}
+		  ],
+		  "text": " measures, objective measures, and the other one was the self-reports. So we came up with two very fancy research questions. The first question is, what is the relationship between children's learning and their effective states and processes during a coding activity? In other words, simply, we were interested in the relationship between learning and physiological"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 270.68,
+			  "start": 270,
+			  "text": "data"
+			},
+			{
+			  "end": 270.76,
+			  "start": 270.68,
+			  "text": "and"
+			},
+			{
+			  "end": 271.16,
+			  "start": 270.76,
+			  "text": "the"
+			},
+			{
+			  "end": 271.52,
+			  "start": 271.16,
+			  "text": "second"
+			},
+			{
+			  "end": 271.84,
+			  "start": 271.52,
+			  "text": "fancy"
+			},
+			{
+			  "end": 272.24,
+			  "start": 271.84,
+			  "text": "question"
+			},
+			{
+			  "end": 272.48,
+			  "start": 272.24,
+			  "text": "is"
+			},
+			{
+			  "end": 272.64,
+			  "start": 272.48,
+			  "text": "what"
+			},
+			{
+			  "end": 273.16,
+			  "start": 272.64,
+			  "text": "is"
+			},
+			{
+			  "end": 273.64,
+			  "start": 273.16,
+			  "text": "the"
+			},
+			{
+			  "end": 274.4,
+			  "start": 273.64,
+			  "text": "relationship"
+			},
+			{
+			  "end": 274.76,
+			  "start": 274.4,
+			  "text": "between"
+			},
+			{
+			  "end": 275.48,
+			  "start": 274.76,
+			  "text": "children's"
+			},
+			{
+			  "end": 275.92,
+			  "start": 275.48,
+			  "text": "perceived"
+			},
+			{
+			  "end": 276.24,
+			  "start": 275.92,
+			  "text": "fun"
+			},
+			{
+			  "end": 276.52,
+			  "start": 276.24,
+			  "text": "and"
+			},
+			{
+			  "end": 276.76,
+			  "start": 276.52,
+			  "text": "their"
+			},
+			{
+			  "end": 277.44,
+			  "start": 276.76,
+			  "text": "effective"
+			},
+			{
+			  "end": 277.96,
+			  "start": 277.44,
+			  "text": "states"
+			},
+			{
+			  "end": 277.96,
+			  "start": 277.96,
+			  "text": "and"
+			},
+			{
+			  "end": 278.56,
+			  "start": 277.96,
+			  "text": "processes"
+			},
+			{
+			  "end": 278.8,
+			  "start": 278.56,
+			  "text": "during"
+			},
+			{
+			  "end": 278.92,
+			  "start": 278.8,
+			  "text": "a"
+			},
+			{
+			  "end": 279.6,
+			  "start": 278.92,
+			  "text": "coding"
+			},
+			{
+			  "end": 280.08,
+			  "start": 279.6,
+			  "text": "activity"
+			},
+			{
+			  "end": 280.28,
+			  "start": 280.08,
+			  "text": "in"
+			},
+			{
+			  "end": 280.52,
+			  "start": 280.28,
+			  "text": "other"
+			},
+			{
+			  "end": 280.88,
+			  "start": 280.52,
+			  "text": "words"
+			},
+			{
+			  "end": 281.28,
+			  "start": 280.88,
+			  "text": "we"
+			},
+			{
+			  "end": 281.6,
+			  "start": 281.28,
+			  "text": "were"
+			},
+			{
+			  "end": 282.16,
+			  "start": 281.6,
+			  "text": "interested"
+			},
+			{
+			  "end": 282.16,
+			  "start": 282.16,
+			  "text": "in"
+			},
+			{
+			  "end": 282.32,
+			  "start": 282.16,
+			  "text": "the"
+			},
+			{
+			  "end": 283.04,
+			  "start": 282.32,
+			  "text": "relationship"
+			},
+			{
+			  "end": 283.44,
+			  "start": 283.04,
+			  "text": "between"
+			},
+			{
+			  "end": 284.12,
+			  "start": 283.44,
+			  "text": "fun"
+			},
+			{
+			  "end": 284.24,
+			  "start": 284.12,
+			  "text": "and"
+			},
+			{
+			  "end": 284.84,
+			  "start": 284.24,
+			  "text": "physiological"
+			},
+			{
+			  "end": 287.4,
+			  "start": 284.84,
+			  "text": "data"
+			},
+			{
+			  "end": 287.6,
+			  "start": 287.4,
+			  "text": "so"
+			},
+			{
+			  "end": 288.24,
+			  "start": 287.6,
+			  "text": "regarding"
+			},
+			{
+			  "end": 288.48,
+			  "start": 288.24,
+			  "text": "our"
+			},
+			{
+			  "end": 289.24,
+			  "start": 288.48,
+			  "text": "methods"
+			},
+			{
+			  "end": 289.28,
+			  "start": 289.24,
+			  "text": "to"
+			},
+			{
+			  "end": 290.04,
+			  "start": 289.28,
+			  "text": "tackle"
+			},
+			{
+			  "end": 290.48,
+			  "start": 290.04,
+			  "text": "these"
+			},
+			{
+			  "end": 290.92,
+			  "start": 290.48,
+			  "text": "research"
+			},
+			{
+			  "end": 291.84,
+			  "start": 290.92,
+			  "text": "questions"
+			},
+			{
+			  "end": 291.96,
+			  "start": 291.84,
+			  "text": "we"
+			},
+			{
+			  "end": 292.52,
+			  "start": 291.96,
+			  "text": "designed"
+			},
+			{
+			  "end": 292.52,
+			  "start": 292.52,
+			  "text": "a"
+			},
+			{
+			  "end": 293.08,
+			  "start": 292.52,
+			  "text": "two-hour"
+			},
+			{
+			  "end": 293.24,
+			  "start": 293.08,
+			  "text": "long"
+			},
+			{
+			  "end": 293.64,
+			  "start": 293.24,
+			  "text": "playful"
+			},
+			{
+			  "end": 294,
+			  "start": 293.64,
+			  "text": "coding"
+			},
+			{
+			  "end": 294.64,
+			  "start": 294,
+			  "text": "workshop"
+			},
+			{
+			  "end": 295.08,
+			  "start": 294.64,
+			  "text": "to"
+			},
+			{
+			  "end": 295.8,
+			  "start": 295.08,
+			  "text": "introduce"
+			},
+			{
+			  "end": 296.6,
+			  "start": 295.8,
+			  "text": "children"
+			},
+			{
+			  "end": 296.84,
+			  "start": 296.6,
+			  "text": "coding"
+			},
+			{
+			  "end": 297.32,
+			  "start": 296.84,
+			  "text": "with"
+			},
+			{
+			  "end": 297.72,
+			  "start": 297.32,
+			  "text": "micro"
+			},
+			{
+			  "end": 298.28,
+			  "start": 297.72,
+			  "text": "bits"
+			},
+			{
+			  "end": 298.44,
+			  "start": 298.28,
+			  "text": "and"
+			},
+			{
+			  "end": 298.76,
+			  "start": 298.44,
+			  "text": "we"
+			},
+			{
+			  "end": 299.32,
+			  "start": 298.76,
+			  "text": "implemented"
+			},
+			{
+			  "end": 299.6,
+			  "start": 299.32,
+			  "text": "it"
+			},
+			{
+			  "end": 299.96,
+			  "start": 299.6,
+			  "text": "into"
+			}
+		  ],
+		  "text": " data and the second fancy question is what is the relationship between children's perceived fun and their effective states and processes during a coding activity in other words we were interested in the relationship between fun and physiological data so regarding our methods to tackle these research questions we designed a two-hour long playful coding workshop to introduce children coding with micro bits and we implemented it into"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 300.84,
+			  "start": 300,
+			  "text": "six"
+			},
+			{
+			  "end": 301.76,
+			  "start": 300.84,
+			  "text": "primary"
+			},
+			{
+			  "end": 302.8,
+			  "start": 301.76,
+			  "text": "school"
+			},
+			{
+			  "end": 303.96,
+			  "start": 302.8,
+			  "text": "classes."
+			},
+			{
+			  "end": 304.32,
+			  "start": 303.96,
+			  "text": "We"
+			},
+			{
+			  "end": 304.92,
+			  "start": 304.32,
+			  "text": "applied"
+			},
+			{
+			  "end": 305.68,
+			  "start": 304.92,
+			  "text": "pre"
+			},
+			{
+			  "end": 306,
+			  "start": 305.68,
+			  "text": "and"
+			},
+			{
+			  "end": 306.36,
+			  "start": 306,
+			  "text": "post"
+			},
+			{
+			  "end": 307.08,
+			  "start": 306.36,
+			  "text": "workshop"
+			},
+			{
+			  "end": 307.6,
+			  "start": 307.08,
+			  "text": "data"
+			},
+			{
+			  "end": 308.44,
+			  "start": 307.6,
+			  "text": "collection"
+			},
+			{
+			  "end": 309.08,
+			  "start": 308.44,
+			  "text": "method"
+			},
+			{
+			  "end": 310.04,
+			  "start": 309.08,
+			  "text": "and"
+			},
+			{
+			  "end": 310.4,
+			  "start": 310.04,
+			  "text": "between"
+			},
+			{
+			  "end": 310.56,
+			  "start": 310.4,
+			  "text": "the"
+			},
+			{
+			  "end": 310.92,
+			  "start": 310.56,
+			  "text": "pre"
+			},
+			{
+			  "end": 311.36,
+			  "start": 310.92,
+			  "text": "and"
+			},
+			{
+			  "end": 312,
+			  "start": 311.36,
+			  "text": "post-day"
+			},
+			{
+			  "end": 312.64,
+			  "start": 312,
+			  "text": "collection"
+			},
+			{
+			  "end": 313.12,
+			  "start": 312.64,
+			  "text": "children"
+			},
+			{
+			  "end": 313.16,
+			  "start": 313.12,
+			  "text": "had"
+			},
+			{
+			  "end": 313.72,
+			  "start": 313.16,
+			  "text": "approximately"
+			},
+			{
+			  "end": 314.08,
+			  "start": 313.72,
+			  "text": "90"
+			},
+			{
+			  "end": 314.6,
+			  "start": 314.08,
+			  "text": "minutes"
+			},
+			{
+			  "end": 315.16,
+			  "start": 314.6,
+			  "text": "to"
+			},
+			{
+			  "end": 315.36,
+			  "start": 315.16,
+			  "text": "do"
+			},
+			{
+			  "end": 315.84,
+			  "start": 315.36,
+			  "text": "the"
+			},
+			{
+			  "end": 316.16,
+			  "start": 315.84,
+			  "text": "coding"
+			},
+			{
+			  "end": 316.52,
+			  "start": 316.16,
+			  "text": "task"
+			},
+			{
+			  "end": 317,
+			  "start": 316.52,
+			  "text": "which"
+			},
+			{
+			  "end": 317.36,
+			  "start": 317,
+			  "text": "were"
+			},
+			{
+			  "end": 317.8,
+			  "start": 317.36,
+			  "text": "three"
+			},
+			{
+			  "end": 318.2,
+			  "start": 317.8,
+			  "text": "distinct"
+			},
+			{
+			  "end": 318.52,
+			  "start": 318.2,
+			  "text": "coding"
+			},
+			{
+			  "end": 319.28,
+			  "start": 318.52,
+			  "text": "tasks."
+			},
+			{
+			  "end": 319.76,
+			  "start": 319.28,
+			  "text": "In"
+			},
+			{
+			  "end": 320.08,
+			  "start": 319.76,
+			  "text": "this"
+			},
+			{
+			  "end": 320.64,
+			  "start": 320.08,
+			  "text": "picture"
+			},
+			{
+			  "end": 320.72,
+			  "start": 320.64,
+			  "text": "you"
+			},
+			{
+			  "end": 321.24,
+			  "start": 320.72,
+			  "text": "can"
+			},
+			{
+			  "end": 321.64,
+			  "start": 321.24,
+			  "text": "for"
+			},
+			{
+			  "end": 321.8,
+			  "start": 321.64,
+			  "text": "example"
+			},
+			{
+			  "end": 322.36,
+			  "start": 321.8,
+			  "text": "see"
+			},
+			{
+			  "end": 322.76,
+			  "start": 322.36,
+			  "text": "that"
+			},
+			{
+			  "end": 322.8,
+			  "start": 322.76,
+			  "text": "in"
+			},
+			{
+			  "end": 322.88,
+			  "start": 322.8,
+			  "text": "the"
+			},
+			{
+			  "end": 323.36,
+			  "start": 322.88,
+			  "text": "second"
+			},
+			{
+			  "end": 323.68,
+			  "start": 323.36,
+			  "text": "task"
+			},
+			{
+			  "end": 324.08,
+			  "start": 323.68,
+			  "text": "children"
+			},
+			{
+			  "end": 324.6,
+			  "start": 324.08,
+			  "text": "were"
+			},
+			{
+			  "end": 324.88,
+			  "start": 324.6,
+			  "text": "asked"
+			},
+			{
+			  "end": 325.12,
+			  "start": 324.88,
+			  "text": "to"
+			},
+			{
+			  "end": 326.08,
+			  "start": 325.12,
+			  "text": "first"
+			},
+			{
+			  "end": 328.2,
+			  "start": 326.08,
+			  "text": "program"
+			},
+			{
+			  "end": 328.68,
+			  "start": 328.2,
+			  "text": "their"
+			},
+			{
+			  "end": 329.4,
+			  "start": 328.68,
+			  "text": "code"
+			},
+			{
+			  "end": 329.8,
+			  "start": 329.4,
+			  "text": "so"
+			},
+			{
+			  "end": 329.96,
+			  "start": 329.8,
+			  "text": "it"
+			}
+		  ],
+		  "text": " six primary school classes. We applied pre and post workshop data collection method and between the pre and post-day collection children had approximately 90 minutes to do the coding task which were three distinct coding tasks. In this picture you can for example see that in the second task children were asked to first program their code so it"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 330.84,
+			  "start": 330,
+			  "text": "shows"
+			},
+			{
+			  "end": 331.8,
+			  "start": 330.84,
+			  "text": "randomly"
+			},
+			{
+			  "end": 332.36,
+			  "start": 331.8,
+			  "text": "a"
+			},
+			{
+			  "end": 332.92,
+			  "start": 332.36,
+			  "text": "sign"
+			},
+			{
+			  "end": 333.2,
+			  "start": 332.92,
+			  "text": "which"
+			},
+			{
+			  "end": 333.68,
+			  "start": 333.2,
+			  "text": "was"
+			},
+			{
+			  "end": 334.08,
+			  "start": 333.68,
+			  "text": "either"
+			},
+			{
+			  "end": 334.48,
+			  "start": 334.08,
+			  "text": "paper"
+			},
+			{
+			  "end": 334.64,
+			  "start": 334.48,
+			  "text": "or"
+			},
+			{
+			  "end": 335.64,
+			  "start": 334.64,
+			  "text": "scissors"
+			},
+			{
+			  "end": 336.28,
+			  "start": 335.64,
+			  "text": "or"
+			},
+			{
+			  "end": 336.76,
+			  "start": 336.28,
+			  "text": "stone"
+			},
+			{
+			  "end": 336.96,
+			  "start": 336.76,
+			  "text": "and"
+			},
+			{
+			  "end": 337.16,
+			  "start": 336.96,
+			  "text": "then"
+			},
+			{
+			  "end": 337.56,
+			  "start": 337.16,
+			  "text": "they"
+			},
+			{
+			  "end": 337.8,
+			  "start": 337.56,
+			  "text": "had"
+			},
+			{
+			  "end": 338,
+			  "start": 337.8,
+			  "text": "to"
+			},
+			{
+			  "end": 338.08,
+			  "start": 338,
+			  "text": "put"
+			},
+			{
+			  "end": 338.36,
+			  "start": 338.08,
+			  "text": "it"
+			},
+			{
+			  "end": 338.44,
+			  "start": 338.36,
+			  "text": "on"
+			},
+			{
+			  "end": 338.64,
+			  "start": 338.44,
+			  "text": "their"
+			},
+			{
+			  "end": 339,
+			  "start": 338.64,
+			  "text": "micro"
+			},
+			{
+			  "end": 339.52,
+			  "start": 339,
+			  "text": "bits"
+			},
+			{
+			  "end": 340,
+			  "start": 339.52,
+			  "text": "and"
+			},
+			{
+			  "end": 340.68,
+			  "start": 340,
+			  "text": "then"
+			},
+			{
+			  "end": 341.36,
+			  "start": 340.68,
+			  "text": "they"
+			},
+			{
+			  "end": 341.68,
+			  "start": 341.36,
+			  "text": "could"
+			},
+			{
+			  "end": 342.64,
+			  "start": 341.68,
+			  "text": "play"
+			},
+			{
+			  "end": 343.36,
+			  "start": 342.64,
+			  "text": "with"
+			},
+			{
+			  "end": 344.4,
+			  "start": 343.36,
+			  "text": "each"
+			},
+			{
+			  "end": 345.28,
+			  "start": 344.4,
+			  "text": "other."
+			},
+			{
+			  "end": 345.84,
+			  "start": 345.28,
+			  "text": "Regarding"
+			},
+			{
+			  "end": 346.04,
+			  "start": 345.84,
+			  "text": "our"
+			},
+			{
+			  "end": 347.24,
+			  "start": 346.04,
+			  "text": "measures,"
+			},
+			{
+			  "end": 348.12,
+			  "start": 347.24,
+			  "text": "as"
+			},
+			{
+			  "end": 348.28,
+			  "start": 348.12,
+			  "text": "you"
+			},
+			{
+			  "end": 348.6,
+			  "start": 348.28,
+			  "text": "could"
+			},
+			{
+			  "end": 349.12,
+			  "start": 348.6,
+			  "text": "figure,"
+			},
+			{
+			  "end": 349.72,
+			  "start": 349.12,
+			  "text": "we"
+			},
+			{
+			  "end": 350,
+			  "start": 349.72,
+			  "text": "were"
+			},
+			{
+			  "end": 350.36,
+			  "start": 350,
+			  "text": "interested"
+			},
+			{
+			  "end": 350.52,
+			  "start": 350.36,
+			  "text": "in"
+			},
+			{
+			  "end": 351.32,
+			  "start": 350.52,
+			  "text": "learning"
+			},
+			{
+			  "end": 351.76,
+			  "start": 351.32,
+			  "text": "and"
+			},
+			{
+			  "end": 352.44,
+			  "start": 351.76,
+			  "text": "to"
+			},
+			{
+			  "end": 352.84,
+			  "start": 352.44,
+			  "text": "address"
+			},
+			{
+			  "end": 353.36,
+			  "start": 352.84,
+			  "text": "learning"
+			},
+			{
+			  "end": 353.48,
+			  "start": 353.36,
+			  "text": "we"
+			},
+			{
+			  "end": 354.48,
+			  "start": 353.48,
+			  "text": "collected"
+			},
+			{
+			  "end": 354.68,
+			  "start": 354.48,
+			  "text": "a"
+			},
+			{
+			  "end": 355.32,
+			  "start": 354.68,
+			  "text": "pre"
+			},
+			{
+			  "end": 355.6,
+			  "start": 355.32,
+			  "text": "and"
+			},
+			{
+			  "end": 356.28,
+			  "start": 355.6,
+			  "text": "post-test,"
+			},
+			{
+			  "end": 357.64,
+			  "start": 356.28,
+			  "text": "post-workshop"
+			},
+			{
+			  "end": 358.24,
+			  "start": 357.64,
+			  "text": "knowledge"
+			},
+			{
+			  "end": 358.52,
+			  "start": 358.24,
+			  "text": "test"
+			},
+			{
+			  "end": 358.8,
+			  "start": 358.52,
+			  "text": "and"
+			},
+			{
+			  "end": 359.4,
+			  "start": 358.8,
+			  "text": "calculated"
+			},
+			{
+			  "end": 359.96,
+			  "start": 359.4,
+			  "text": "the"
+			}
+		  ],
+		  "text": " shows randomly a sign which was either paper or scissors or stone and then they had to put it on their micro bits and then they could play with each other. Regarding our measures, as you could figure, we were interested in learning and to address learning we collected a pre and post-test, post-workshop knowledge test and calculated the"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 360.36,
+			  "start": 360,
+			  "text": "To"
+			},
+			{
+			  "end": 361.56,
+			  "start": 360.36,
+			  "text": "address"
+			},
+			{
+			  "end": 362.04,
+			  "start": 361.56,
+			  "text": "fun,"
+			},
+			{
+			  "end": 363.4,
+			  "start": 362.04,
+			  "text": "we"
+			},
+			{
+			  "end": 364.32,
+			  "start": 363.4,
+			  "text": "collected"
+			},
+			{
+			  "end": 364.88,
+			  "start": 364.32,
+			  "text": "data"
+			},
+			{
+			  "end": 365.32,
+			  "start": 364.88,
+			  "text": "with"
+			},
+			{
+			  "end": 366.52,
+			  "start": 365.32,
+			  "text": "the"
+			},
+			{
+			  "end": 367.04,
+			  "start": 366.52,
+			  "text": "FunQ"
+			},
+			{
+			  "end": 367.68,
+			  "start": 367.04,
+			  "text": "after"
+			},
+			{
+			  "end": 368.2,
+			  "start": 367.68,
+			  "text": "children"
+			},
+			{
+			  "end": 369.2,
+			  "start": 368.2,
+			  "text": "participated"
+			},
+			{
+			  "end": 369.48,
+			  "start": 369.2,
+			  "text": "in"
+			},
+			{
+			  "end": 369.92,
+			  "start": 369.48,
+			  "text": "the"
+			},
+			{
+			  "end": 370.16,
+			  "start": 369.92,
+			  "text": "workshop."
+			},
+			{
+			  "end": 370.64,
+			  "start": 370.16,
+			  "text": "To"
+			},
+			{
+			  "end": 371.32,
+			  "start": 370.64,
+			  "text": "address"
+			},
+			{
+			  "end": 371.96,
+			  "start": 371.32,
+			  "text": "effect,"
+			},
+			{
+			  "end": 372.08,
+			  "start": 371.96,
+			  "text": "we"
+			},
+			{
+			  "end": 372.92,
+			  "start": 372.08,
+			  "text": "collected"
+			},
+			{
+			  "end": 373.88,
+			  "start": 372.92,
+			  "text": "physiological"
+			},
+			{
+			  "end": 374.32,
+			  "start": 373.88,
+			  "text": "data"
+			},
+			{
+			  "end": 374.6,
+			  "start": 374.32,
+			  "text": "from"
+			},
+			{
+			  "end": 374.8,
+			  "start": 374.6,
+			  "text": "two"
+			},
+			{
+			  "end": 375.88,
+			  "start": 374.8,
+			  "text": "sources."
+			},
+			{
+			  "end": 376.08,
+			  "start": 375.88,
+			  "text": "One"
+			},
+			{
+			  "end": 376.8,
+			  "start": 376.08,
+			  "text": "source"
+			},
+			{
+			  "end": 377.32,
+			  "start": 376.8,
+			  "text": "was"
+			},
+			{
+			  "end": 377.88,
+			  "start": 377.32,
+			  "text": "Brisbane,"
+			},
+			{
+			  "end": 378.08,
+			  "start": 377.88,
+			  "text": "with"
+			},
+			{
+			  "end": 378.76,
+			  "start": 378.08,
+			  "text": "which"
+			},
+			{
+			  "end": 379.4,
+			  "start": 378.76,
+			  "text": "we"
+			},
+			{
+			  "end": 380,
+			  "start": 379.4,
+			  "text": "calculated"
+			},
+			{
+			  "end": 380.04,
+			  "start": 380,
+			  "text": "the"
+			},
+			{
+			  "end": 380.36,
+			  "start": 380.04,
+			  "text": "level"
+			},
+			{
+			  "end": 380.44,
+			  "start": 380.36,
+			  "text": "of"
+			},
+			{
+			  "end": 380.92,
+			  "start": 380.44,
+			  "text": "stress"
+			},
+			{
+			  "end": 381,
+			  "start": 380.92,
+			  "text": "and"
+			},
+			{
+			  "end": 381.48,
+			  "start": 381,
+			  "text": "arousal"
+			},
+			{
+			  "end": 381.8,
+			  "start": 381.48,
+			  "text": "later"
+			},
+			{
+			  "end": 381.96,
+			  "start": 381.8,
+			  "text": "on."
+			},
+			{
+			  "end": 382.44,
+			  "start": 381.96,
+			  "text": "And"
+			},
+			{
+			  "end": 382.72,
+			  "start": 382.44,
+			  "text": "then"
+			},
+			{
+			  "end": 382.88,
+			  "start": 382.72,
+			  "text": "we"
+			},
+			{
+			  "end": 383.2,
+			  "start": 382.88,
+			  "text": "also"
+			},
+			{
+			  "end": 384.4,
+			  "start": 383.2,
+			  "text": "collected"
+			},
+			{
+			  "end": 385.16,
+			  "start": 384.4,
+			  "text": "facial"
+			},
+			{
+			  "end": 385.96,
+			  "start": 385.16,
+			  "text": "data"
+			},
+			{
+			  "end": 386.68,
+			  "start": 385.96,
+			  "text": "from"
+			},
+			{
+			  "end": 387.16,
+			  "start": 386.68,
+			  "text": "the"
+			},
+			{
+			  "end": 388.12,
+			  "start": 387.16,
+			  "text": "camera"
+			},
+			{
+			  "end": 388.28,
+			  "start": 388.12,
+			  "text": "of"
+			},
+			{
+			  "end": 388.72,
+			  "start": 388.28,
+			  "text": "the"
+			},
+			{
+			  "end": 389.44,
+			  "start": 388.72,
+			  "text": "laptops,"
+			},
+			{
+			  "end": 389.64,
+			  "start": 389.44,
+			  "text": "and"
+			},
+			{
+			  "end": 389.96,
+			  "start": 389.64,
+			  "text": "then"
+			}
+		  ],
+		  "text": " To address fun, we collected data with the FunQ after children participated in the workshop. To address effect, we collected physiological data from two sources. One source was Brisbane, with which we calculated the level of stress and arousal later on. And then we also collected facial data from the camera of the laptops, and then"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 390.36,
+			  "start": 390,
+			  "text": "Later"
+			},
+			{
+			  "end": 390.56,
+			  "start": 390.36,
+			  "text": "on"
+			},
+			{
+			  "end": 390.68,
+			  "start": 390.56,
+			  "text": "we"
+			},
+			{
+			  "end": 391.36,
+			  "start": 390.68,
+			  "text": "calculated"
+			},
+			{
+			  "end": 391.8,
+			  "start": 391.36,
+			  "text": "action"
+			},
+			{
+			  "end": 392.08,
+			  "start": 391.8,
+			  "text": "units"
+			},
+			{
+			  "end": 392.4,
+			  "start": 392.08,
+			  "text": "from"
+			},
+			{
+			  "end": 392.56,
+			  "start": 392.4,
+			  "text": "it"
+			},
+			{
+			  "end": 392.92,
+			  "start": 392.56,
+			  "text": "and"
+			},
+			{
+			  "end": 393.48,
+			  "start": 392.92,
+			  "text": "effective"
+			},
+			{
+			  "end": 394.6,
+			  "start": 393.48,
+			  "text": "transitions."
+			},
+			{
+			  "end": 394.96,
+			  "start": 394.6,
+			  "text": "And"
+			},
+			{
+			  "end": 395.24,
+			  "start": 394.96,
+			  "text": "on"
+			},
+			{
+			  "end": 395.32,
+			  "start": 395.24,
+			  "text": "that"
+			},
+			{
+			  "end": 395.84,
+			  "start": 395.32,
+			  "text": "picture"
+			},
+			{
+			  "end": 396.28,
+			  "start": 395.84,
+			  "text": "you"
+			},
+			{
+			  "end": 396.68,
+			  "start": 396.28,
+			  "text": "can"
+			},
+			{
+			  "end": 397.48,
+			  "start": 396.68,
+			  "text": "see"
+			},
+			{
+			  "end": 398.12,
+			  "start": 397.48,
+			  "text": "the"
+			},
+			{
+			  "end": 398.44,
+			  "start": 398.12,
+			  "text": "study"
+			},
+			{
+			  "end": 398.8,
+			  "start": 398.44,
+			  "text": "set"
+			},
+			{
+			  "end": 399.04,
+			  "start": 398.8,
+			  "text": "up"
+			},
+			{
+			  "end": 399.28,
+			  "start": 399.04,
+			  "text": "when"
+			},
+			{
+			  "end": 399.64,
+			  "start": 399.28,
+			  "text": "children"
+			},
+			{
+			  "end": 399.84,
+			  "start": 399.64,
+			  "text": "were"
+			},
+			{
+			  "end": 400.24,
+			  "start": 399.84,
+			  "text": "busy"
+			},
+			{
+			  "end": 400.24,
+			  "start": 400.24,
+			  "text": "with"
+			},
+			{
+			  "end": 400.88,
+			  "start": 400.24,
+			  "text": "programming."
+			},
+			{
+			  "end": 401.2,
+			  "start": 400.88,
+			  "text": "So"
+			},
+			{
+			  "end": 401.68,
+			  "start": 401.2,
+			  "text": "the"
+			},
+			{
+			  "end": 401.84,
+			  "start": 401.68,
+			  "text": "upper"
+			},
+			{
+			  "end": 402.24,
+			  "start": 401.84,
+			  "text": "left"
+			},
+			{
+			  "end": 402.92,
+			  "start": 402.24,
+			  "text": "corner"
+			},
+			{
+			  "end": 403.28,
+			  "start": 402.92,
+			  "text": "we"
+			},
+			{
+			  "end": 403.6,
+			  "start": 403.28,
+			  "text": "have"
+			},
+			{
+			  "end": 404.24,
+			  "start": 403.6,
+			  "text": "the"
+			},
+			{
+			  "end": 404.88,
+			  "start": 404.24,
+			  "text": "questionnaire,"
+			},
+			{
+			  "end": 405.24,
+			  "start": 404.88,
+			  "text": "on"
+			},
+			{
+			  "end": 405.64,
+			  "start": 405.24,
+			  "text": "the"
+			},
+			{
+			  "end": 406.36,
+			  "start": 405.64,
+			  "text": "upper"
+			},
+			{
+			  "end": 407.48,
+			  "start": 406.36,
+			  "text": "left"
+			},
+			{
+			  "end": 407.84,
+			  "start": 407.48,
+			  "text": "middle"
+			},
+			{
+			  "end": 408.4,
+			  "start": 407.84,
+			  "text": "there's"
+			},
+			{
+			  "end": 409.12,
+			  "start": 408.4,
+			  "text": "still"
+			},
+			{
+			  "end": 409.68,
+			  "start": 409.12,
+			  "text": "the"
+			},
+			{
+			  "end": 410.08,
+			  "start": 409.68,
+			  "text": "micro"
+			},
+			{
+			  "end": 410.4,
+			  "start": 410.08,
+			  "text": "bit"
+			},
+			{
+			  "end": 411.08,
+			  "start": 410.4,
+			  "text": "packed."
+			},
+			{
+			  "end": 411.08,
+			  "start": 411.08,
+			  "text": "On"
+			},
+			{
+			  "end": 411.32,
+			  "start": 411.08,
+			  "text": "the"
+			},
+			{
+			  "end": 412.04,
+			  "start": 411.32,
+			  "text": "left"
+			},
+			{
+			  "end": 412.48,
+			  "start": 412.04,
+			  "text": "hand"
+			},
+			{
+			  "end": 412.64,
+			  "start": 412.48,
+			  "text": "of"
+			},
+			{
+			  "end": 413,
+			  "start": 412.64,
+			  "text": "the"
+			},
+			{
+			  "end": 413.24,
+			  "start": 413,
+			  "text": "little"
+			},
+			{
+			  "end": 413.84,
+			  "start": 413.24,
+			  "text": "girl"
+			},
+			{
+			  "end": 414.08,
+			  "start": 413.84,
+			  "text": "you"
+			},
+			{
+			  "end": 414.32,
+			  "start": 414.08,
+			  "text": "have"
+			},
+			{
+			  "end": 414.56,
+			  "start": 414.32,
+			  "text": "the"
+			},
+			{
+			  "end": 415.28,
+			  "start": 414.56,
+			  "text": "wristband"
+			},
+			{
+			  "end": 416.04,
+			  "start": 415.28,
+			  "text": "attached."
+			},
+			{
+			  "end": 416.2,
+			  "start": 416.04,
+			  "text": "On"
+			},
+			{
+			  "end": 416.52,
+			  "start": 416.2,
+			  "text": "the"
+			},
+			{
+			  "end": 417.16,
+			  "start": 416.52,
+			  "text": "right"
+			},
+			{
+			  "end": 417.6,
+			  "start": 417.16,
+			  "text": "hand"
+			},
+			{
+			  "end": 417.68,
+			  "start": 417.6,
+			  "text": "in"
+			},
+			{
+			  "end": 417.96,
+			  "start": 417.68,
+			  "text": "the"
+			},
+			{
+			  "end": 418.08,
+			  "start": 417.96,
+			  "text": "middle"
+			},
+			{
+			  "end": 418.36,
+			  "start": 418.08,
+			  "text": "you"
+			},
+			{
+			  "end": 418.88,
+			  "start": 418.36,
+			  "text": "have"
+			},
+			{
+			  "end": 419.36,
+			  "start": 418.88,
+			  "text": "the"
+			},
+			{
+			  "end": 419.8,
+			  "start": 419.36,
+			  "text": "mobile"
+			},
+			{
+			  "end": 419.96,
+			  "start": 419.8,
+			  "text": "phone"
+			}
+		  ],
+		  "text": " Later on we calculated action units from it and effective transitions. And on that picture you can see the study set up when children were busy with programming. So the upper left corner we have the questionnaire, on the upper left middle there's still the micro bit packed. On the left hand of the little girl you have the wristband attached. On the right hand in the middle you have the mobile phone"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 420.24,
+			  "start": 420,
+			  "text": "that"
+			},
+			{
+			  "end": 420.8,
+			  "start": 420.24,
+			  "text": "collects"
+			},
+			{
+			  "end": 421.12,
+			  "start": 420.8,
+			  "text": "the"
+			},
+			{
+			  "end": 421.56,
+			  "start": 421.12,
+			  "text": "Brisbane"
+			},
+			{
+			  "end": 421.96,
+			  "start": 421.56,
+			  "text": "data"
+			},
+			{
+			  "end": 422.2,
+			  "start": 421.96,
+			  "text": "and"
+			},
+			{
+			  "end": 422.48,
+			  "start": 422.2,
+			  "text": "obviously"
+			},
+			{
+			  "end": 422.68,
+			  "start": 422.48,
+			  "text": "we"
+			},
+			{
+			  "end": 422.96,
+			  "start": 422.68,
+			  "text": "were"
+			},
+			{
+			  "end": 423.48,
+			  "start": 422.96,
+			  "text": "collecting"
+			},
+			{
+			  "end": 423.64,
+			  "start": 423.48,
+			  "text": "the"
+			},
+			{
+			  "end": 423.96,
+			  "start": 423.64,
+			  "text": "facial"
+			},
+			{
+			  "end": 424.32,
+			  "start": 423.96,
+			  "text": "data"
+			},
+			{
+			  "end": 424.56,
+			  "start": 424.32,
+			  "text": "from"
+			},
+			{
+			  "end": 424.88,
+			  "start": 424.56,
+			  "text": "the"
+			},
+			{
+			  "end": 425.56,
+			  "start": 424.88,
+			  "text": "webcam"
+			},
+			{
+			  "end": 426.12,
+			  "start": 425.56,
+			  "text": "of"
+			},
+			{
+			  "end": 426.48,
+			  "start": 426.12,
+			  "text": "the"
+			},
+			{
+			  "end": 431.28,
+			  "start": 426.48,
+			  "text": "laptop."
+			},
+			{
+			  "end": 432,
+			  "start": 431.28,
+			  "text": "So,"
+			},
+			{
+			  "end": 432.28,
+			  "start": 432,
+			  "text": "and"
+			},
+			{
+			  "end": 432.48,
+			  "start": 432.28,
+			  "text": "what"
+			},
+			{
+			  "end": 432.48,
+			  "start": 432.48,
+			  "text": "did"
+			},
+			{
+			  "end": 432.48,
+			  "start": 432.48,
+			  "text": "we"
+			},
+			{
+			  "end": 433.12,
+			  "start": 432.48,
+			  "text": "find?"
+			},
+			{
+			  "end": 433.56,
+			  "start": 433.12,
+			  "text": "Actually"
+			},
+			{
+			  "end": 433.92,
+			  "start": 433.56,
+			  "text": "this"
+			},
+			{
+			  "end": 434.68,
+			  "start": 433.92,
+			  "text": "thingy"
+			},
+			{
+			  "end": 435.32,
+			  "start": 434.68,
+			  "text": "is"
+			},
+			{
+			  "end": 435.72,
+			  "start": 435.32,
+			  "text": "the"
+			},
+			{
+			  "end": 436.12,
+			  "start": 435.72,
+			  "text": "result"
+			},
+			{
+			  "end": 436.28,
+			  "start": 436.12,
+			  "text": "of"
+			},
+			{
+			  "end": 437,
+			  "start": 436.28,
+			  "text": "the"
+			},
+			{
+			  "end": 437.32,
+			  "start": 437,
+			  "text": "third"
+			},
+			{
+			  "end": 437.72,
+			  "start": 437.32,
+			  "text": "task"
+			},
+			{
+			  "end": 437.8,
+			  "start": 437.72,
+			  "text": "when"
+			},
+			{
+			  "end": 438.16,
+			  "start": 437.8,
+			  "text": "children"
+			},
+			{
+			  "end": 438.36,
+			  "start": 438.16,
+			  "text": "were"
+			},
+			{
+			  "end": 438.96,
+			  "start": 438.36,
+			  "text": "programming"
+			},
+			{
+			  "end": 439.48,
+			  "start": 438.96,
+			  "text": "the"
+			},
+			{
+			  "end": 440.24,
+			  "start": 439.48,
+			  "text": "face"
+			},
+			{
+			  "end": 441.16,
+			  "start": 440.24,
+			  "text": "of"
+			},
+			{
+			  "end": 441.44,
+			  "start": 441.16,
+			  "text": "a"
+			},
+			{
+			  "end": 441.84,
+			  "start": 441.44,
+			  "text": "freely"
+			},
+			{
+			  "end": 442.4,
+			  "start": 441.84,
+			  "text": "selected"
+			},
+			{
+			  "end": 442.88,
+			  "start": 442.4,
+			  "text": "animal"
+			},
+			{
+			  "end": 443.52,
+			  "start": 442.88,
+			  "text": "and"
+			},
+			{
+			  "end": 443.76,
+			  "start": 443.52,
+			  "text": "it"
+			},
+			{
+			  "end": 444.12,
+			  "start": 443.76,
+			  "text": "reacted"
+			},
+			{
+			  "end": 444.32,
+			  "start": 444.12,
+			  "text": "to"
+			},
+			{
+			  "end": 444.64,
+			  "start": 444.32,
+			  "text": "kinetic"
+			},
+			{
+			  "end": 444.76,
+			  "start": 444.64,
+			  "text": "stimuli."
+			},
+			{
+			  "end": 445.12,
+			  "start": 444.76,
+			  "text": "So"
+			},
+			{
+			  "end": 445.52,
+			  "start": 445.12,
+			  "text": "if"
+			},
+			{
+			  "end": 445.68,
+			  "start": 445.52,
+			  "text": "they"
+			},
+			{
+			  "end": 445.8,
+			  "start": 445.68,
+			  "text": "were"
+			},
+			{
+			  "end": 446.36,
+			  "start": 445.8,
+			  "text": "shaking"
+			},
+			{
+			  "end": 446.64,
+			  "start": 446.36,
+			  "text": "it"
+			},
+			{
+			  "end": 446.64,
+			  "start": 446.64,
+			  "text": "then"
+			},
+			{
+			  "end": 446.68,
+			  "start": 446.64,
+			  "text": "it"
+			},
+			{
+			  "end": 447.08,
+			  "start": 446.68,
+			  "text": "became"
+			},
+			{
+			  "end": 447.64,
+			  "start": 447.08,
+			  "text": "scared"
+			},
+			{
+			  "end": 447.64,
+			  "start": 447.64,
+			  "text": "and"
+			},
+			{
+			  "end": 447.72,
+			  "start": 447.64,
+			  "text": "if"
+			},
+			{
+			  "end": 447.92,
+			  "start": 447.72,
+			  "text": "they"
+			},
+			{
+			  "end": 448,
+			  "start": 447.92,
+			  "text": "put"
+			},
+			{
+			  "end": 448.24,
+			  "start": 448,
+			  "text": "it"
+			},
+			{
+			  "end": 448.64,
+			  "start": 448.24,
+			  "text": "down"
+			},
+			{
+			  "end": 449.16,
+			  "start": 448.64,
+			  "text": "then"
+			},
+			{
+			  "end": 449.28,
+			  "start": 449.16,
+			  "text": "it"
+			},
+			{
+			  "end": 449.76,
+			  "start": 449.28,
+			  "text": "became"
+			},
+			{
+			  "end": 449.96,
+			  "start": 449.76,
+			  "text": "happy."
+			}
+		  ],
+		  "text": " that collects the Brisbane data and obviously we were collecting the facial data from the webcam of the laptop. So, and what did we find? Actually this thingy is the result of the third task when children were programming the face of a freely selected animal and it reacted to kinetic stimuli. So if they were shaking it then it became scared and if they put it down then it became happy."
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 450.96,
+			  "start": 450,
+			  "text": "But"
+			},
+			{
+			  "end": 451.8,
+			  "start": 450.96,
+			  "text": "regarding"
+			},
+			{
+			  "end": 451.96,
+			  "start": 451.8,
+			  "text": "our"
+			},
+			{
+			  "end": 452.8,
+			  "start": 451.96,
+			  "text": "results,"
+			},
+			{
+			  "end": 453.32,
+			  "start": 452.8,
+			  "text": "so"
+			},
+			{
+			  "end": 454,
+			  "start": 453.32,
+			  "text": "regarding"
+			},
+			{
+			  "end": 454.52,
+			  "start": 454,
+			  "text": "the"
+			},
+			{
+			  "end": 454.84,
+			  "start": 454.52,
+			  "text": "first"
+			},
+			{
+			  "end": 455.2,
+			  "start": 454.84,
+			  "text": "research"
+			},
+			{
+			  "end": 455.84,
+			  "start": 455.2,
+			  "text": "question"
+			},
+			{
+			  "end": 456.04,
+			  "start": 455.84,
+			  "text": "and"
+			},
+			{
+			  "end": 456.32,
+			  "start": 456.04,
+			  "text": "the"
+			},
+			{
+			  "end": 456.8,
+			  "start": 456.32,
+			  "text": "relationship"
+			},
+			{
+			  "end": 457.36,
+			  "start": 456.8,
+			  "text": "between"
+			},
+			{
+			  "end": 457.92,
+			  "start": 457.36,
+			  "text": "physiological"
+			},
+			{
+			  "end": 458.68,
+			  "start": 457.92,
+			  "text": "data"
+			},
+			{
+			  "end": 459.76,
+			  "start": 458.68,
+			  "text": "and"
+			},
+			{
+			  "end": 459.96,
+			  "start": 459.76,
+			  "text": "learning,"
+			},
+			{
+			  "end": 460.08,
+			  "start": 459.96,
+			  "text": "we"
+			},
+			{
+			  "end": 460.6,
+			  "start": 460.08,
+			  "text": "applied"
+			},
+			{
+			  "end": 461.04,
+			  "start": 460.6,
+			  "text": "multiple"
+			},
+			{
+			  "end": 461.68,
+			  "start": 461.04,
+			  "text": "regression"
+			},
+			{
+			  "end": 462.4,
+			  "start": 461.68,
+			  "text": "equations"
+			},
+			{
+			  "end": 462.64,
+			  "start": 462.4,
+			  "text": "and"
+			},
+			{
+			  "end": 463.04,
+			  "start": 462.64,
+			  "text": "we"
+			},
+			{
+			  "end": 463.68,
+			  "start": 463.04,
+			  "text": "found"
+			},
+			{
+			  "end": 464.04,
+			  "start": 463.68,
+			  "text": "that"
+			},
+			{
+			  "end": 464.84,
+			  "start": 464.04,
+			  "text": "actually"
+			},
+			{
+			  "end": 465.44,
+			  "start": 464.84,
+			  "text": "we"
+			},
+			{
+			  "end": 465.6,
+			  "start": 465.44,
+			  "text": "can"
+			},
+			{
+			  "end": 466.16,
+			  "start": 465.6,
+			  "text": "link"
+			},
+			{
+			  "end": 466.84,
+			  "start": 466.16,
+			  "text": "physiological"
+			},
+			{
+			  "end": 467.08,
+			  "start": 466.84,
+			  "text": "markers"
+			},
+			{
+			  "end": 467.56,
+			  "start": 467.08,
+			  "text": "to"
+			},
+			{
+			  "end": 468.32,
+			  "start": 467.56,
+			  "text": "students'"
+			},
+			{
+			  "end": 468.44,
+			  "start": 468.32,
+			  "text": "learning"
+			},
+			{
+			  "end": 469.4,
+			  "start": 468.44,
+			  "text": "outcomes."
+			},
+			{
+			  "end": 469.6,
+			  "start": 469.4,
+			  "text": "So"
+			},
+			{
+			  "end": 469.72,
+			  "start": 469.6,
+			  "text": "for"
+			},
+			{
+			  "end": 470.2,
+			  "start": 469.72,
+			  "text": "example,"
+			},
+			{
+			  "end": 470.56,
+			  "start": 470.2,
+			  "text": "we"
+			},
+			{
+			  "end": 471.04,
+			  "start": 470.56,
+			  "text": "found"
+			},
+			{
+			  "end": 471.08,
+			  "start": 471.04,
+			  "text": "that"
+			},
+			{
+			  "end": 471.76,
+			  "start": 471.08,
+			  "text": "arousal"
+			},
+			{
+			  "end": 472.08,
+			  "start": 471.76,
+			  "text": "coming"
+			},
+			{
+			  "end": 472.28,
+			  "start": 472.08,
+			  "text": "from"
+			},
+			{
+			  "end": 472.48,
+			  "start": 472.28,
+			  "text": "the"
+			},
+			{
+			  "end": 472.92,
+			  "start": 472.48,
+			  "text": "Brisbane"
+			},
+			{
+			  "end": 473.28,
+			  "start": 472.92,
+			  "text": "data"
+			},
+			{
+			  "end": 473.8,
+			  "start": 473.28,
+			  "text": "and"
+			},
+			{
+			  "end": 474.12,
+			  "start": 473.8,
+			  "text": "the"
+			},
+			{
+			  "end": 474.84,
+			  "start": 474.12,
+			  "text": "transition"
+			},
+			{
+			  "end": 475.16,
+			  "start": 474.84,
+			  "text": "between"
+			},
+			{
+			  "end": 475.92,
+			  "start": 475.16,
+			  "text": "happiness"
+			},
+			{
+			  "end": 476.12,
+			  "start": 475.92,
+			  "text": "and"
+			},
+			{
+			  "end": 476.68,
+			  "start": 476.12,
+			  "text": "surprise,"
+			},
+			{
+			  "end": 476.96,
+			  "start": 476.68,
+			  "text": "which"
+			},
+			{
+			  "end": 477.2,
+			  "start": 476.96,
+			  "text": "was"
+			},
+			{
+			  "end": 477.44,
+			  "start": 477.2,
+			  "text": "coming"
+			},
+			{
+			  "end": 477.56,
+			  "start": 477.44,
+			  "text": "from"
+			},
+			{
+			  "end": 477.76,
+			  "start": 477.56,
+			  "text": "the"
+			},
+			{
+			  "end": 478.16,
+			  "start": 477.76,
+			  "text": "facial"
+			},
+			{
+			  "end": 478.56,
+			  "start": 478.16,
+			  "text": "data,"
+			},
+			{
+			  "end": 478.96,
+			  "start": 478.56,
+			  "text": "has"
+			},
+			{
+			  "end": 479.24,
+			  "start": 478.96,
+			  "text": "a"
+			},
+			{
+			  "end": 479.68,
+			  "start": 479.24,
+			  "text": "positive"
+			},
+			{
+			  "end": 479.96,
+			  "start": 479.68,
+			  "text": "effect."
+			}
+		  ],
+		  "text": " But regarding our results, so regarding the first research question and the relationship between physiological data and learning, we applied multiple regression equations and we found that actually we can link physiological markers to students' learning outcomes. So for example, we found that arousal coming from the Brisbane data and the transition between happiness and surprise, which was coming from the facial data, has a positive effect."
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 480.72,
+			  "start": 480,
+			  "text": "on"
+			},
+			{
+			  "end": 480.92,
+			  "start": 480.72,
+			  "text": "how"
+			},
+			{
+			  "end": 481.52,
+			  "start": 480.92,
+			  "text": "students,"
+			},
+			{
+			  "end": 481.68,
+			  "start": 481.52,
+			  "text": "how"
+			},
+			{
+			  "end": 482.2,
+			  "start": 481.68,
+			  "text": "much"
+			},
+			{
+			  "end": 483.4,
+			  "start": 482.2,
+			  "text": "students"
+			},
+			{
+			  "end": 483.64,
+			  "start": 483.4,
+			  "text": "will"
+			},
+			{
+			  "end": 483.64,
+			  "start": 483.64,
+			  "text": "learn."
+			},
+			{
+			  "end": 484.12,
+			  "start": 483.64,
+			  "text": "Meanwhile,"
+			},
+			{
+			  "end": 484.72,
+			  "start": 484.12,
+			  "text": "sadness,"
+			},
+			{
+			  "end": 484.96,
+			  "start": 484.72,
+			  "text": "anger"
+			},
+			{
+			  "end": 485.2,
+			  "start": 484.96,
+			  "text": "and"
+			},
+			{
+			  "end": 486.04,
+			  "start": 485.2,
+			  "text": "stress"
+			},
+			{
+			  "end": 486.2,
+			  "start": 486.04,
+			  "text": "and"
+			},
+			{
+			  "end": 486.84,
+			  "start": 486.2,
+			  "text": "transition"
+			},
+			{
+			  "end": 487,
+			  "start": 486.84,
+			  "text": "between"
+			},
+			{
+			  "end": 487.6,
+			  "start": 487,
+			  "text": "sadness"
+			},
+			{
+			  "end": 487.92,
+			  "start": 487.6,
+			  "text": "and"
+			},
+			{
+			  "end": 488.44,
+			  "start": 487.92,
+			  "text": "anger"
+			},
+			{
+			  "end": 488.6,
+			  "start": 488.44,
+			  "text": "coming"
+			},
+			{
+			  "end": 489.08,
+			  "start": 488.6,
+			  "text": "again"
+			},
+			{
+			  "end": 489.28,
+			  "start": 489.08,
+			  "text": "from"
+			},
+			{
+			  "end": 489.4,
+			  "start": 489.28,
+			  "text": "the"
+			},
+			{
+			  "end": 489.88,
+			  "start": 489.4,
+			  "text": "facial"
+			},
+			{
+			  "end": 490.52,
+			  "start": 489.88,
+			  "text": "data"
+			},
+			{
+			  "end": 490.76,
+			  "start": 490.52,
+			  "text": "had"
+			},
+			{
+			  "end": 491,
+			  "start": 490.76,
+			  "text": "a"
+			},
+			{
+			  "end": 491.28,
+			  "start": 491,
+			  "text": "negative"
+			},
+			{
+			  "end": 491.64,
+			  "start": 491.28,
+			  "text": "effect"
+			},
+			{
+			  "end": 491.8,
+			  "start": 491.64,
+			  "text": "on"
+			},
+			{
+			  "end": 492,
+			  "start": 491.8,
+			  "text": "how"
+			},
+			{
+			  "end": 492.52,
+			  "start": 492,
+			  "text": "much"
+			},
+			{
+			  "end": 496.56,
+			  "start": 492.52,
+			  "text": "students"
+			},
+			{
+			  "end": 497.12,
+			  "start": 496.56,
+			  "text": "learn."
+			},
+			{
+			  "end": 497.6,
+			  "start": 497.12,
+			  "text": "Regarding"
+			},
+			{
+			  "end": 497.84,
+			  "start": 497.6,
+			  "text": "the"
+			},
+			{
+			  "end": 498.44,
+			  "start": 497.84,
+			  "text": "other"
+			},
+			{
+			  "end": 499.2,
+			  "start": 498.44,
+			  "text": "objective"
+			},
+			{
+			  "end": 499.28,
+			  "start": 499.2,
+			  "text": "of"
+			},
+			{
+			  "end": 499.52,
+			  "start": 499.28,
+			  "text": "the"
+			},
+			{
+			  "end": 500.36,
+			  "start": 499.52,
+			  "text": "study,"
+			},
+			{
+			  "end": 501.28,
+			  "start": 500.36,
+			  "text": "the"
+			},
+			{
+			  "end": 501.96,
+			  "start": 501.28,
+			  "text": "relationship"
+			},
+			{
+			  "end": 502.36,
+			  "start": 501.96,
+			  "text": "between"
+			},
+			{
+			  "end": 503.24,
+			  "start": 502.36,
+			  "text": "fun"
+			},
+			{
+			  "end": 503.64,
+			  "start": 503.24,
+			  "text": "and"
+			},
+			{
+			  "end": 504.68,
+			  "start": 503.64,
+			  "text": "physiological"
+			},
+			{
+			  "end": 504.92,
+			  "start": 504.68,
+			  "text": "data,"
+			},
+			{
+			  "end": 505.2,
+			  "start": 504.92,
+			  "text": "we"
+			},
+			{
+			  "end": 505.6,
+			  "start": 505.2,
+			  "text": "applied"
+			},
+			{
+			  "end": 505.92,
+			  "start": 505.6,
+			  "text": "again"
+			},
+			{
+			  "end": 506.52,
+			  "start": 505.92,
+			  "text": "multiple"
+			},
+			{
+			  "end": 507.24,
+			  "start": 506.52,
+			  "text": "regression"
+			},
+			{
+			  "end": 508.56,
+			  "start": 507.24,
+			  "text": "equations"
+			},
+			{
+			  "end": 509.72,
+			  "start": 508.56,
+			  "text": "and"
+			},
+			{
+			  "end": 509.96,
+			  "start": 509.72,
+			  "text": "we"
+			}
+		  ],
+		  "text": " on how students, how much students will learn. Meanwhile, sadness, anger and stress and transition between sadness and anger coming again from the facial data had a negative effect on how much students learn. Regarding the other objective of the study, the relationship between fun and physiological data, we applied again multiple regression equations and we"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 510.04,
+			  "start": 510,
+			  "text": "We"
+			},
+			{
+			  "end": 510.44,
+			  "start": 510.04,
+			  "text": "try"
+			},
+			{
+			  "end": 510.84,
+			  "start": 510.44,
+			  "text": "to"
+			},
+			{
+			  "end": 510.84,
+			  "start": 510.84,
+			  "text": "link"
+			},
+			{
+			  "end": 511.8,
+			  "start": 510.84,
+			  "text": "the"
+			},
+			{
+			  "end": 512.92,
+			  "start": 511.8,
+			  "text": "physiological"
+			},
+			{
+			  "end": 513.52,
+			  "start": 512.92,
+			  "text": "data"
+			},
+			{
+			  "end": 513.92,
+			  "start": 513.52,
+			  "text": "to"
+			},
+			{
+			  "end": 514.32,
+			  "start": 513.92,
+			  "text": "the"
+			},
+			{
+			  "end": 514.92,
+			  "start": 514.32,
+			  "text": "six"
+			},
+			{
+			  "end": 515.72,
+			  "start": 514.92,
+			  "text": "distinct"
+			},
+			{
+			  "end": 516.36,
+			  "start": 515.72,
+			  "text": "dimensions"
+			},
+			{
+			  "end": 516.56,
+			  "start": 516.36,
+			  "text": "of"
+			},
+			{
+			  "end": 517.12,
+			  "start": 516.56,
+			  "text": "FunQ."
+			},
+			{
+			  "end": 517.64,
+			  "start": 517.12,
+			  "text": "And"
+			},
+			{
+			  "end": 518.92,
+			  "start": 517.64,
+			  "text": "instead"
+			},
+			{
+			  "end": 519.48,
+			  "start": 518.92,
+			  "text": "of"
+			},
+			{
+			  "end": 519.68,
+			  "start": 519.48,
+			  "text": "going"
+			},
+			{
+			  "end": 519.92,
+			  "start": 519.68,
+			  "text": "through"
+			},
+			{
+			  "end": 520.16,
+			  "start": 519.92,
+			  "text": "all"
+			},
+			{
+			  "end": 520.48,
+			  "start": 520.16,
+			  "text": "this"
+			},
+			{
+			  "end": 521.24,
+			  "start": 520.48,
+			  "text": "information,"
+			},
+			{
+			  "end": 521.68,
+			  "start": 521.24,
+			  "text": "I"
+			},
+			{
+			  "end": 522.24,
+			  "start": 521.68,
+			  "text": "will"
+			},
+			{
+			  "end": 522.56,
+			  "start": 522.24,
+			  "text": "just"
+			},
+			{
+			  "end": 522.6,
+			  "start": 522.56,
+			  "text": "pick"
+			},
+			{
+			  "end": 522.6,
+			  "start": 522.6,
+			  "text": "one"
+			},
+			{
+			  "end": 522.6,
+			  "start": 522.6,
+			  "text": "and"
+			},
+			{
+			  "end": 523.48,
+			  "start": 522.6,
+			  "text": "tell"
+			},
+			{
+			  "end": 523.52,
+			  "start": 523.48,
+			  "text": "you"
+			},
+			{
+			  "end": 523.8,
+			  "start": 523.52,
+			  "text": "a"
+			},
+			{
+			  "end": 524.04,
+			  "start": 523.8,
+			  "text": "little"
+			},
+			{
+			  "end": 524.52,
+			  "start": 524.04,
+			  "text": "bit"
+			},
+			{
+			  "end": 524.96,
+			  "start": 524.52,
+			  "text": "more"
+			},
+			{
+			  "end": 525.36,
+			  "start": 524.96,
+			  "text": "about"
+			},
+			{
+			  "end": 525.68,
+			  "start": 525.36,
+			  "text": "it."
+			},
+			{
+			  "end": 525.92,
+			  "start": 525.68,
+			  "text": "So"
+			},
+			{
+			  "end": 526.04,
+			  "start": 525.92,
+			  "text": "for"
+			},
+			{
+			  "end": 526.44,
+			  "start": 526.04,
+			  "text": "example,"
+			},
+			{
+			  "end": 526.8,
+			  "start": 526.44,
+			  "text": "let's"
+			},
+			{
+			  "end": 527,
+			  "start": 526.8,
+			  "text": "see"
+			},
+			{
+			  "end": 527.76,
+			  "start": 527,
+			  "text": "stress."
+			},
+			{
+			  "end": 528.32,
+			  "start": 527.76,
+			  "text": "Stress"
+			},
+			{
+			  "end": 528.84,
+			  "start": 528.32,
+			  "text": "is"
+			},
+			{
+			  "end": 529.32,
+			  "start": 528.84,
+			  "text": "a"
+			},
+			{
+			  "end": 530.92,
+			  "start": 529.32,
+			  "text": "contraindicative"
+			},
+			{
+			  "end": 532.12,
+			  "start": 530.92,
+			  "text": "dimension"
+			},
+			{
+			  "end": 533.12,
+			  "start": 532.12,
+			  "text": "for"
+			},
+			{
+			  "end": 533.48,
+			  "start": 533.12,
+			  "text": "having"
+			},
+			{
+			  "end": 533.6,
+			  "start": 533.48,
+			  "text": "fun."
+			},
+			{
+			  "end": 534.2,
+			  "start": 533.6,
+			  "text": "And"
+			},
+			{
+			  "end": 535.48,
+			  "start": 534.2,
+			  "text": "what"
+			},
+			{
+			  "end": 535.88,
+			  "start": 535.48,
+			  "text": "we"
+			},
+			{
+			  "end": 536.28,
+			  "start": 535.88,
+			  "text": "found"
+			},
+			{
+			  "end": 536.8,
+			  "start": 536.28,
+			  "text": "is"
+			},
+			{
+			  "end": 537.64,
+			  "start": 536.8,
+			  "text": "actually"
+			},
+			{
+			  "end": 538.44,
+			  "start": 537.64,
+			  "text": "that"
+			},
+			{
+			  "end": 539.16,
+			  "start": 538.44,
+			  "text": "sadness,"
+			},
+			{
+			  "end": 539.32,
+			  "start": 539.16,
+			  "text": "anger,"
+			},
+			{
+			  "end": 539.96,
+			  "start": 539.32,
+			  "text": "stress"
+			}
+		  ],
+		  "text": " We try to link the physiological data to the six distinct dimensions of FunQ. And instead of going through all this information, I will just pick one and tell you a little bit more about it. So for example, let's see stress. Stress is a contraindicative dimension for having fun. And what we found is actually that sadness, anger, stress"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 540.44,
+			  "start": 540,
+			  "text": "The"
+			},
+			{
+			  "end": 541.04,
+			  "start": 540.44,
+			  "text": "transition"
+			},
+			{
+			  "end": 541.44,
+			  "start": 541.04,
+			  "text": "between"
+			},
+			{
+			  "end": 542,
+			  "start": 541.44,
+			  "text": "sadness"
+			},
+			{
+			  "end": 542.44,
+			  "start": 542,
+			  "text": "and"
+			},
+			{
+			  "end": 542.52,
+			  "start": 542.44,
+			  "text": "anger"
+			},
+			{
+			  "end": 543.08,
+			  "start": 542.52,
+			  "text": "contributed"
+			},
+			{
+			  "end": 544.04,
+			  "start": 543.08,
+			  "text": "positively"
+			},
+			{
+			  "end": 544.36,
+			  "start": 544.04,
+			  "text": "for"
+			},
+			{
+			  "end": 544.76,
+			  "start": 544.36,
+			  "text": "the"
+			},
+			{
+			  "end": 545.08,
+			  "start": 544.76,
+			  "text": "stress"
+			},
+			{
+			  "end": 545.72,
+			  "start": 545.08,
+			  "text": "factor."
+			},
+			{
+			  "end": 545.96,
+			  "start": 545.72,
+			  "text": "In"
+			},
+			{
+			  "end": 546.2,
+			  "start": 545.96,
+			  "text": "other"
+			},
+			{
+			  "end": 546.72,
+			  "start": 546.2,
+			  "text": "words,"
+			},
+			{
+			  "end": 547,
+			  "start": 546.72,
+			  "text": "it"
+			},
+			{
+			  "end": 547.36,
+			  "start": 547,
+			  "text": "had"
+			},
+			{
+			  "end": 547.4,
+			  "start": 547.36,
+			  "text": "a"
+			},
+			{
+			  "end": 547.92,
+			  "start": 547.4,
+			  "text": "negative"
+			},
+			{
+			  "end": 548.32,
+			  "start": 547.92,
+			  "text": "effect"
+			},
+			{
+			  "end": 548.48,
+			  "start": 548.32,
+			  "text": "on"
+			},
+			{
+			  "end": 549.36,
+			  "start": 548.48,
+			  "text": "students"
+			},
+			{
+			  "end": 549.88,
+			  "start": 549.36,
+			  "text": "having"
+			},
+			{
+			  "end": 550.36,
+			  "start": 549.88,
+			  "text": "fun."
+			},
+			{
+			  "end": 550.36,
+			  "start": 550.36,
+			  "text": "But"
+			},
+			{
+			  "end": 550.68,
+			  "start": 550.36,
+			  "text": "the"
+			},
+			{
+			  "end": 551.4,
+			  "start": 550.68,
+			  "text": "transition"
+			},
+			{
+			  "end": 551.8,
+			  "start": 551.4,
+			  "text": "between"
+			},
+			{
+			  "end": 552.52,
+			  "start": 551.8,
+			  "text": "happiness"
+			},
+			{
+			  "end": 552.64,
+			  "start": 552.52,
+			  "text": "and"
+			},
+			{
+			  "end": 552.64,
+			  "start": 552.64,
+			  "text": "surprise"
+			},
+			{
+			  "end": 553.24,
+			  "start": 552.64,
+			  "text": "had"
+			},
+			{
+			  "end": 553.32,
+			  "start": 553.24,
+			  "text": "a"
+			},
+			{
+			  "end": 553.84,
+			  "start": 553.32,
+			  "text": "negative"
+			},
+			{
+			  "end": 554.4,
+			  "start": 553.84,
+			  "text": "effect"
+			},
+			{
+			  "end": 555.12,
+			  "start": 554.4,
+			  "text": "on"
+			},
+			{
+			  "end": 555.36,
+			  "start": 555.12,
+			  "text": "the"
+			},
+			{
+			  "end": 556.04,
+			  "start": 555.36,
+			  "text": "stress"
+			},
+			{
+			  "end": 556.36,
+			  "start": 556.04,
+			  "text": "factor"
+			},
+			{
+			  "end": 556.52,
+			  "start": 556.36,
+			  "text": "of"
+			},
+			{
+			  "end": 556.84,
+			  "start": 556.52,
+			  "text": "fun"
+			},
+			{
+			  "end": 557.16,
+			  "start": 556.84,
+			  "text": "cue."
+			},
+			{
+			  "end": 557.36,
+			  "start": 557.16,
+			  "text": "In"
+			},
+			{
+			  "end": 557.64,
+			  "start": 557.36,
+			  "text": "other"
+			},
+			{
+			  "end": 557.96,
+			  "start": 557.64,
+			  "text": "words,"
+			},
+			{
+			  "end": 558.04,
+			  "start": 557.96,
+			  "text": "it"
+			},
+			{
+			  "end": 558.76,
+			  "start": 558.04,
+			  "text": "contributed"
+			},
+			{
+			  "end": 559.64,
+			  "start": 558.76,
+			  "text": "positively"
+			},
+			{
+			  "end": 559.92,
+			  "start": 559.64,
+			  "text": "to"
+			},
+			{
+			  "end": 560.16,
+			  "start": 559.92,
+			  "text": "the"
+			},
+			{
+			  "end": 561,
+			  "start": 560.16,
+			  "text": "experience"
+			},
+			{
+			  "end": 564.52,
+			  "start": 561,
+			  "text": "fun."
+			},
+			{
+			  "end": 564.92,
+			  "start": 564.52,
+			  "text": "So,"
+			},
+			{
+			  "end": 565.08,
+			  "start": 564.92,
+			  "text": "what"
+			},
+			{
+			  "end": 565.28,
+			  "start": 565.08,
+			  "text": "is"
+			},
+			{
+			  "end": 565.72,
+			  "start": 565.28,
+			  "text": "the"
+			},
+			{
+			  "end": 566.44,
+			  "start": 565.72,
+			  "text": "conclusion"
+			},
+			{
+			  "end": 566.44,
+			  "start": 566.44,
+			  "text": "of"
+			},
+			{
+			  "end": 566.76,
+			  "start": 566.44,
+			  "text": "this"
+			},
+			{
+			  "end": 567.12,
+			  "start": 566.76,
+			  "text": "study?"
+			},
+			{
+			  "end": 567.36,
+			  "start": 567.12,
+			  "text": "Why"
+			},
+			{
+			  "end": 567.56,
+			  "start": 567.36,
+			  "text": "is"
+			},
+			{
+			  "end": 567.68,
+			  "start": 567.56,
+			  "text": "it"
+			},
+			{
+			  "end": 568.4,
+			  "start": 567.68,
+			  "text": "interesting"
+			},
+			{
+			  "end": 568.64,
+			  "start": 568.4,
+			  "text": "at"
+			},
+			{
+			  "end": 569.96,
+			  "start": 568.64,
+			  "text": "all?"
+			}
+		  ],
+		  "text": " The transition between sadness and anger contributed positively for the stress factor. In other words, it had a negative effect on students having fun. But the transition between happiness and surprise had a negative effect on the stress factor of fun cue. In other words, it contributed positively to the experience fun. So, what is the conclusion of this study? Why is it interesting at all?"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 571,
+			  "start": 570,
+			  "text": "First"
+			},
+			{
+			  "end": 571.36,
+			  "start": 571,
+			  "text": "of"
+			},
+			{
+			  "end": 571.88,
+			  "start": 571.36,
+			  "text": "all,"
+			},
+			{
+			  "end": 572.68,
+			  "start": 571.88,
+			  "text": "the"
+			},
+			{
+			  "end": 573.2,
+			  "start": 572.68,
+			  "text": "first"
+			},
+			{
+			  "end": 573.76,
+			  "start": 573.2,
+			  "text": "conclusion"
+			},
+			{
+			  "end": 574.12,
+			  "start": 573.76,
+			  "text": "I"
+			},
+			{
+			  "end": 574.24,
+			  "start": 574.12,
+			  "text": "think,"
+			},
+			{
+			  "end": 574.36,
+			  "start": 574.24,
+			  "text": "and"
+			},
+			{
+			  "end": 574.52,
+			  "start": 574.36,
+			  "text": "main"
+			},
+			{
+			  "end": 575.08,
+			  "start": 574.52,
+			  "text": "conclusion"
+			},
+			{
+			  "end": 575.24,
+			  "start": 575.08,
+			  "text": "is"
+			},
+			{
+			  "end": 575.24,
+			  "start": 575.24,
+			  "text": "that"
+			},
+			{
+			  "end": 575.48,
+			  "start": 575.24,
+			  "text": "an"
+			},
+			{
+			  "end": 576.24,
+			  "start": 575.48,
+			  "text": "obstructive"
+			},
+			{
+			  "end": 577.08,
+			  "start": 576.24,
+			  "text": "physiological"
+			},
+			{
+			  "end": 577.32,
+			  "start": 577.08,
+			  "text": "data"
+			},
+			{
+			  "end": 577.48,
+			  "start": 577.32,
+			  "text": "can"
+			},
+			{
+			  "end": 577.84,
+			  "start": 577.48,
+			  "text": "provide"
+			},
+			{
+			  "end": 578.08,
+			  "start": 577.84,
+			  "text": "us"
+			},
+			{
+			  "end": 578.76,
+			  "start": 578.08,
+			  "text": "with"
+			},
+			{
+			  "end": 579.28,
+			  "start": 578.76,
+			  "text": "immediate"
+			},
+			{
+			  "end": 579.84,
+			  "start": 579.28,
+			  "text": "feedback"
+			},
+			{
+			  "end": 580.4,
+			  "start": 579.84,
+			  "text": "without"
+			},
+			{
+			  "end": 581.28,
+			  "start": 580.4,
+			  "text": "disruption"
+			},
+			{
+			  "end": 581.44,
+			  "start": 581.28,
+			  "text": "of"
+			},
+			{
+			  "end": 581.56,
+			  "start": 581.44,
+			  "text": "the"
+			},
+			{
+			  "end": 581.92,
+			  "start": 581.56,
+			  "text": "learning"
+			},
+			{
+			  "end": 582.84,
+			  "start": 581.92,
+			  "text": "experience."
+			},
+			{
+			  "end": 582.84,
+			  "start": 582.84,
+			  "text": "If"
+			},
+			{
+			  "end": 582.84,
+			  "start": 582.84,
+			  "text": "you"
+			},
+			{
+			  "end": 582.84,
+			  "start": 582.84,
+			  "text": "remember"
+			},
+			{
+			  "end": 582.88,
+			  "start": 582.84,
+			  "text": "I"
+			},
+			{
+			  "end": 583.32,
+			  "start": 582.88,
+			  "text": "said"
+			},
+			{
+			  "end": 584,
+			  "start": 583.32,
+			  "text": "that"
+			},
+			{
+			  "end": 584.08,
+			  "start": 584,
+			  "text": "we"
+			},
+			{
+			  "end": 584.32,
+			  "start": 584.08,
+			  "text": "can"
+			},
+			{
+			  "end": 584.8,
+			  "start": 584.32,
+			  "text": "use"
+			},
+			{
+			  "end": 585.6,
+			  "start": 584.8,
+			  "text": "self-reports,"
+			},
+			{
+			  "end": 585.6,
+			  "start": 585.6,
+			  "text": "but"
+			},
+			{
+			  "end": 585.84,
+			  "start": 585.6,
+			  "text": "either"
+			},
+			{
+			  "end": 586.4,
+			  "start": 585.84,
+			  "text": "it"
+			},
+			{
+			  "end": 586.56,
+			  "start": 586.4,
+			  "text": "is"
+			},
+			{
+			  "end": 587.56,
+			  "start": 586.56,
+			  "text": "retrospective"
+			},
+			{
+			  "end": 588.08,
+			  "start": 587.56,
+			  "text": "and"
+			},
+			{
+			  "end": 588.48,
+			  "start": 588.08,
+			  "text": "showing"
+			},
+			{
+			  "end": 589.16,
+			  "start": 588.48,
+			  "text": "backwards"
+			},
+			{
+			  "end": 589.64,
+			  "start": 589.16,
+			  "text": "at"
+			},
+			{
+			  "end": 590.16,
+			  "start": 589.64,
+			  "text": "the"
+			},
+			{
+			  "end": 590.68,
+			  "start": 590.16,
+			  "text": "end"
+			},
+			{
+			  "end": 591.04,
+			  "start": 590.68,
+			  "text": "of"
+			},
+			{
+			  "end": 591.12,
+			  "start": 591.04,
+			  "text": "the"
+			},
+			{
+			  "end": 591.76,
+			  "start": 591.12,
+			  "text": "session,"
+			},
+			{
+			  "end": 592.12,
+			  "start": 591.76,
+			  "text": "or"
+			},
+			{
+			  "end": 592.28,
+			  "start": 592.12,
+			  "text": "you"
+			},
+			{
+			  "end": 593.2,
+			  "start": 592.28,
+			  "text": "disrupt"
+			},
+			{
+			  "end": 593.56,
+			  "start": 593.2,
+			  "text": "the"
+			},
+			{
+			  "end": 594.32,
+			  "start": 593.56,
+			  "text": "learning"
+			},
+			{
+			  "end": 594.92,
+			  "start": 594.32,
+			  "text": "process"
+			},
+			{
+			  "end": 595.2,
+			  "start": 594.92,
+			  "text": "if"
+			},
+			{
+			  "end": 595.32,
+			  "start": 595.2,
+			  "text": "you"
+			},
+			{
+			  "end": 595.56,
+			  "start": 595.32,
+			  "text": "are"
+			},
+			{
+			  "end": 595.92,
+			  "start": 595.56,
+			  "text": "asking"
+			},
+			{
+			  "end": 596.4,
+			  "start": 595.92,
+			  "text": "children"
+			},
+			{
+			  "end": 596.72,
+			  "start": 596.4,
+			  "text": "to"
+			},
+			{
+			  "end": 597.24,
+			  "start": 596.72,
+			  "text": "self-report"
+			},
+			{
+			  "end": 597.24,
+			  "start": 597.24,
+			  "text": "in"
+			},
+			{
+			  "end": 597.44,
+			  "start": 597.24,
+			  "text": "between."
+			},
+			{
+			  "end": 597.56,
+			  "start": 597.44,
+			  "text": "So"
+			},
+			{
+			  "end": 597.8,
+			  "start": 597.56,
+			  "text": "this"
+			},
+			{
+			  "end": 598.2,
+			  "start": 597.8,
+			  "text": "is"
+			},
+			{
+			  "end": 598.52,
+			  "start": 598.2,
+			  "text": "a"
+			},
+			{
+			  "end": 599.24,
+			  "start": 598.52,
+			  "text": "solution"
+			},
+			{
+			  "end": 599.72,
+			  "start": 599.24,
+			  "text": "for"
+			},
+			{
+			  "end": 599.96,
+			  "start": 599.72,
+			  "text": "that."
+			}
+		  ],
+		  "text": " First of all, the first conclusion I think, and main conclusion is that an obstructive physiological data can provide us with immediate feedback without disruption of the learning experience. If you remember I said that we can use self-reports, but either it is retrospective and showing backwards at the end of the session, or you disrupt the learning process if you are asking children to self-report in between. So this is a solution for that."
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 600.68,
+			  "start": 600,
+			  "text": "We"
+			},
+			{
+			  "end": 601.68,
+			  "start": 600.68,
+			  "text": "also"
+			},
+			{
+			  "end": 602.28,
+			  "start": 601.68,
+			  "text": "found"
+			},
+			{
+			  "end": 602.36,
+			  "start": 602.28,
+			  "text": "that"
+			},
+			{
+			  "end": 603.28,
+			  "start": 602.36,
+			  "text": "investigating"
+			},
+			{
+			  "end": 603.48,
+			  "start": 603.28,
+			  "text": "fun"
+			},
+			{
+			  "end": 603.68,
+			  "start": 603.48,
+			  "text": "by"
+			},
+			{
+			  "end": 603.96,
+			  "start": 603.68,
+			  "text": "learning"
+			},
+			{
+			  "end": 604.16,
+			  "start": 603.96,
+			  "text": "to"
+			},
+			{
+			  "end": 604.44,
+			  "start": 604.16,
+			  "text": "code"
+			},
+			{
+			  "end": 604.8,
+			  "start": 604.44,
+			  "text": "with"
+			},
+			{
+			  "end": 605.16,
+			  "start": 604.8,
+			  "text": "this"
+			},
+			{
+			  "end": 605.84,
+			  "start": 605.16,
+			  "text": "multimodal"
+			},
+			{
+			  "end": 606.16,
+			  "start": 605.84,
+			  "text": "data"
+			},
+			{
+			  "end": 606.8,
+			  "start": 606.16,
+			  "text": "approach"
+			},
+			{
+			  "end": 607.2,
+			  "start": 606.8,
+			  "text": "allowed"
+			},
+			{
+			  "end": 607.24,
+			  "start": 607.2,
+			  "text": "us"
+			},
+			{
+			  "end": 607.6,
+			  "start": 607.24,
+			  "text": "deeper"
+			},
+			{
+			  "end": 608.68,
+			  "start": 607.6,
+			  "text": "understanding"
+			},
+			{
+			  "end": 608.88,
+			  "start": 608.68,
+			  "text": "of"
+			},
+			{
+			  "end": 609.24,
+			  "start": 608.88,
+			  "text": "learning"
+			},
+			{
+			  "end": 610.72,
+			  "start": 609.24,
+			  "text": "processes."
+			},
+			{
+			  "end": 612.68,
+			  "start": 610.72,
+			  "text": "So"
+			},
+			{
+			  "end": 613.16,
+			  "start": 612.68,
+			  "text": "we"
+			},
+			{
+			  "end": 613.52,
+			  "start": 613.16,
+			  "text": "were"
+			},
+			{
+			  "end": 613.96,
+			  "start": 613.52,
+			  "text": "able"
+			},
+			{
+			  "end": 615.2,
+			  "start": 613.96,
+			  "text": "to"
+			},
+			{
+			  "end": 615.6,
+			  "start": 615.2,
+			  "text": "see"
+			},
+			{
+			  "end": 615.92,
+			  "start": 615.6,
+			  "text": "how"
+			},
+			{
+			  "end": 616.56,
+			  "start": 615.92,
+			  "text": "fun"
+			},
+			{
+			  "end": 617.28,
+			  "start": 616.56,
+			  "text": "occurs"
+			},
+			{
+			  "end": 617.6,
+			  "start": 617.28,
+			  "text": "during"
+			},
+			{
+			  "end": 618.12,
+			  "start": 617.6,
+			  "text": "learning"
+			},
+			{
+			  "end": 618.28,
+			  "start": 618.12,
+			  "text": "to"
+			},
+			{
+			  "end": 619.08,
+			  "start": 618.28,
+			  "text": "program"
+			},
+			{
+			  "end": 619.24,
+			  "start": 619.08,
+			  "text": "and"
+			},
+			{
+			  "end": 619.72,
+			  "start": 619.24,
+			  "text": "which"
+			},
+			{
+			  "end": 620.76,
+			  "start": 619.72,
+			  "text": "physio-affective"
+			},
+			{
+			  "end": 621.04,
+			  "start": 620.76,
+			  "text": "states"
+			},
+			{
+			  "end": 621.28,
+			  "start": 621.04,
+			  "text": "can"
+			},
+			{
+			  "end": 621.48,
+			  "start": 621.28,
+			  "text": "be"
+			},
+			{
+			  "end": 622.04,
+			  "start": 621.48,
+			  "text": "used"
+			},
+			{
+			  "end": 622.32,
+			  "start": 622.04,
+			  "text": "as"
+			},
+			{
+			  "end": 622.6,
+			  "start": 622.32,
+			  "text": "a"
+			},
+			{
+			  "end": 623,
+			  "start": 622.6,
+			  "text": "predictor"
+			},
+			{
+			  "end": 624.04,
+			  "start": 623,
+			  "text": "for"
+			},
+			{
+			  "end": 624.64,
+			  "start": 624.04,
+			  "text": "fun."
+			},
+			{
+			  "end": 626.32,
+			  "start": 624.64,
+			  "text": "And"
+			},
+			{
+			  "end": 627.32,
+			  "start": 626.32,
+			  "text": "so"
+			},
+			{
+			  "end": 627.64,
+			  "start": 627.32,
+			  "text": "in"
+			},
+			{
+			  "end": 628,
+			  "start": 627.64,
+			  "text": "sum,"
+			},
+			{
+			  "end": 628.72,
+			  "start": 628,
+			  "text": "we"
+			},
+			{
+			  "end": 629.96,
+			  "start": 628.72,
+			  "text": "could"
+			}
+		  ],
+		  "text": " We also found that investigating fun by learning to code with this multimodal data approach allowed us deeper understanding of learning processes. So we were able to see how fun occurs during learning to program and which physio-affective states can be used as a predictor for fun. And so in sum, we could"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 631.2,
+			  "start": 630,
+			  "text": "both"
+			},
+			{
+			  "end": 631.72,
+			  "start": 631.2,
+			  "text": "predict"
+			},
+			{
+			  "end": 632.2,
+			  "start": 631.72,
+			  "text": "learning"
+			},
+			{
+			  "end": 632.48,
+			  "start": 632.2,
+			  "text": "and"
+			},
+			{
+			  "end": 632.84,
+			  "start": 632.48,
+			  "text": "fun"
+			},
+			{
+			  "end": 632.88,
+			  "start": 632.84,
+			  "text": "to"
+			},
+			{
+			  "end": 633.56,
+			  "start": 632.88,
+			  "text": "certain"
+			},
+			{
+			  "end": 634,
+			  "start": 633.56,
+			  "text": "physiological"
+			},
+			{
+			  "end": 634.84,
+			  "start": 634,
+			  "text": "markers."
+			},
+			{
+			  "end": 635.32,
+			  "start": 634.84,
+			  "text": "And"
+			},
+			{
+			  "end": 635.64,
+			  "start": 635.32,
+			  "text": "why"
+			},
+			{
+			  "end": 636.24,
+			  "start": 635.64,
+			  "text": "is"
+			},
+			{
+			  "end": 636.64,
+			  "start": 636.24,
+			  "text": "it"
+			},
+			{
+			  "end": 637.16,
+			  "start": 636.64,
+			  "text": "interesting?"
+			},
+			{
+			  "end": 637.64,
+			  "start": 637.16,
+			  "text": "Well,"
+			},
+			{
+			  "end": 638.2,
+			  "start": 637.64,
+			  "text": "some"
+			},
+			{
+			  "end": 638.32,
+			  "start": 638.2,
+			  "text": "of"
+			},
+			{
+			  "end": 638.56,
+			  "start": 638.32,
+			  "text": "the"
+			},
+			{
+			  "end": 639.28,
+			  "start": 638.56,
+			  "text": "previous"
+			},
+			{
+			  "end": 639.8,
+			  "start": 639.28,
+			  "text": "studies,"
+			},
+			{
+			  "end": 640.12,
+			  "start": 639.8,
+			  "text": "and"
+			},
+			{
+			  "end": 640.64,
+			  "start": 640.12,
+			  "text": "most"
+			},
+			{
+			  "end": 641.16,
+			  "start": 640.64,
+			  "text": "of"
+			},
+			{
+			  "end": 642,
+			  "start": 641.16,
+			  "text": "them"
+			},
+			{
+			  "end": 642.72,
+			  "start": 642,
+			  "text": "coming"
+			},
+			{
+			  "end": 643.12,
+			  "start": 642.72,
+			  "text": "from"
+			},
+			{
+			  "end": 643.76,
+			  "start": 643.12,
+			  "text": "Antti-Annu"
+			},
+			{
+			  "end": 643.96,
+			  "start": 643.76,
+			  "text": "and"
+			},
+			{
+			  "end": 644.88,
+			  "start": 643.96,
+			  "text": "Xytič,"
+			},
+			{
+			  "end": 644.96,
+			  "start": 644.88,
+			  "text": "had"
+			},
+			{
+			  "end": 645.16,
+			  "start": 644.96,
+			  "text": "already"
+			},
+			{
+			  "end": 645.68,
+			  "start": 645.16,
+			  "text": "focused"
+			},
+			{
+			  "end": 646,
+			  "start": 645.68,
+			  "text": "on"
+			},
+			{
+			  "end": 646.2,
+			  "start": 646,
+			  "text": "the"
+			},
+			{
+			  "end": 647.16,
+			  "start": 646.2,
+			  "text": "relationship"
+			},
+			{
+			  "end": 647.8,
+			  "start": 647.16,
+			  "text": "between"
+			},
+			{
+			  "end": 648.92,
+			  "start": 647.8,
+			  "text": "learning"
+			},
+			{
+			  "end": 649.2,
+			  "start": 648.92,
+			  "text": "and"
+			},
+			{
+			  "end": 649.84,
+			  "start": 649.2,
+			  "text": "physiological"
+			},
+			{
+			  "end": 650.52,
+			  "start": 649.84,
+			  "text": "markers."
+			},
+			{
+			  "end": 651.12,
+			  "start": 650.52,
+			  "text": "But"
+			},
+			{
+			  "end": 651.2,
+			  "start": 651.12,
+			  "text": "the"
+			},
+			{
+			  "end": 652.08,
+			  "start": 651.2,
+			  "text": "relationship"
+			},
+			{
+			  "end": 653.2,
+			  "start": 652.08,
+			  "text": "between"
+			},
+			{
+			  "end": 653.84,
+			  "start": 653.2,
+			  "text": "fun,"
+			},
+			{
+			  "end": 654.12,
+			  "start": 653.84,
+			  "text": "which"
+			},
+			{
+			  "end": 654.44,
+			  "start": 654.12,
+			  "text": "is"
+			},
+			{
+			  "end": 654.72,
+			  "start": 654.44,
+			  "text": "a"
+			},
+			{
+			  "end": 655.64,
+			  "start": 654.72,
+			  "text": "focus"
+			},
+			{
+			  "end": 656,
+			  "start": 655.64,
+			  "text": "point"
+			},
+			{
+			  "end": 656.24,
+			  "start": 656,
+			  "text": "of"
+			},
+			{
+			  "end": 656.52,
+			  "start": 656.24,
+			  "text": "this"
+			},
+			{
+			  "end": 656.96,
+			  "start": 656.52,
+			  "text": "community,"
+			},
+			{
+			  "end": 657.36,
+			  "start": 656.96,
+			  "text": "I"
+			},
+			{
+			  "end": 657.6,
+			  "start": 657.36,
+			  "text": "believe,"
+			},
+			{
+			  "end": 658.12,
+			  "start": 657.6,
+			  "text": "has"
+			},
+			{
+			  "end": 658.84,
+			  "start": 658.12,
+			  "text": "never"
+			},
+			{
+			  "end": 659.2,
+			  "start": 658.84,
+			  "text": "been"
+			},
+			{
+			  "end": 659.96,
+			  "start": 659.2,
+			  "text": "investigated"
+			}
+		  ],
+		  "text": " both predict learning and fun to certain physiological markers. And why is it interesting? Well, some of the previous studies, and most of them coming from Antti-Annu and Xytič, had already focused on the relationship between learning and physiological markers. But the relationship between fun, which is a focus point of this community, I believe, has never been investigated"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 660.16,
+			  "start": 660,
+			  "text": "from"
+			},
+			{
+			  "end": 660.6,
+			  "start": 660.16,
+			  "text": "this"
+			},
+			{
+			  "end": 660.88,
+			  "start": 660.6,
+			  "text": "angle"
+			},
+			{
+			  "end": 661.36,
+			  "start": 660.88,
+			  "text": "whether"
+			},
+			{
+			  "end": 661.36,
+			  "start": 661.36,
+			  "text": "we"
+			},
+			{
+			  "end": 662.04,
+			  "start": 661.36,
+			  "text": "can"
+			},
+			{
+			  "end": 662.28,
+			  "start": 662.04,
+			  "text": "link"
+			},
+			{
+			  "end": 662.36,
+			  "start": 662.28,
+			  "text": "it"
+			},
+			{
+			  "end": 662.44,
+			  "start": 662.36,
+			  "text": "to"
+			},
+			{
+			  "end": 663.2,
+			  "start": 662.44,
+			  "text": "physiological"
+			},
+			{
+			  "end": 664.12,
+			  "start": 663.2,
+			  "text": "markers."
+			},
+			{
+			  "end": 664.2,
+			  "start": 664.12,
+			  "text": "And"
+			},
+			{
+			  "end": 664.64,
+			  "start": 664.2,
+			  "text": "why"
+			},
+			{
+			  "end": 664.84,
+			  "start": 664.64,
+			  "text": "is"
+			},
+			{
+			  "end": 665.24,
+			  "start": 664.84,
+			  "text": "it"
+			},
+			{
+			  "end": 666.04,
+			  "start": 665.24,
+			  "text": "interesting"
+			},
+			{
+			  "end": 666.56,
+			  "start": 666.04,
+			  "text": "that"
+			},
+			{
+			  "end": 666.56,
+			  "start": 666.56,
+			  "text": "we"
+			},
+			{
+			  "end": 666.56,
+			  "start": 666.56,
+			  "text": "can"
+			},
+			{
+			  "end": 666.56,
+			  "start": 666.56,
+			  "text": "do"
+			},
+			{
+			  "end": 667.6,
+			  "start": 666.56,
+			  "text": "that?"
+			},
+			{
+			  "end": 667.72,
+			  "start": 667.6,
+			  "text": "Well,"
+			},
+			{
+			  "end": 668.28,
+			  "start": 667.72,
+			  "text": "predicting"
+			},
+			{
+			  "end": 668.84,
+			  "start": 668.28,
+			  "text": "fun"
+			},
+			{
+			  "end": 669.04,
+			  "start": 668.84,
+			  "text": "from"
+			},
+			{
+			  "end": 670.04,
+			  "start": 669.04,
+			  "text": "physiological"
+			},
+			{
+			  "end": 670.4,
+			  "start": 670.04,
+			  "text": "data"
+			},
+			{
+			  "end": 670.92,
+			  "start": 670.4,
+			  "text": "can"
+			},
+			{
+			  "end": 671.2,
+			  "start": 670.92,
+			  "text": "be"
+			},
+			{
+			  "end": 672.2,
+			  "start": 671.2,
+			  "text": "potentially"
+			},
+			{
+			  "end": 672.76,
+			  "start": 672.2,
+			  "text": "further"
+			},
+			{
+			  "end": 673.2,
+			  "start": 672.76,
+			  "text": "developed"
+			},
+			{
+			  "end": 673.76,
+			  "start": 673.2,
+			  "text": "to"
+			},
+			{
+			  "end": 674,
+			  "start": 673.76,
+			  "text": "support"
+			},
+			{
+			  "end": 674.48,
+			  "start": 674,
+			  "text": "timely"
+			},
+			{
+			  "end": 675.52,
+			  "start": 674.48,
+			  "text": "interventions"
+			},
+			{
+			  "end": 676,
+			  "start": 675.52,
+			  "text": "to"
+			},
+			{
+			  "end": 676.44,
+			  "start": 676,
+			  "text": "increase"
+			},
+			{
+			  "end": 676.8,
+			  "start": 676.44,
+			  "text": "learning"
+			},
+			{
+			  "end": 682,
+			  "start": 676.8,
+			  "text": "outcomes."
+			},
+			{
+			  "end": 682.28,
+			  "start": 682,
+			  "text": "Now,"
+			},
+			{
+			  "end": 682.56,
+			  "start": 682.28,
+			  "text": "as"
+			},
+			{
+			  "end": 682.84,
+			  "start": 682.56,
+			  "text": "every"
+			},
+			{
+			  "end": 683.08,
+			  "start": 682.84,
+			  "text": "study,"
+			},
+			{
+			  "end": 683.36,
+			  "start": 683.08,
+			  "text": "our"
+			},
+			{
+			  "end": 683.64,
+			  "start": 683.36,
+			  "text": "study"
+			},
+			{
+			  "end": 684.08,
+			  "start": 683.64,
+			  "text": "had"
+			},
+			{
+			  "end": 684.64,
+			  "start": 684.08,
+			  "text": "also"
+			},
+			{
+			  "end": 684.84,
+			  "start": 684.64,
+			  "text": "some"
+			},
+			{
+			  "end": 685.64,
+			  "start": 684.84,
+			  "text": "limitations,"
+			},
+			{
+			  "end": 685.64,
+			  "start": 685.64,
+			  "text": "but"
+			},
+			{
+			  "end": 685.64,
+			  "start": 685.64,
+			  "text": "we"
+			},
+			{
+			  "end": 685.64,
+			  "start": 685.64,
+			  "text": "are"
+			},
+			{
+			  "end": 685.64,
+			  "start": 685.64,
+			  "text": "very"
+			},
+			{
+			  "end": 685.64,
+			  "start": 685.64,
+			  "text": "happy"
+			},
+			{
+			  "end": 685.84,
+			  "start": 685.64,
+			  "text": "with"
+			},
+			{
+			  "end": 686.76,
+			  "start": 685.84,
+			  "text": "them"
+			},
+			{
+			  "end": 687.56,
+			  "start": 686.76,
+			  "text": "because"
+			},
+			{
+			  "end": 688.04,
+			  "start": 687.56,
+			  "text": "they"
+			},
+			{
+			  "end": 688.04,
+			  "start": 688.04,
+			  "text": "are"
+			},
+			{
+			  "end": 688.56,
+			  "start": 688.04,
+			  "text": "pointing"
+			},
+			{
+			  "end": 688.96,
+			  "start": 688.56,
+			  "text": "toward"
+			},
+			{
+			  "end": 689.4,
+			  "start": 688.96,
+			  "text": "future"
+			},
+			{
+			  "end": 689.96,
+			  "start": 689.4,
+			  "text": "work."
+			}
+		  ],
+		  "text": " from this angle whether we can link it to physiological markers. And why is it interesting that we can do that? Well, predicting fun from physiological data can be potentially further developed to support timely interventions to increase learning outcomes. Now, as every study, our study had also some limitations, but we are very happy with them because they are pointing toward future work."
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 690.48,
+			  "start": 690,
+			  "text": "So"
+			},
+			{
+			  "end": 690.76,
+			  "start": 690.48,
+			  "text": "the"
+			},
+			{
+			  "end": 691.6,
+			  "start": 690.76,
+			  "text": "first"
+			},
+			{
+			  "end": 692.44,
+			  "start": 691.6,
+			  "text": "limitation"
+			},
+			{
+			  "end": 692.64,
+			  "start": 692.44,
+			  "text": "is"
+			},
+			{
+			  "end": 692.96,
+			  "start": 692.64,
+			  "text": "that"
+			},
+			{
+			  "end": 693.32,
+			  "start": 692.96,
+			  "text": "we"
+			},
+			{
+			  "end": 694.2,
+			  "start": 693.32,
+			  "text": "encountered"
+			},
+			{
+			  "end": 694.8,
+			  "start": 694.2,
+			  "text": "practical"
+			},
+			{
+			  "end": 696.04,
+			  "start": 694.8,
+			  "text": "difficulties"
+			},
+			{
+			  "end": 696.36,
+			  "start": 696.04,
+			  "text": "when"
+			},
+			{
+			  "end": 696.88,
+			  "start": 696.36,
+			  "text": "collecting"
+			},
+			{
+			  "end": 697.72,
+			  "start": 696.88,
+			  "text": "physiological"
+			},
+			{
+			  "end": 698.16,
+			  "start": 697.72,
+			  "text": "data."
+			},
+			{
+			  "end": 698.36,
+			  "start": 698.16,
+			  "text": "In"
+			},
+			{
+			  "end": 698.6,
+			  "start": 698.36,
+			  "text": "our"
+			},
+			{
+			  "end": 699.48,
+			  "start": 698.6,
+			  "text": "case,"
+			},
+			{
+			  "end": 699.92,
+			  "start": 699.48,
+			  "text": "when"
+			},
+			{
+			  "end": 700.36,
+			  "start": 699.92,
+			  "text": "we"
+			},
+			{
+			  "end": 700.96,
+			  "start": 700.36,
+			  "text": "tried"
+			},
+			{
+			  "end": 701.32,
+			  "start": 700.96,
+			  "text": "to"
+			},
+			{
+			  "end": 701.6,
+			  "start": 701.32,
+			  "text": "attach"
+			},
+			{
+			  "end": 702,
+			  "start": 701.6,
+			  "text": "the"
+			},
+			{
+			  "end": 702.68,
+			  "start": 702,
+			  "text": "wristband"
+			},
+			{
+			  "end": 702.68,
+			  "start": 702.68,
+			  "text": "to"
+			},
+			{
+			  "end": 702.72,
+			  "start": 702.68,
+			  "text": "the"
+			},
+			{
+			  "end": 703.56,
+			  "start": 702.72,
+			  "text": "children's"
+			},
+			{
+			  "end": 703.92,
+			  "start": 703.56,
+			  "text": "wrist,"
+			},
+			{
+			  "end": 704.56,
+			  "start": 703.92,
+			  "text": "actually,"
+			},
+			{
+			  "end": 704.72,
+			  "start": 704.56,
+			  "text": "some"
+			},
+			{
+			  "end": 704.76,
+			  "start": 704.72,
+			  "text": "of"
+			},
+			{
+			  "end": 705.16,
+			  "start": 704.76,
+			  "text": "the"
+			},
+			{
+			  "end": 705.36,
+			  "start": 705.16,
+			  "text": "wrist"
+			},
+			{
+			  "end": 705.44,
+			  "start": 705.36,
+			  "text": "were"
+			},
+			{
+			  "end": 705.8,
+			  "start": 705.44,
+			  "text": "just"
+			},
+			{
+			  "end": 706.36,
+			  "start": 705.8,
+			  "text": "so"
+			},
+			{
+			  "end": 706.8,
+			  "start": 706.36,
+			  "text": "skinny"
+			},
+			{
+			  "end": 706.92,
+			  "start": 706.8,
+			  "text": "that"
+			},
+			{
+			  "end": 707.08,
+			  "start": 706.92,
+			  "text": "it"
+			},
+			{
+			  "end": 707.36,
+			  "start": 707.08,
+			  "text": "didn't"
+			},
+			{
+			  "end": 707.48,
+			  "start": 707.36,
+			  "text": "attach"
+			},
+			{
+			  "end": 707.68,
+			  "start": 707.48,
+			  "text": "to"
+			},
+			{
+			  "end": 708.04,
+			  "start": 707.68,
+			  "text": "the"
+			},
+			{
+			  "end": 708.6,
+			  "start": 708.04,
+			  "text": "skin."
+			},
+			{
+			  "end": 709.4,
+			  "start": 708.6,
+			  "text": "And"
+			},
+			{
+			  "end": 709.64,
+			  "start": 709.4,
+			  "text": "if"
+			},
+			{
+			  "end": 709.88,
+			  "start": 709.64,
+			  "text": "it"
+			},
+			{
+			  "end": 710.72,
+			  "start": 709.88,
+			  "text": "doesn't"
+			},
+			{
+			  "end": 711.28,
+			  "start": 710.72,
+			  "text": "attach"
+			},
+			{
+			  "end": 711.4,
+			  "start": 711.28,
+			  "text": "to"
+			},
+			{
+			  "end": 711.8,
+			  "start": 711.4,
+			  "text": "the"
+			},
+			{
+			  "end": 712.24,
+			  "start": 711.8,
+			  "text": "skin,"
+			},
+			{
+			  "end": 712.48,
+			  "start": 712.24,
+			  "text": "you"
+			},
+			{
+			  "end": 712.92,
+			  "start": 712.48,
+			  "text": "lose"
+			},
+			{
+			  "end": 713.48,
+			  "start": 712.92,
+			  "text": "data"
+			},
+			{
+			  "end": 713.48,
+			  "start": 713.48,
+			  "text": "or"
+			},
+			{
+			  "end": 713.48,
+			  "start": 713.48,
+			  "text": "you"
+			},
+			{
+			  "end": 713.52,
+			  "start": 713.48,
+			  "text": "are"
+			},
+			{
+			  "end": 714.36,
+			  "start": 713.52,
+			  "text": "unable"
+			},
+			{
+			  "end": 714.52,
+			  "start": 714.36,
+			  "text": "to"
+			},
+			{
+			  "end": 715.08,
+			  "start": 714.52,
+			  "text": "collect"
+			},
+			{
+			  "end": 715.32,
+			  "start": 715.08,
+			  "text": "data."
+			},
+			{
+			  "end": 715.32,
+			  "start": 715.32,
+			  "text": "But"
+			},
+			{
+			  "end": 715.8,
+			  "start": 715.32,
+			  "text": "this"
+			},
+			{
+			  "end": 716.4,
+			  "start": 715.8,
+			  "text": "was"
+			},
+			{
+			  "end": 716.56,
+			  "start": 716.4,
+			  "text": "about"
+			},
+			{
+			  "end": 716.8,
+			  "start": 716.56,
+			  "text": "just"
+			},
+			{
+			  "end": 717.28,
+			  "start": 716.8,
+			  "text": "the"
+			},
+			{
+			  "end": 717.72,
+			  "start": 717.28,
+			  "text": "wristband."
+			},
+			{
+			  "end": 718.04,
+			  "start": 717.72,
+			  "text": "But"
+			},
+			{
+			  "end": 718.44,
+			  "start": 718.04,
+			  "text": "if"
+			},
+			{
+			  "end": 718.48,
+			  "start": 718.44,
+			  "text": "you"
+			},
+			{
+			  "end": 718.72,
+			  "start": 718.48,
+			  "text": "are"
+			},
+			{
+			  "end": 718.72,
+			  "start": 718.72,
+			  "text": "about"
+			},
+			{
+			  "end": 718.72,
+			  "start": 718.72,
+			  "text": "to"
+			},
+			{
+			  "end": 719.96,
+			  "start": 718.72,
+			  "text": "collect"
+			}
+		  ],
+		  "text": " So the first limitation is that we encountered practical difficulties when collecting physiological data. In our case, when we tried to attach the wristband to the children's wrist, actually, some of the wrist were just so skinny that it didn't attach to the skin. And if it doesn't attach to the skin, you lose data or you are unable to collect data. But this was about just the wristband. But if you are about to collect"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 720.8,
+			  "start": 720,
+			  "text": "physiological"
+			},
+			{
+			  "end": 721.6,
+			  "start": 720.8,
+			  "text": "data"
+			},
+			{
+			  "end": 721.84,
+			  "start": 721.6,
+			  "text": "with"
+			},
+			{
+			  "end": 722.24,
+			  "start": 721.84,
+			  "text": "children"
+			},
+			{
+			  "end": 722.88,
+			  "start": 722.24,
+			  "text": "and"
+			},
+			{
+			  "end": 723.12,
+			  "start": 722.88,
+			  "text": "you"
+			},
+			{
+			  "end": 723.12,
+			  "start": 723.12,
+			  "text": "would"
+			},
+			{
+			  "end": 723.12,
+			  "start": 723.12,
+			  "text": "like"
+			},
+			{
+			  "end": 723.72,
+			  "start": 723.12,
+			  "text": "to"
+			},
+			{
+			  "end": 724.04,
+			  "start": 723.72,
+			  "text": "use"
+			},
+			{
+			  "end": 724.36,
+			  "start": 724.04,
+			  "text": "EEG"
+			},
+			{
+			  "end": 724.96,
+			  "start": 724.36,
+			  "text": "caps"
+			},
+			{
+			  "end": 725.4,
+			  "start": 724.96,
+			  "text": "or"
+			},
+			{
+			  "end": 725.88,
+			  "start": 725.4,
+			  "text": "eye"
+			},
+			{
+			  "end": 726.28,
+			  "start": 725.88,
+			  "text": "tracking"
+			},
+			{
+			  "end": 726.76,
+			  "start": 726.28,
+			  "text": "glasses,"
+			},
+			{
+			  "end": 726.84,
+			  "start": 726.76,
+			  "text": "UFA"
+			},
+			{
+			  "end": 727,
+			  "start": 726.84,
+			  "text": "is"
+			},
+			{
+			  "end": 727.28,
+			  "start": 727,
+			  "text": "the"
+			},
+			{
+			  "end": 727.6,
+			  "start": 727.28,
+			  "text": "same"
+			},
+			{
+			  "end": 728.32,
+			  "start": 727.6,
+			  "text": "issue."
+			},
+			{
+			  "end": 728.48,
+			  "start": 728.32,
+			  "text": "And"
+			},
+			{
+			  "end": 728.96,
+			  "start": 728.48,
+			  "text": "the"
+			},
+			{
+			  "end": 729.52,
+			  "start": 728.96,
+			  "text": "underlying"
+			},
+			{
+			  "end": 729.88,
+			  "start": 729.52,
+			  "text": "problem"
+			},
+			{
+			  "end": 730.28,
+			  "start": 729.88,
+			  "text": "is"
+			},
+			{
+			  "end": 730.36,
+			  "start": 730.28,
+			  "text": "that"
+			},
+			{
+			  "end": 731.04,
+			  "start": 730.36,
+			  "text": "these"
+			},
+			{
+			  "end": 731.76,
+			  "start": 731.04,
+			  "text": "devices"
+			},
+			{
+			  "end": 732.04,
+			  "start": 731.76,
+			  "text": "are"
+			},
+			{
+			  "end": 732.56,
+			  "start": 732.04,
+			  "text": "designed"
+			},
+			{
+			  "end": 732.92,
+			  "start": 732.56,
+			  "text": "for"
+			},
+			{
+			  "end": 733.96,
+			  "start": 732.92,
+			  "text": "adults."
+			},
+			{
+			  "end": 734.56,
+			  "start": 733.96,
+			  "text": "So"
+			},
+			{
+			  "end": 734.76,
+			  "start": 734.56,
+			  "text": "more"
+			},
+			{
+			  "end": 735.4,
+			  "start": 734.76,
+			  "text": "suitable"
+			},
+			{
+			  "end": 736.12,
+			  "start": 735.4,
+			  "text": "devices"
+			},
+			{
+			  "end": 736.32,
+			  "start": 736.12,
+			  "text": "for"
+			},
+			{
+			  "end": 737.12,
+			  "start": 736.32,
+			  "text": "child"
+			},
+			{
+			  "end": 737.48,
+			  "start": 737.12,
+			  "text": "users"
+			},
+			{
+			  "end": 737.68,
+			  "start": 737.48,
+			  "text": "are"
+			},
+			{
+			  "end": 738.32,
+			  "start": 737.68,
+			  "text": "really"
+			},
+			{
+			  "end": 739.28,
+			  "start": 738.32,
+			  "text": "needed"
+			},
+			{
+			  "end": 739.72,
+			  "start": 739.28,
+			  "text": "for"
+			},
+			{
+			  "end": 739.84,
+			  "start": 739.72,
+			  "text": "us"
+			},
+			{
+			  "end": 740.16,
+			  "start": 739.84,
+			  "text": "to"
+			},
+			{
+			  "end": 741.16,
+			  "start": 740.16,
+			  "text": "be"
+			},
+			{
+			  "end": 741.56,
+			  "start": 741.16,
+			  "text": "able"
+			},
+			{
+			  "end": 741.84,
+			  "start": 741.56,
+			  "text": "to"
+			},
+			{
+			  "end": 742.2,
+			  "start": 741.84,
+			  "text": "investigate"
+			},
+			{
+			  "end": 742.92,
+			  "start": 742.2,
+			  "text": "these"
+			},
+			{
+			  "end": 744.32,
+			  "start": 742.92,
+			  "text": "things"
+			},
+			{
+			  "end": 745.16,
+			  "start": 744.32,
+			  "text": "easier"
+			},
+			{
+			  "end": 745.4,
+			  "start": 745.16,
+			  "text": "and"
+			},
+			{
+			  "end": 745.96,
+			  "start": 745.4,
+			  "text": "perhaps"
+			},
+			{
+			  "end": 746,
+			  "start": 745.96,
+			  "text": "more"
+			},
+			{
+			  "end": 746.52,
+			  "start": 746,
+			  "text": "reliably."
+			},
+			{
+			  "end": 747,
+			  "start": 746.52,
+			  "text": "Another"
+			},
+			{
+			  "end": 748.4,
+			  "start": 747,
+			  "text": "limitation"
+			},
+			{
+			  "end": 748.8,
+			  "start": 748.4,
+			  "text": "is"
+			},
+			{
+			  "end": 749.12,
+			  "start": 748.8,
+			  "text": "that"
+			},
+			{
+			  "end": 749.56,
+			  "start": 749.12,
+			  "text": "we,"
+			},
+			{
+			  "end": 749.8,
+			  "start": 749.56,
+			  "text": "from"
+			},
+			{
+			  "end": 749.96,
+			  "start": 749.8,
+			  "text": "the"
+			}
+		  ],
+		  "text": " physiological data with children and you would like to use EEG caps or eye tracking glasses, UFA is the same issue. And the underlying problem is that these devices are designed for adults. So more suitable devices for child users are really needed for us to be able to investigate these things easier and perhaps more reliably. Another limitation is that we, from the"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 750.24,
+			  "start": 750,
+			  "text": "Six"
+			},
+			{
+			  "end": 750.88,
+			  "start": 750.24,
+			  "text": "dimensions"
+			},
+			{
+			  "end": 751.08,
+			  "start": 750.88,
+			  "text": "of"
+			},
+			{
+			  "end": 751.36,
+			  "start": 751.08,
+			  "text": "FUNC-U,"
+			},
+			{
+			  "end": 751.88,
+			  "start": 751.36,
+			  "text": "we"
+			},
+			{
+			  "end": 752.32,
+			  "start": 751.88,
+			  "text": "could"
+			},
+			{
+			  "end": 752.68,
+			  "start": 752.32,
+			  "text": "link"
+			},
+			{
+			  "end": 753,
+			  "start": 752.68,
+			  "text": "four"
+			},
+			{
+			  "end": 753.92,
+			  "start": 753,
+			  "text": "dimensions"
+			},
+			{
+			  "end": 754.12,
+			  "start": 753.92,
+			  "text": "to"
+			},
+			{
+			  "end": 754.8,
+			  "start": 754.12,
+			  "text": "physiological"
+			},
+			{
+			  "end": 755.12,
+			  "start": 754.8,
+			  "text": "markers,"
+			},
+			{
+			  "end": 755.44,
+			  "start": 755.12,
+			  "text": "but"
+			},
+			{
+			  "end": 755.88,
+			  "start": 755.44,
+			  "text": "two"
+			},
+			{
+			  "end": 756.48,
+			  "start": 755.88,
+			  "text": "dimensions"
+			},
+			{
+			  "end": 756.96,
+			  "start": 756.48,
+			  "text": "not."
+			},
+			{
+			  "end": 757.56,
+			  "start": 756.96,
+			  "text": "And"
+			},
+			{
+			  "end": 757.92,
+			  "start": 757.56,
+			  "text": "the"
+			},
+			{
+			  "end": 758.16,
+			  "start": 757.92,
+			  "text": "other"
+			},
+			{
+			  "end": 758.68,
+			  "start": 758.16,
+			  "text": "two"
+			},
+			{
+			  "end": 759.48,
+			  "start": 758.68,
+			  "text": "dimensions"
+			},
+			{
+			  "end": 759.48,
+			  "start": 759.48,
+			  "text": "that"
+			},
+			{
+			  "end": 759.52,
+			  "start": 759.48,
+			  "text": "we"
+			},
+			{
+			  "end": 759.92,
+			  "start": 759.52,
+			  "text": "could"
+			},
+			{
+			  "end": 759.96,
+			  "start": 759.92,
+			  "text": "not"
+			},
+			{
+			  "end": 760.32,
+			  "start": 759.96,
+			  "text": "were"
+			},
+			{
+			  "end": 760.92,
+			  "start": 760.32,
+			  "text": "the"
+			},
+			{
+			  "end": 761.48,
+			  "start": 760.92,
+			  "text": "autonomy"
+			},
+			{
+			  "end": 762,
+			  "start": 761.48,
+			  "text": "dimension"
+			},
+			{
+			  "end": 762,
+			  "start": 762,
+			  "text": "and"
+			},
+			{
+			  "end": 762.36,
+			  "start": 762,
+			  "text": "the"
+			},
+			{
+			  "end": 762.96,
+			  "start": 762.36,
+			  "text": "loss"
+			},
+			{
+			  "end": 763.36,
+			  "start": 762.96,
+			  "text": "of"
+			},
+			{
+			  "end": 763.76,
+			  "start": 763.36,
+			  "text": "social"
+			},
+			{
+			  "end": 764.16,
+			  "start": 763.76,
+			  "text": "barriers"
+			},
+			{
+			  "end": 764.92,
+			  "start": 764.16,
+			  "text": "dimensions."
+			},
+			{
+			  "end": 765.16,
+			  "start": 764.92,
+			  "text": "And"
+			},
+			{
+			  "end": 765.36,
+			  "start": 765.16,
+			  "text": "we"
+			},
+			{
+			  "end": 765.76,
+			  "start": 765.36,
+			  "text": "believe"
+			},
+			{
+			  "end": 766,
+			  "start": 765.76,
+			  "text": "that"
+			},
+			{
+			  "end": 767.28,
+			  "start": 766,
+			  "text": "the"
+			},
+			{
+			  "end": 768,
+			  "start": 767.28,
+			  "text": "reason"
+			},
+			{
+			  "end": 768.28,
+			  "start": 768,
+			  "text": "why"
+			},
+			{
+			  "end": 768.52,
+			  "start": 768.28,
+			  "text": "we"
+			},
+			{
+			  "end": 768.6,
+			  "start": 768.52,
+			  "text": "couldn't"
+			},
+			{
+			  "end": 768.76,
+			  "start": 768.6,
+			  "text": "link"
+			},
+			{
+			  "end": 768.8,
+			  "start": 768.76,
+			  "text": "these"
+			},
+			{
+			  "end": 769.2,
+			  "start": 768.8,
+			  "text": "to"
+			},
+			{
+			  "end": 770.56,
+			  "start": 769.2,
+			  "text": "physiological"
+			},
+			{
+			  "end": 771.48,
+			  "start": 770.56,
+			  "text": "markers"
+			},
+			{
+			  "end": 771.92,
+			  "start": 771.48,
+			  "text": "lies"
+			},
+			{
+			  "end": 772.16,
+			  "start": 771.92,
+			  "text": "in"
+			},
+			{
+			  "end": 772.32,
+			  "start": 772.16,
+			  "text": "the"
+			},
+			{
+			  "end": 772.36,
+			  "start": 772.32,
+			  "text": "type"
+			},
+			{
+			  "end": 772.64,
+			  "start": 772.36,
+			  "text": "of"
+			},
+			{
+			  "end": 772.96,
+			  "start": 772.64,
+			  "text": "and"
+			},
+			{
+			  "end": 773.28,
+			  "start": 772.96,
+			  "text": "sort"
+			},
+			{
+			  "end": 773.44,
+			  "start": 773.28,
+			  "text": "of"
+			},
+			{
+			  "end": 774.24,
+			  "start": 773.44,
+			  "text": "activity"
+			},
+			{
+			  "end": 774.64,
+			  "start": 774.24,
+			  "text": "that,"
+			},
+			{
+			  "end": 774.96,
+			  "start": 774.64,
+			  "text": "namely,"
+			},
+			{
+			  "end": 775.36,
+			  "start": 774.96,
+			  "text": "children"
+			},
+			{
+			  "end": 775.48,
+			  "start": 775.36,
+			  "text": "did"
+			},
+			{
+			  "end": 775.84,
+			  "start": 775.48,
+			  "text": "not"
+			},
+			{
+			  "end": 776.12,
+			  "start": 775.84,
+			  "text": "have"
+			},
+			{
+			  "end": 776.4,
+			  "start": 776.12,
+			  "text": "that"
+			},
+			{
+			  "end": 776.64,
+			  "start": 776.4,
+			  "text": "much"
+			},
+			{
+			  "end": 776.72,
+			  "start": 776.64,
+			  "text": "autonomy"
+			},
+			{
+			  "end": 776.72,
+			  "start": 776.72,
+			  "text": "in"
+			},
+			{
+			  "end": 777.2,
+			  "start": 776.72,
+			  "text": "their"
+			},
+			{
+			  "end": 777.72,
+			  "start": 777.2,
+			  "text": "activity"
+			},
+			{
+			  "end": 778.36,
+			  "start": 777.72,
+			  "text": "because"
+			},
+			{
+			  "end": 778.88,
+			  "start": 778.36,
+			  "text": "it"
+			},
+			{
+			  "end": 778.88,
+			  "start": 778.88,
+			  "text": "was"
+			},
+			{
+			  "end": 778.92,
+			  "start": 778.88,
+			  "text": "quite"
+			},
+			{
+			  "end": 779.96,
+			  "start": 778.92,
+			  "text": "straightforward."
+			}
+		  ],
+		  "text": " Six dimensions of FUNC-U, we could link four dimensions to physiological markers, but two dimensions not. And the other two dimensions that we could not were the autonomy dimension and the loss of social barriers dimensions. And we believe that the reason why we couldn't link these to physiological markers lies in the type of and sort of activity that, namely, children did not have that much autonomy in their activity because it was quite straightforward."
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 780.76,
+			  "start": 780,
+			  "text": "and"
+			},
+			{
+			  "end": 781.32,
+			  "start": 780.76,
+			  "text": "regarding"
+			},
+			{
+			  "end": 781.36,
+			  "start": 781.32,
+			  "text": "the"
+			},
+			{
+			  "end": 781.68,
+			  "start": 781.36,
+			  "text": "social"
+			},
+			{
+			  "end": 782.2,
+			  "start": 781.68,
+			  "text": "barrier"
+			},
+			{
+			  "end": 783.28,
+			  "start": 782.2,
+			  "text": "factor"
+			},
+			{
+			  "end": 783.6,
+			  "start": 783.28,
+			  "text": "that"
+			},
+			{
+			  "end": 784.44,
+			  "start": 783.6,
+			  "text": "they"
+			},
+			{
+			  "end": 784.92,
+			  "start": 784.44,
+			  "text": "were"
+			},
+			{
+			  "end": 785.28,
+			  "start": 784.92,
+			  "text": "already"
+			},
+			{
+			  "end": 785.36,
+			  "start": 785.28,
+			  "text": "a"
+			},
+			{
+			  "end": 785.72,
+			  "start": 785.36,
+			  "text": "class"
+			},
+			{
+			  "end": 785.76,
+			  "start": 785.72,
+			  "text": "and"
+			},
+			{
+			  "end": 785.92,
+			  "start": 785.76,
+			  "text": "they"
+			},
+			{
+			  "end": 786.08,
+			  "start": 785.92,
+			  "text": "knew"
+			},
+			{
+			  "end": 786.28,
+			  "start": 786.08,
+			  "text": "each"
+			},
+			{
+			  "end": 786.48,
+			  "start": 786.28,
+			  "text": "other"
+			},
+			{
+			  "end": 786.88,
+			  "start": 786.48,
+			  "text": "quite"
+			},
+			{
+			  "end": 787.52,
+			  "start": 786.88,
+			  "text": "well."
+			},
+			{
+			  "end": 788.04,
+			  "start": 787.52,
+			  "text": "So"
+			},
+			{
+			  "end": 788.04,
+			  "start": 788.04,
+			  "text": "we"
+			},
+			{
+			  "end": 788.44,
+			  "start": 788.04,
+			  "text": "really"
+			},
+			{
+			  "end": 788.6,
+			  "start": 788.44,
+			  "text": "would"
+			},
+			{
+			  "end": 788.8,
+			  "start": 788.6,
+			  "text": "like"
+			},
+			{
+			  "end": 789,
+			  "start": 788.8,
+			  "text": "to"
+			},
+			{
+			  "end": 790.16,
+			  "start": 789,
+			  "text": "investigate"
+			},
+			{
+			  "end": 790.64,
+			  "start": 790.16,
+			  "text": "FUNQ"
+			},
+			{
+			  "end": 790.84,
+			  "start": 790.64,
+			  "text": "and"
+			},
+			{
+			  "end": 791.84,
+			  "start": 790.84,
+			  "text": "FUN"
+			},
+			{
+			  "end": 791.96,
+			  "start": 791.84,
+			  "text": "in"
+			},
+			{
+			  "end": 792.6,
+			  "start": 791.96,
+			  "text": "total"
+			},
+			{
+			  "end": 793.32,
+			  "start": 792.6,
+			  "text": "and"
+			},
+			{
+			  "end": 793.48,
+			  "start": 793.32,
+			  "text": "all"
+			},
+			{
+			  "end": 793.8,
+			  "start": 793.48,
+			  "text": "the"
+			},
+			{
+			  "end": 794.32,
+			  "start": 793.8,
+			  "text": "dimensions"
+			},
+			{
+			  "end": 794.4,
+			  "start": 794.32,
+			  "text": "in"
+			},
+			{
+			  "end": 794.92,
+			  "start": 794.4,
+			  "text": "different"
+			},
+			{
+			  "end": 795.6,
+			  "start": 794.92,
+			  "text": "settings"
+			},
+			{
+			  "end": 795.84,
+			  "start": 795.6,
+			  "text": "and"
+			},
+			{
+			  "end": 796.12,
+			  "start": 795.84,
+			  "text": "this"
+			},
+			{
+			  "end": 796.32,
+			  "start": 796.12,
+			  "text": "way"
+			},
+			{
+			  "end": 796.44,
+			  "start": 796.32,
+			  "text": "I'm"
+			},
+			{
+			  "end": 797,
+			  "start": 796.44,
+			  "text": "thinking"
+			},
+			{
+			  "end": 797.48,
+			  "start": 797,
+			  "text": "about"
+			},
+			{
+			  "end": 797.92,
+			  "start": 797.48,
+			  "text": "for"
+			},
+			{
+			  "end": 798.32,
+			  "start": 797.92,
+			  "text": "example"
+			},
+			{
+			  "end": 798.36,
+			  "start": 798.32,
+			  "text": "in"
+			},
+			{
+			  "end": 798.68,
+			  "start": 798.36,
+			  "text": "formal"
+			},
+			{
+			  "end": 799.2,
+			  "start": 798.68,
+			  "text": "learning"
+			},
+			{
+			  "end": 799.96,
+			  "start": 799.2,
+			  "text": "environments"
+			},
+			{
+			  "end": 800.28,
+			  "start": 799.96,
+			  "text": "and"
+			},
+			{
+			  "end": 800.64,
+			  "start": 800.28,
+			  "text": "informal"
+			},
+			{
+			  "end": 801.08,
+			  "start": 800.64,
+			  "text": "learning"
+			},
+			{
+			  "end": 802.36,
+			  "start": 801.08,
+			  "text": "environments."
+			},
+			{
+			  "end": 802.68,
+			  "start": 802.36,
+			  "text": "And"
+			},
+			{
+			  "end": 802.88,
+			  "start": 802.68,
+			  "text": "the"
+			},
+			{
+			  "end": 803.72,
+			  "start": 802.88,
+			  "text": "third"
+			},
+			{
+			  "end": 804.28,
+			  "start": 803.72,
+			  "text": "limitation"
+			},
+			{
+			  "end": 804.4,
+			  "start": 804.28,
+			  "text": "I"
+			},
+			{
+			  "end": 804.8,
+			  "start": 804.4,
+			  "text": "would"
+			},
+			{
+			  "end": 804.8,
+			  "start": 804.8,
+			  "text": "like"
+			},
+			{
+			  "end": 804.8,
+			  "start": 804.8,
+			  "text": "to"
+			},
+			{
+			  "end": 805.44,
+			  "start": 804.8,
+			  "text": "discuss"
+			},
+			{
+			  "end": 805.68,
+			  "start": 805.44,
+			  "text": "here"
+			},
+			{
+			  "end": 805.84,
+			  "start": 805.68,
+			  "text": "with"
+			},
+			{
+			  "end": 806.16,
+			  "start": 805.84,
+			  "text": "you"
+			},
+			{
+			  "end": 807.44,
+			  "start": 806.16,
+			  "text": "is"
+			},
+			{
+			  "end": 808.08,
+			  "start": 807.44,
+			  "text": "actually"
+			},
+			{
+			  "end": 808.84,
+			  "start": 808.08,
+			  "text": "the"
+			},
+			{
+			  "end": 809.6,
+			  "start": 808.84,
+			  "text": "thing"
+			},
+			{
+			  "end": 809.96,
+			  "start": 809.6,
+			  "text": "that"
+			}
+		  ],
+		  "text": " and regarding the social barrier factor that they were already a class and they knew each other quite well. So we really would like to investigate FUNQ and FUN in total and all the dimensions in different settings and this way I'm thinking about for example in formal learning environments and informal learning environments. And the third limitation I would like to discuss here with you is actually the thing that"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 810.32,
+			  "start": 810,
+			  "text": "This"
+			},
+			{
+			  "end": 810.72,
+			  "start": 810.32,
+			  "text": "study"
+			},
+			{
+			  "end": 811.08,
+			  "start": 810.72,
+			  "text": "was"
+			},
+			{
+			  "end": 811.52,
+			  "start": 811.08,
+			  "text": "a"
+			},
+			{
+			  "end": 812.52,
+			  "start": 811.52,
+			  "text": "quantitative"
+			},
+			{
+			  "end": 813.32,
+			  "start": 812.52,
+			  "text": "study"
+			},
+			{
+			  "end": 813.68,
+			  "start": 813.32,
+			  "text": "and"
+			},
+			{
+			  "end": 813.8,
+			  "start": 813.68,
+			  "text": "it"
+			},
+			{
+			  "end": 814.2,
+			  "start": 813.8,
+			  "text": "would"
+			},
+			{
+			  "end": 814.68,
+			  "start": 814.2,
+			  "text": "be"
+			},
+			{
+			  "end": 815.08,
+			  "start": 814.68,
+			  "text": "very"
+			},
+			{
+			  "end": 815.92,
+			  "start": 815.08,
+			  "text": "beneficial"
+			},
+			{
+			  "end": 816,
+			  "start": 815.92,
+			  "text": "to"
+			},
+			{
+			  "end": 816.84,
+			  "start": 816,
+			  "text": "triangulate"
+			},
+			{
+			  "end": 816.92,
+			  "start": 816.84,
+			  "text": "the"
+			},
+			{
+			  "end": 817.68,
+			  "start": 816.92,
+			  "text": "results"
+			},
+			{
+			  "end": 818.08,
+			  "start": 817.68,
+			  "text": "with"
+			},
+			{
+			  "end": 819.68,
+			  "start": 818.08,
+			  "text": "qualitative"
+			},
+			{
+			  "end": 820.2,
+			  "start": 819.68,
+			  "text": "insights"
+			},
+			{
+			  "end": 820.68,
+			  "start": 820.2,
+			  "text": "to"
+			},
+			{
+			  "end": 820.84,
+			  "start": 820.68,
+			  "text": "get"
+			},
+			{
+			  "end": 821.16,
+			  "start": 820.84,
+			  "text": "a"
+			},
+			{
+			  "end": 821.56,
+			  "start": 821.16,
+			  "text": "more"
+			},
+			{
+			  "end": 821.76,
+			  "start": 821.56,
+			  "text": "deeper"
+			},
+			{
+			  "end": 822.72,
+			  "start": 821.76,
+			  "text": "understanding"
+			},
+			{
+			  "end": 823.32,
+			  "start": 822.72,
+			  "text": "of"
+			},
+			{
+			  "end": 823.84,
+			  "start": 823.32,
+			  "text": "children's"
+			},
+			{
+			  "end": 824.72,
+			  "start": 823.84,
+			  "text": "behaviour."
+			},
+			{
+			  "end": 824.96,
+			  "start": 824.72,
+			  "text": "And"
+			},
+			{
+			  "end": 825.52,
+			  "start": 824.96,
+			  "text": "when"
+			},
+			{
+			  "end": 825.84,
+			  "start": 825.52,
+			  "text": "I'm"
+			},
+			{
+			  "end": 826.32,
+			  "start": 825.84,
+			  "text": "talking"
+			},
+			{
+			  "end": 826.6,
+			  "start": 826.32,
+			  "text": "about"
+			},
+			{
+			  "end": 827.56,
+			  "start": 826.6,
+			  "text": "qualitative"
+			},
+			{
+			  "end": 827.96,
+			  "start": 827.56,
+			  "text": "insights,"
+			},
+			{
+			  "end": 828.08,
+			  "start": 827.96,
+			  "text": "it"
+			},
+			{
+			  "end": 828.4,
+			  "start": 828.08,
+			  "text": "could"
+			},
+			{
+			  "end": 828.92,
+			  "start": 828.4,
+			  "text": "be"
+			},
+			{
+			  "end": 829.92,
+			  "start": 828.92,
+			  "text": "interviews"
+			},
+			{
+			  "end": 830.28,
+			  "start": 829.92,
+			  "text": "or"
+			},
+			{
+			  "end": 831.36,
+			  "start": 830.28,
+			  "text": "observations."
+			},
+			{
+			  "end": 831.6,
+			  "start": 831.36,
+			  "text": "Again,"
+			},
+			{
+			  "end": 831.92,
+			  "start": 831.6,
+			  "text": "a"
+			},
+			{
+			  "end": 832,
+			  "start": 831.92,
+			  "text": "thing"
+			},
+			{
+			  "end": 832.36,
+			  "start": 832,
+			  "text": "that"
+			},
+			{
+			  "end": 832.68,
+			  "start": 832.36,
+			  "text": "we"
+			},
+			{
+			  "end": 833.28,
+			  "start": 832.68,
+			  "text": "should"
+			},
+			{
+			  "end": 833.52,
+			  "start": 833.28,
+			  "text": "think"
+			},
+			{
+			  "end": 834.08,
+			  "start": 833.52,
+			  "text": "about"
+			},
+			{
+			  "end": 834.56,
+			  "start": 834.08,
+			  "text": "when"
+			},
+			{
+			  "end": 834.8,
+			  "start": 834.56,
+			  "text": "we"
+			},
+			{
+			  "end": 834.96,
+			  "start": 834.8,
+			  "text": "are"
+			},
+			{
+			  "end": 835.28,
+			  "start": 834.96,
+			  "text": "about"
+			},
+			{
+			  "end": 835.28,
+			  "start": 835.28,
+			  "text": "to"
+			},
+			{
+			  "end": 835.56,
+			  "start": 835.28,
+			  "text": "plan"
+			},
+			{
+			  "end": 835.88,
+			  "start": 835.56,
+			  "text": "these"
+			},
+			{
+			  "end": 835.96,
+			  "start": 835.88,
+			  "text": "sort"
+			},
+			{
+			  "end": 836,
+			  "start": 835.96,
+			  "text": "of"
+			},
+			{
+			  "end": 836.72,
+			  "start": 836,
+			  "text": "studies"
+			},
+			{
+			  "end": 837.28,
+			  "start": 836.72,
+			  "text": "is"
+			},
+			{
+			  "end": 837.52,
+			  "start": 837.28,
+			  "text": "what"
+			},
+			{
+			  "end": 838.08,
+			  "start": 837.52,
+			  "text": "kind"
+			},
+			{
+			  "end": 838.08,
+			  "start": 838.08,
+			  "text": "of"
+			},
+			{
+			  "end": 838.92,
+			  "start": 838.08,
+			  "text": "interventions,"
+			},
+			{
+			  "end": 839.2,
+			  "start": 838.92,
+			  "text": "what"
+			},
+			{
+			  "end": 839.2,
+			  "start": 839.2,
+			  "text": "kind"
+			},
+			{
+			  "end": 839.2,
+			  "start": 839.2,
+			  "text": "of"
+			},
+			{
+			  "end": 839.48,
+			  "start": 839.2,
+			  "text": "interviews"
+			},
+			{
+			  "end": 839.6,
+			  "start": 839.48,
+			  "text": "do"
+			},
+			{
+			  "end": 839.96,
+			  "start": 839.6,
+			  "text": "you"
+			}
+		  ],
+		  "text": " This study was a quantitative study and it would be very beneficial to triangulate the results with qualitative insights to get a more deeper understanding of children's behaviour. And when I'm talking about qualitative insights, it could be interviews or observations. Again, a thing that we should think about when we are about to plan these sort of studies is what kind of interventions, what kind of interviews do you"
+		},
+		{
+		  "chunks": [
+			{
+			  "end": 840.84,
+			  "start": 840,
+			  "text": "to"
+			},
+			{
+			  "end": 841.36,
+			  "start": 840.84,
+			  "text": "put"
+			},
+			{
+			  "end": 842.48,
+			  "start": 841.36,
+			  "text": "into"
+			},
+			{
+			  "end": 843.04,
+			  "start": 842.48,
+			  "text": "practice"
+			},
+			{
+			  "end": 843.56,
+			  "start": 843.04,
+			  "text": "because"
+			},
+			{
+			  "end": 844.2,
+			  "start": 843.56,
+			  "text": "we"
+			},
+			{
+			  "end": 844.76,
+			  "start": 844.2,
+			  "text": "might"
+			},
+			{
+			  "end": 845.08,
+			  "start": 844.76,
+			  "text": "as"
+			},
+			{
+			  "end": 845.48,
+			  "start": 845.08,
+			  "text": "well"
+			},
+			{
+			  "end": 846.4,
+			  "start": 845.48,
+			  "text": "disrupt"
+			},
+			{
+			  "end": 847,
+			  "start": 846.4,
+			  "text": "the"
+			},
+			{
+			  "end": 847.12,
+			  "start": 847,
+			  "text": "learning"
+			},
+			{
+			  "end": 847.28,
+			  "start": 847.12,
+			  "text": "activity"
+			},
+			{
+			  "end": 847.56,
+			  "start": 847.28,
+			  "text": "which"
+			},
+			{
+			  "end": 847.68,
+			  "start": 847.56,
+			  "text": "we"
+			},
+			{
+			  "end": 847.88,
+			  "start": 847.68,
+			  "text": "are"
+			},
+			{
+			  "end": 848.16,
+			  "start": 847.88,
+			  "text": "trying"
+			},
+			{
+			  "end": 848.32,
+			  "start": 848.16,
+			  "text": "to"
+			},
+			{
+			  "end": 849.12,
+			  "start": 848.32,
+			  "text": "avoid"
+			},
+			{
+			  "end": 849.32,
+			  "start": 849.12,
+			  "text": "when"
+			},
+			{
+			  "end": 849.48,
+			  "start": 849.32,
+			  "text": "we"
+			},
+			{
+			  "end": 849.72,
+			  "start": 849.48,
+			  "text": "are"
+			},
+			{
+			  "end": 849.84,
+			  "start": 849.72,
+			  "text": "about"
+			},
+			{
+			  "end": 849.84,
+			  "start": 849.84,
+			  "text": "to"
+			},
+			{
+			  "end": 850.28,
+			  "start": 849.84,
+			  "text": "use"
+			},
+			{
+			  "end": 851.04,
+			  "start": 850.28,
+			  "text": "physiological"
+			},
+			{
+			  "end": 851.24,
+			  "start": 851.04,
+			  "text": "data."
+			},
+			{
+			  "end": 851.76,
+			  "start": 851.24,
+			  "text": "So"
+			},
+			{
+			  "end": 852.36,
+			  "start": 851.76,
+			  "text": "this"
+			},
+			{
+			  "end": 852.92,
+			  "start": 852.36,
+			  "text": "is"
+			},
+			{
+			  "end": 853.44,
+			  "start": 852.92,
+			  "text": "the"
+			},
+			{
+			  "end": 853.72,
+			  "start": 853.44,
+			  "text": "end"
+			},
+			{
+			  "end": 853.72,
+			  "start": 853.72,
+			  "text": "of"
+			},
+			{
+			  "end": 853.72,
+			  "start": 853.72,
+			  "text": "the"
+			},
+			{
+			  "end": 854.44,
+			  "start": 853.72,
+			  "text": "limitations"
+			},
+			{
+			  "end": 855.04,
+			  "start": 854.44,
+			  "text": "section"
+			},
+			{
+			  "end": 855.28,
+			  "start": 855.04,
+			  "text": "and"
+			},
+			{
+			  "end": 855.88,
+			  "start": 855.28,
+			  "text": "actually"
+			},
+			{
+			  "end": 856.04,
+			  "start": 855.88,
+			  "text": "my"
+			},
+			{
+			  "end": 856.8,
+			  "start": 856.04,
+			  "text": "presentation"
+			},
+			{
+			  "end": 857.08,
+			  "start": 856.8,
+			  "text": "as"
+			},
+			{
+			  "end": 857.84,
+			  "start": 857.08,
+			  "text": "well."
+			},
+			{
+			  "end": 863.44,
+			  "start": 857.84,
+			  "text": "Thank"
+			},
+			{
+			  "end": 863.64,
+			  "start": 863.44,
+			  "text": "you."
+			}
+		  ],
+		  "text": " to put into practice because we might as well disrupt the learning activity which we are trying to avoid when we are about to use physiological data. So this is the end of the limitations section and actually my presentation as well. Thank you."
+		}
+	  ]
+	}
+  }

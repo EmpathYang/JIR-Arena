@@ -19,6 +19,7 @@ In summary, this code repo includes the implementation of:
 
 Additionally, it includes crucial data including:
 * The metainfo of scenes in JIR-Arena.
+* Video trancripts and narratives.
 * The benchmark ground truth.
 * Baseline runs.
 
