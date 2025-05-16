@@ -1,0 +1,34 @@
+{
+	"settings": {
+	  "analysis": {
+		"analyzer": {
+		  "custom_english": {
+			"type": "custom",
+			"tokenizer": "standard",
+			"filter": [
+			  "lowercase",
+			  "english_stop"
+			]
+		  }
+		},
+		"filter": {
+		  "english_stop": {
+			"type": "stop",
+			"stopwords": "_english_"
+		  }
+		}
+	  }
+	},
+	"mappings": {
+	  "properties": {
+		"id": {
+		  "type": "text"
+		},
+		"contents": {
+		  "type": "text",
+		  "analyzer": "custom_english"
+		}
+	  }
+	}
+  }
+  
