@@ -9,3 +9,4 @@ pandas
 upsetplot
 sentence_transformers
 seaborn
+dotenv

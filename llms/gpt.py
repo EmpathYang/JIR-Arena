@@ -153,4 +153,4 @@ def call_gpt_with_messages(messages, model_id="gpt-4o", system_prompt=DEFAULT_SY
             num_attempts += 1
 
 if __name__ == "__main__":
-    print(call_gpt("hello",model_id="gpt-4o"))    
+    print(call_gpt("Hi",model_id="gpt-4o"))    
