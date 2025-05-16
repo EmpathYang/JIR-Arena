@@ -23,4 +23,4 @@ Additionally, it includes crucial data including:
 * The benchmark ground truth.
 * Baseline runs.
 
-You can find our knowledge bases for the information retrieval stage [here]().
+You can find our knowledge bases for the information retrieval stage [here](https://huggingface.co/datasets/EmpathYang/JIR-Arena).
