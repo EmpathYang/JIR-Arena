@@ -5,12 +5,18 @@ from PIL import Image
 import base64
 import io
 import time
-
+import os
 from llms.utils import DEFAULT_SYSTEM_PROMPT
+from dotenv import load_dotenv
+load_dotenv()
 
-def call_claude(prompt, model_id="arn:aws:bedrock:us-east-2:717279722391:inference-profile/us.anthropic.claude-3-5-sonnet-20240620-v1:0", system_prompt=DEFAULT_SYSTEM_PROMPT, region_name="us-east-2"):
+aws_region = os.environ.get("AWS_REGION", None)
+aws_access_key = os.environ.get("AWS_ACCESS_KEY_ID", None)
+aws_secret_access_key = os.environ.get("AWS_SECRET_ACCESS_KEY", None)
+
+def call_claude(prompt, model_id="arn:aws:bedrock:us-east-2:717279722391:inference-profile/us.anthropic.claude-3-5-sonnet-20240620-v1:0", system_prompt=DEFAULT_SYSTEM_PROMPT):
     # Create a Bedrock Runtime client in the AWS Region of your choice.
-    client = boto3.client("bedrock-runtime", region_name=region_name)
+    client = boto3.client("bedrock-runtime", region_name=aws_region)
 
     # Format the request payload using the model's native structure.
     native_request = {
@@ -114,7 +120,7 @@ def arrange_message_for_claude(item_list):
 
 def call_claude_with_messages(messages, model_id="arn:aws:bedrock:us-east-2:717279722391:inference-profile/us.anthropic.claude-3-5-sonnet-20240620-v1:0", system_prompt=DEFAULT_SYSTEM_PROMPT):
     # Create a Bedrock Runtime client in the AWS Region of your choice.
-    client = boto3.client("bedrock-runtime", region_name="us-east-2")
+    client = boto3.client("bedrock-runtime", region_name=aws_region)
 
     # Format the request payload using the model's native structure.
     native_request = {
