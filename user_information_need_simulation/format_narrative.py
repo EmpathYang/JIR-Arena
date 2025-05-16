@@ -1,27 +1,3 @@
-# import json
-# import os
-# from utils import CURRENT_DIR, PROMPT_DIR, extract_json
-
-# def load_json(file_path):
-#     with open(file_path, "r") as f:
-#         return json.load(f)
-
-
-# video_narrative = load_json(os.path.join(CURRENT_DIR, "video_narratives"))
-
-# for idx, item in enumerate(video_narrative, start=1):
-#     item['id'] = str(idx)
-#     item['sentence'] = item['narrative']
-#     item['type'] = "video"
-#     del item['narrative']
-
-# wrapped_output = {
-#         "sentences": video_narrative
-#     }
-
-# with open("formatted_narrative.json", "w") as f:
-#     json.dump(wrapped_output, f, indent=4)
-
 import json
 import os
 from utils import CURRENT_DIR

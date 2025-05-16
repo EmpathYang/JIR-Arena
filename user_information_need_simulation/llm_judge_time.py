@@ -9,24 +9,8 @@ from llms.utils import INFORMATION_NEED_SYSTEM_PROMPT
 from utils import CURRENT_DIR, PROMPT_DIR, NEEDS_DIR, extract_json, load_json, load_prompt
 from tqdm import tqdm
 from typing import Dict, List, Any
-from end_time_finder import build_sentence_map
+from user_information_need_simulation.end_time_finder import build_sentence_map
 from llm_judge import invoke_llm, generate_summary, find_end_time
-
-
-# def invoke_llm(prompt, model_id, system_prompt=INFORMATION_NEED_SYSTEM_PROMPT, max_retries=10, retry_delay=3):
-#     for attempt in range(max_retries):
-#         try:
-#             response = call_model(prompt, model_id=model_id, system_prompt=system_prompt)
-#             json_str = extract_json(response)
-#             return json.loads(json_str)
-#         except json.JSONDecodeError:
-#             print(f"[Attempt {attempt + 1}] JSON decoding failed. Retrying...")
-#             time.sleep(retry_delay)
-#         except Exception as e:
-#             print(f"Unexpected error: {e}")
-#             break
-#     print("Max retries reached. Skipping this chunk.")
-#     return {}
 
 
 def get_end_time_values(end_sentence_id, sentence_map: Dict[str, str]) -> List[Dict]:
@@ -35,38 +19,6 @@ def get_end_time_values(end_sentence_id, sentence_map: Dict[str, str]) -> List[D
     if end_sentence_id and end_sentence_id in sentence_map:
         end_time_value = sentence_map[end_sentence_id]['end']
     return end_time_value
-
-# def generate_summary(history_sentences, summary_prompt_template, model_id):
-#     if len(history_sentences) == 0:
-#         return ""
-#     history_text = " ".join([s["sentence"] for s in history_sentences])
-#     prompt = summary_prompt_template.replace("{{Sentences}}", history_text)
-#     try:
-#         response = invoke_llm(prompt, model_id)
-#         return response.get("summary", "")
-#     except Exception as e:
-#         print(f"Error generating summary: {e}")
-#         return ""
-
-
-# def find_end_time(summary, prev_sentences, chunk, next_sentences, info_needs, find_end_time_prompt_template, model_id):
-#     try:
-#         prev_text = ". ".join([s["sentence"] for s in prev_sentences])
-#         next_text = ". ".join([s["sentence"] for s in next_sentences])
-#         prompt = (
-#             find_end_time_prompt_template
-#                 .replace("{{Summary}}", str(summary))
-#                 .replace("{{Prev_Sentences}}", prev_text)
-#                 .replace("{{Next_Sentences}}", json.dumps(next_sentences))
-#                 .replace("{{Information_Need}}", json.dumps(info_needs))
-#                 .replace("{{Transcript_Chunk}}", json.dumps(chunk))
-#         )
-#         response = invoke_llm(prompt, model_id)
-#         return response
-#     except Exception as e:
-#         print("Error finding end time:", e)
-#         return {}
-
 
 def process_transcript(args):
     all_needs_data = load_json(os.path.join(CURRENT_DIR, args.needs_file)).get("needs", [])
