@@ -1,0 +1,33 @@
+For the needs identified below, add the `need` that best describes the required need and the `question` that rephrases the need into a question.  I will provide you with a summary of the presentation so far and a transcript segment for which the needs were identified. 
+Return a JSON list with `sentence_id`, `type`, `subtype`, `reason`, `need` and `question` for each need.  Ensure the output is strictly JSON-compliant 
+
+Summary of Presentation So Far:
+{{Background_Context}}
+
+Presentation Transcript Segment:
+{{Transcript_Chunk}}
+
+Identified Information Needs:
+{{Information_Need}}
+
+Output Format (JSON):
+{
+  "information_needs": [
+    {
+      "sentence_id": "sentence_id",
+      "type": "need type",
+      "subtype": "need subtype",
+      "reason": "reason for need"
+      "need": "need description",
+      "question": "need rephrased as a question"
+    },
+    {
+      "sentence_id": "sentence_id",
+      "type": "need type",
+      "subtype": "need subtype",
+      "reason": "reason for need"
+      "need": "need description",
+      "question": "need rephrased as a question"
+    },
+  ]
+}

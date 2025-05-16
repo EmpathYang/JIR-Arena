@@ -104,3 +104,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# python3 deduplicator.py --output deduplicated.json --input_folder output/procastination/aggregated --threshold 0.85
